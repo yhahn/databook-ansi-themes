@@ -1,0 +1,46 @@
+[
+ {
+  "rule": "V1",
+  "about": "a theme file as Ghostty writes it, read whole: Nord",
+  "input": "palette = 0=#3b4252\npalette = 1=#bf616a\npalette = 2=#a3be8c\npalette = 3=#ebcb8b\npalette = 4=#81a1c1\npalette = 5=#b48ead\npalette = 6=#88c0d0\npalette = 7=#e5e9f0\npalette = 8=#596377\npalette = 9=#bf616a\npalette = 10=#a3be8c\npalette = 11=#ebcb8b\npalette = 12=#81a1c1\npalette = 13=#b48ead\npalette = 14=#8fbcbb\npalette = 15=#eceff4\nbackground = #2e3440\nforeground = #d8dee9\ncursor-color = #eceff4\ncursor-text = #282828\nselection-background = #eceff4\nselection-foreground = #4c566a\n",
+  "output": {
+   "background": "#2e3440",
+   "foreground": "#d8dee9",
+   "palette4": "#81a1c1",
+   "palette15": "#eceff4"
+  }
+ },
+ {
+  "rule": "V1",
+  "about": "upstream quirks read, not refused: no space before = and an upper-case hex (hazyland, 2026-10-16)",
+  "input": "background= #171219\nforeground = #c9bec1\ncursor-color = #c9bec1\ncursor-text = #171219\nselection-background = #0D2847\nselection-foreground = #c9bec1\npalette = 0=#000000\npalette = 1=#000001\npalette = 2=#000002\npalette = 3=#000003\npalette = 4=#000004\npalette = 5=#000005\npalette = 6=#000006\npalette = 7=#000007\npalette = 8=#000008\npalette = 9=#000009\npalette = 10=#00000a\npalette = 11=#00000b\npalette = 12=#00000c\npalette = 13=#00000d\npalette = 14=#00000e\npalette = 15=#00000f",
+  "output": {
+   "background": "#171219",
+   "selection": "#0d2847"
+  }
+ },
+ {
+  "rule": "V1",
+  "about": "a palette colour missing stops the import",
+  "input": "palette = 0=#3b4252\npalette = 1=#bf616a\npalette = 2=#a3be8c\npalette = 3=#ebcb8b\npalette = 4=#81a1c1\npalette = 5=#b48ead\npalette = 6=#88c0d0\npalette = 8=#596377\npalette = 9=#bf616a\npalette = 10=#a3be8c\npalette = 11=#ebcb8b\npalette = 12=#81a1c1\npalette = 13=#b48ead\npalette = 14=#8fbcbb\npalette = 15=#eceff4\nbackground = #2e3440\nforeground = #d8dee9\ncursor-color = #eceff4\ncursor-text = #282828\nselection-background = #eceff4\nselection-foreground = #4c566a\n",
+  "output": {
+   "error": "missing palette 7"
+  }
+ },
+ {
+  "rule": "V1",
+  "about": "an unknown key stops the import",
+  "input": "palette = 0=#3b4252\npalette = 1=#bf616a\npalette = 2=#a3be8c\npalette = 3=#ebcb8b\npalette = 4=#81a1c1\npalette = 5=#b48ead\npalette = 6=#88c0d0\npalette = 7=#e5e9f0\npalette = 8=#596377\npalette = 9=#bf616a\npalette = 10=#a3be8c\npalette = 11=#ebcb8b\npalette = 12=#81a1c1\npalette = 13=#b48ead\npalette = 14=#8fbcbb\npalette = 15=#eceff4\nbackground = #2e3440\nforeground = #d8dee9\ncursor-color = #eceff4\ncursor-text = #282828\nselection-background = #eceff4\nselection-foreground = #4c566a\nfont-family = Iosevka\n",
+  "output": {
+   "error": "an unknown key font-family"
+  }
+ },
+ {
+  "rule": "B3",
+  "about": "Nord, its whole page: written by the importer from ghostty/Nord at c379d7a, checked by hand against the file colour by colour (2026-10-16), then frozen",
+  "input": "palette = 0=#3b4252\npalette = 1=#bf616a\npalette = 2=#a3be8c\npalette = 3=#ebcb8b\npalette = 4=#81a1c1\npalette = 5=#b48ead\npalette = 6=#88c0d0\npalette = 7=#e5e9f0\npalette = 8=#596377\npalette = 9=#bf616a\npalette = 10=#a3be8c\npalette = 11=#ebcb8b\npalette = 12=#81a1c1\npalette = 13=#b48ead\npalette = 14=#8fbcbb\npalette = 15=#eceff4\nbackground = #2e3440\nforeground = #d8dee9\ncursor-color = #eceff4\ncursor-text = #282828\nselection-background = #eceff4\nselection-foreground = #4c566a\n",
+  "output": {
+   "page": "# Theme: Nord\n\n- Dark: yes\n- Background: `#2e3440`\n- Foreground: `#d8dee9`\n- Cursor: `#eceff4`\n- Cursor text: `#282828`\n- Selection: `#eceff4`\n- Selection text: `#4c566a`\n- Contrast: 9.25\n- Same brights: 5\n- Licence: MIT\n- Licence from: https://github.com/nordtheme/nord\n- Default: yes\n- Credit: Nord theme was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [Teraskull](https://github.com/Teraskull)\n- Made from: [iTerm2-Color-Schemes, ghostty/Nord](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Nord)\n\nThe dark terminal theme Nord: its background, text, cursor and selection, and the sixteen colours a terminal names 0 to 15. Contrast is its text's against its background (WCAG; 4.5 reads well, 7 very well).\n\n## Palette\n\n| Index | Name | Colour |\n| --- | --- | --- |\n| 0 | Black | `#3b4252` |\n| 1 | Red | `#bf616a` |\n| 2 | Green | `#a3be8c` |\n| 3 | Yellow | `#ebcb8b` |\n| 4 | Blue | `#81a1c1` |\n| 5 | Magenta | `#b48ead` |\n| 6 | Cyan | `#88c0d0` |\n| 7 | White | `#e5e9f0` |\n| 8 | Bright Black | `#596377` |\n| 9 | Bright Red | `#bf616a` |\n| 10 | Bright Green | `#a3be8c` |\n| 11 | Bright Yellow | `#ebcb8b` |\n| 12 | Bright Blue | `#81a1c1` |\n| 13 | Bright Magenta | `#b48ead` |\n| 14 | Bright Cyan | `#8fbcbb` |\n| 15 | Bright White | `#eceff4` |\n"
+  }
+ }
+]
