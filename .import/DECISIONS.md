@@ -38,9 +38,10 @@ Small things decided while making the book, each reversible (CLAUDE.md,
 - **themes.json** at the root, from the same run as the pages, so the two
   cannot disagree: the one way cards.md reads themes on every host
   (engine, 10-16), pinned by cards.md to a commit of this book.
-- **LICENSE is upstream's,** kept as its MIT asks. This book claims
-  nothing of the themes. A licence for our own part (the importer, the
-  pages' words) is the person's, when the book goes public.
+- **LICENSE in two parts:** upstream's MIT notice for the themes, kept
+  as it asks (the book claims nothing of them), and CC0 for our own work,
+  the importer and the pages' words (the person, 10-16, as for HUD, Water
+  and Companies). Public under github.com/yhahn (the person, 10-16).
 - **Colours as code spans** (`` `#2e3440` ``), so cards.md draws a swatch
   beside each (engine's convention, 10-16). proper gathers the backticks
   with the value; told to engine.

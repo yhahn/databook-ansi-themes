@@ -54,6 +54,10 @@ select name, Dark, Contrast from Theme order by Contrast limit 10
 
 [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes), kept by Mark Badolato and its contributors, its `ghostty/` folder at commit `c379d7a31af8` (2026-10-16). Its LICENSE, kept here as LICENSE: "MIT License, Copyright (c) 2011 to Present Mark Badolato ... This license covers the iTerm-Color-Schemes repository collection of themes. The copyright/license for each individual theme belongs to the author of that theme." So this book claims nothing of the themes: each is its author's, credited as upstream credits it. A theme's Licence is filled only where its own project states one, checked by hand against that project (`.import/licences.md`); the rest are "unstated", and are in the book, not shipped by default.
 
+## Licence
+
+Two parts ([LICENSE](LICENSE)). The themes are upstream's, under its MIT notice, each its author's as above. Our own work, the importer and the pages' words, is given to the public domain under CC0 1.0: copy it, change it and use it as you like, without asking.
+
 ## Our own themes
 
 A theme of our own, or our fix to one of upstream's, is a page in this book's shape in `.import/ours/`; the importer checks it as it checks upstream's and writes it beside them (or in place of upstream's of the same name, its Made from saying so). There are none yet. A fix to upstream's theme is best sent upstream too.

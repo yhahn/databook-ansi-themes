@@ -225,7 +225,17 @@ function build() {
     palette_rows: all.length * 16, commit, date: when,
   };
   fs.writeFileSync(path.join(__dirname, 'counts.json'), JSON.stringify(counts, null, 1) + '\n');
-  fs.writeFileSync(path.join(REPO, 'LICENSE'), fs.readFileSync(path.join(SRC, 'LICENSE'), 'utf8'));
+  // Two parts: the themes are upstream's (its MIT notice, kept as it asks);
+  // our own work, the importer and the pages' words, is CC0 (the person,
+  // 10-16).
+  fs.writeFileSync(path.join(REPO, 'LICENSE'), [
+    'This book has two parts, licensed differently.', '',
+    '1. The themes (their names and colours, in the pages and themes.json) are',
+    '   from iTerm2-Color-Schemes, under its licence, kept here whole:', '',
+    fs.readFileSync(path.join(SRC, 'LICENSE'), 'utf8').trim(), '',
+    '2. Our own work (the importer in .import/, and the pages\' words beyond the',
+    '   themes themselves) is given to the public domain under CC0 1.0:', '',
+    fs.readFileSync(path.join(__dirname, 'CC0.txt'), 'utf8').trim(), ''].join('\n'));
   require('./readme').write(counts, folders, byFolder);
   return counts;
 }
