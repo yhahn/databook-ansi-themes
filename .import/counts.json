@@ -9,6 +9,8 @@
  "default": 52,
  "credited": 486,
  "palette_rows": 13056,
+ "renamed": 0,
+ "removed": 0,
  "commit": "c379d7a31af861838a017468b03120c8970eaa00",
  "date": "2026-10-16"
 }

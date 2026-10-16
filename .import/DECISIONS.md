@@ -45,3 +45,12 @@ Small things decided while making the book, each reversible (CLAUDE.md,
 - **Colours as code spans** (`` `#2e3440` ``), so cards.md draws a swatch
   beside each (engine's convention, 10-16). proper gathers the backticks
   with the value; told to engine.
+- **A rename is found by colour** (V4, D5; engine asked, 10-16: a config's
+  `scheme` row names a theme). At each edition, a theme gone while a new
+  name holds the very same colours is a rename: `aliases` in themes.json
+  (old to new, carried forward and pointed at the latest), and a
+  `### Change:` in Changes.md. Gone otherwise: `removed`, with the
+  upstream commit it went at. A rename that also changes a colour reads
+  as a removal and an addition: said, never guessed. Tried on a copy
+  against a doctored upstream (Nord renamed, Zenburn dropped), run twice.
+

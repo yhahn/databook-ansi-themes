@@ -77,4 +77,4 @@ A new edition is upstream pulled and the importer run again; the diff is the new
 
 ## Changes
 
-The first edition (2026-10-16); none yet.
+The first edition (2026-10-16). At each edition the importer compares upstream with the last: a theme gone while another appears with the very same colours is a rename, its old name kept in themes.json's `aliases` (old to new, carried forward) so a config naming it still resolves; a theme gone otherwise is listed in `removed`. Each is a record in Changes.md. None yet.

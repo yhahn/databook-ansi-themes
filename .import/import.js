@@ -215,14 +215,47 @@ function build() {
       palette: t.palette, licence: t.licence, default: t.default,
     };
   }
+  // V4, D5: against the last edition. A name gone while a new name holds
+  // the very same colours is a rename: kept in `aliases` (old -> new, every
+  // old name carried forward and pointed at the latest), so a config naming
+  // the old one still resolves. A name gone otherwise is said as removed.
+  const last = (() => { try { return JSON.parse(fs.readFileSync(path.join(REPO, 'themes.json'), 'utf8')); } catch { return null; } })();
+  const colours = x => JSON.stringify([x.background, x.foreground, x.cursor, x.cursorText, x.selection, x.selectionText, x.palette]);
+  json.aliases = {};
+  json.removed = {};
+  const changes = [];
+  if (last) {
+    const fresh = Object.keys(json.themes).filter(n => !last.themes[n]);
+    const byColours = new Map(fresh.map(n => [colours(json.themes[n]), n]));
+    for (const n of Object.keys(last.themes)) {
+      if (json.themes[n]) continue;
+      const to = byColours.get(colours(last.themes[n]));
+      if (to) { json.aliases[n] = to; changes.push({ what: `Renamed: ${n}`, was: n, now: to }); }
+      else { json.removed[n] = json.source.commit; changes.push({ what: `Removed: ${n}`, was: n, now: '' }); }
+    }
+    for (const [o, n] of Object.entries(last.aliases || {})) {
+      let to = n; const seen = new Set();
+      while (json.aliases[to] && !seen.has(to)) { seen.add(to); to = json.aliases[to]; }
+      if (json.themes[to]) json.aliases[o] = to; else json.removed[o] = (last.removed || {})[o] || json.source.commit;
+    }
+    Object.assign(json.removed, Object.fromEntries(Object.entries(last.removed || {}).filter(([o]) => !json.themes[o] && !json.aliases[o])));
+  }
   fs.writeFileSync(path.join(REPO, 'themes.json'), JSON.stringify(json, null, 1) + '\n');
+  if (changes.length) {
+    const was = last.source.commit.slice(0, 12), now = commit.slice(0, 12);
+    const page = path.join(REPO, 'Changes.md');
+    const old = fs.existsSync(page) ? fs.readFileSync(page, 'utf8').replace(/^# Changes\n\n[^\n]*\n/, '') : '';
+    const recs = changes.map(c => `\n### Change: ${c.what}, ${when}\n\n- What: ${c.now ? 'renamed upstream' : 'no longer upstream'}\n- Year: ${when.slice(0, 4)}\n- Boundary: upstream ${was} to ${now}\n- Was: ${c.was}\n- Now: ${c.now}\n- Crosswalk: ${c.now ? 'themes.json aliases' : 'themes.json removed'}\n`).join('');
+    fs.writeFileSync(page, `# Changes\n\nWhat changed between editions of upstream's themes (SPEC D5): a theme renamed (the same colours under a new name; the old name kept in themes.json's aliases) or no longer listed.\n${recs}${old}`);
+  }
+  const renamed = Object.keys(json.aliases).length, removed = Object.keys(json.removed).length;
 
   const all = [...themes.values()];
   const counts = {
     themes: all.length, upstream: files.length, ours: ours.length, replaced, folders: folders.length,
     dark: all.filter(t => t.dark).length, light: all.filter(t => !t.dark).length,
     default: all.filter(t => t.default).length, credited: all.filter(t => t.credit).length,
-    palette_rows: all.length * 16, commit, date: when,
+    palette_rows: all.length * 16, renamed, removed, commit, date: when,
   };
   fs.writeFileSync(path.join(__dirname, 'counts.json'), JSON.stringify(counts, null, 1) + '\n');
   // Two parts: the themes are upstream's (its MIT notice, kept as it asks);
