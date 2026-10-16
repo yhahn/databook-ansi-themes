@@ -16,6 +16,12 @@ A folder an initial (0-9, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, 
 - `## Palette`, under each theme, gathered as `Theme_Palette`: Index (0 to 15, as every terminal's configuration names them), Name (Black to Bright White), Colour.
 - `# Initial: <letter>`, a folder's page, its listing gathered as `Initial_Themes`.
 
+A colour is written as a code span, so cards.md draws its swatch beside it. proper gathers it with its backticks for now, so match one with the backticks trimmed:
+
+```sql
+select name from Theme where trim(Background, '`') = '#2e3440'
+```
+
 ## Queries
 
 The dark themes that ship by default, the most readable first:
