@@ -145,6 +145,28 @@ function folderPage(folder, themes) {
   return L.join('\n') + '\n';
 }
 
+// The source record (the person, 10-19, gap 8a): the file the book was made
+// from, the day it was read, how long it stays fresh, and what was true of
+// it then. Current is upstream's folder at the commit; Sha its git tree,
+// which changes when any theme file does. As of is the day the clone was
+// last fetched (its FETCH_HEAD, or HEAD for a fresh clone), so a source
+// that has not moved upstream still reads as fresh once fetched again.
+function sourcePage(c) {
+  const git = path.join(SRC, '.git');
+  const fetched = ['FETCH_HEAD', 'HEAD'].map(f => path.join(git, f)).filter(f => fs.existsSync(f))
+    .map(f => fs.statSync(f).mtime).sort((a, b) => b - a)[0].toISOString().slice(0, 10);
+  const tree = execFileSync('git', ['-C', SRC, 'rev-parse', 'HEAD:ghostty'], { encoding: 'utf8' }).trim();
+  return [`# Source: iTerm2-Color-Schemes`, '',
+    `- Current: ghostty/ at ${c.commit.slice(0, 12)}`,
+    `- As of: ${fetched}`,
+    `- Fresh for: 90 days`,
+    `- Newest like: ${UPSTREAM}, its default branch`,
+    `- Sha: ${tree}`,
+    `- Upstream date: ${c.date}`,
+    `- Themes: ${c.upstream}`, '',
+    `Where this book comes from: upstream's \`ghostty/\` folder, read whole at the commit above. As of is the day it was last fetched; past its window (Fresh for), fetch upstream again and rerun the importer. Sha is git's hash of the folder: when it differs from upstream's, the book is behind.`, ''].join('\n');
+}
+
 function build() {
   const ghostty = path.join(SRC, 'ghostty');
   const commit = execFileSync('git', ['-C', SRC, 'rev-parse', 'HEAD'], { encoding: 'utf8' }).trim();
@@ -258,6 +280,7 @@ function build() {
     palette_rows: all.length * 16, renamed, removed, commit, date: when,
   };
   fs.writeFileSync(path.join(__dirname, 'counts.json'), JSON.stringify(counts, null, 1) + '\n');
+  fs.writeFileSync(path.join(REPO, 'Source.md'), sourcePage(counts));
   // Two parts: the themes are upstream's (its MIT notice, kept as it asks);
   // our own work, the importer and the pages' words, is CC0 (the person,
   // 10-16).
@@ -273,5 +296,11 @@ function build() {
   return counts;
 }
 
-if (require.main === module) console.log(JSON.stringify(build()));
+if (require.main === module) {
+  console.log(JSON.stringify(build()));
+  // The FAQ worked out afresh at every build, warn-only (gap 9): its own
+  // process, so it shares nothing of this importer.
+  const faq = require('node:child_process').spawnSync(process.execPath, [path.join(__dirname, 'faq.js')], { cwd: REPO, stdio: 'inherit' });
+  if (faq.status) console.log(`warn faq-failed: faq.js exited ${faq.status}`);
+}
 module.exports = { parseGhostty, parseOurs, themePage, folderPage, contrast, isDark, creditFor, readLicences, SLOT };

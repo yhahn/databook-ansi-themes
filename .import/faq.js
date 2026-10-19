@@ -68,6 +68,20 @@ const answers = {
 
 const src = fs.readFileSync(path.join(__dirname, 'faq.md'), 'utf8');
 const qs = src.split(/\n(?=### Question: )/).filter(b => b.startsWith('### Question: '));
+
+// Warn-only, every build (the person, 10-19, gap 9): each finding a reason
+// code, so a run's warnings can be counted and compared. Codes: page-missing
+// (a Look in page the book does not have), answer-for-gap (a Gap question
+// given a value), answer-changed (an answer that differs from the last
+// release's FAQ.md: news, or a fault, to read before shipping).
+const warnings = [];
+const warn = (code, id, what) => warnings.push(`warn ${code} ${id}: ${what}`);
+const last = new Map();
+if (fs.existsSync(path.join(REPO, 'FAQ.md'))) {
+  for (const b of fs.readFileSync(path.join(REPO, 'FAQ.md'), 'utf8').split(/\n(?=### Question: )/).filter(b => b.startsWith('### Question: '))) {
+    last.set(/^### Question: (.+)$/m.exec(b)[1].trim(), ((/^- Answer: (.*)$/m.exec(b) || [])[1] || '').trim());
+  }
+}
 const L = ['# Questions and answers', '',
   `${qs.length} questions a careful reader of this book can answer, from the plainest (one theme's colour) to the hardest (whether light themes read better than dark), each with its answer and the page to look in. Read a question, open the page, and find the answer yourself; or put the questions to a reader or an agent with this page hidden, and mark what comes back. Where the book cannot answer, the right answer is to say so. The answers are worked out afresh from upstream's own files at every release, not copied from the pages: where the two disagree, one is wrong.`];
 for (const q of qs) {
@@ -75,8 +89,12 @@ for (const q of qs) {
   const f = k => ((new RegExp(`^- ${k}: ?(.*)$`, 'm').exec(q) || [])[1] || '').trim();
   if (!answers[id]) throw new Error(`no answer worked out for ${id}`);
   const [answer, how] = answers[id]();
-  const look = f('Look in') ? f('Look in').split('; ').map(p => `[${p.replace(/\.md$/, '')}](./${p.split('/').map(encodeURIComponent).join('/')})`).join('; ') : '';
+  for (const p of f('Look in') ? f('Look in').split('; ') : []) if (!fs.existsSync(path.join(REPO, p))) warn('page-missing', id, p);
+  if (f('Tier') === 'Gap' && String(answer) !== 'the book does not say') warn('answer-for-gap', id, String(answer));
+  if (last.has(id) && last.get(id) !== String(answer)) warn('answer-changed', id, `${last.get(id)} → ${answer}`);
+  const look =f('Look in') ? f('Look in').split('; ').map(p => `[${p.replace(/\.md$/, '')}](./${p.split('/').map(encodeURIComponent).join('/')})`).join('; ') : '';
   L.push('', `### Question: ${id}`, '', `- Tier: ${f('Tier')}`, `- Ask: ${f('Ask')}`, `- Answer: ${answer}`, `- Type: ${f('Type')}`, `- Tolerance: ${f('Tolerance')}`.trimEnd(), `- Look in: ${look}`.trimEnd(), '', how);
 }
 fs.writeFileSync(path.join(REPO, 'FAQ.md'), L.join('\n') + '\n');
-console.log(`FAQ.md: ${qs.length} questions`);
+console.log(`FAQ.md: ${qs.length} questions, ${warnings.length} warnings`);
+for (const w of warnings) console.log(w);

@@ -1,2 +1,3 @@
-.proper/
+.proper/*
+!.proper/checks.md
 node_modules/

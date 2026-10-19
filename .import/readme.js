@@ -20,7 +20,7 @@ The book is also where cards.md's colour themes come from: a \`.cards/config.md\
 
 ## How it is laid out
 
-A folder an initial (${folders.join(', ')}), a page a theme, named as upstream names it; each folder's page beside it (\`N.md\` beside \`N/\`) lists its themes with their background, text, contrast and licence. \`themes.json\`, at the root, holds the same themes for a program, written by the same run as the pages.
+A folder an initial (${folders.join(', ')}), a page a theme, named as upstream names it; each folder's page beside it (\`N.md\` beside \`N/\`) lists its themes with their background, text, contrast and licence. \`themes.json\`, at the root, holds the same themes for a program, written by the same run as the pages. `Source.md` is the source record: the upstream commit the book was read from, the day it was fetched, how long that stays fresh, and git's hash of the folder; a check in `.proper/checks.md` says when the window has passed.
 
 ## Keys
 
@@ -80,7 +80,7 @@ A theme of our own, or our fix to one of upstream's, is a page in this book's sh
 git clone --depth 1 --filter=blob:none --sparse https://github.com/mbadolato/iTerm2-Color-Schemes.git ~/.cache/proper/themes/upstream
 git -C ~/.cache/proper/themes/upstream sparse-checkout set ghostty
 node .import/import.js     # the pages, themes.json, README.md, LICENSE
-node .import/faq.js        # FAQ.md, its answers from upstream's files
+node .import/faq.js        # FAQ.md, its answers from upstream's files (the importer runs it too, warn-only)
 node --test .import/import.test.js   # the importer's vectors
 node .import/target.js     # what proper gathers, against the counts
 \`\`\`

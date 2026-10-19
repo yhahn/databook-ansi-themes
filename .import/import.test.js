@@ -41,3 +41,14 @@ test('our own theme, in the page\'s own shape, reads back as written', () => {
   assert.strictEqual(t.background, '#2e3440');
   assert.strictEqual(t.palette[14], '#8fbcbb');
 });
+
+// Gap 9 (the person, 10-19): the FAQ's answers are worked out by code that
+// cannot lean on the importer's reading. faq.js may require node's own
+// modules only; a require of anything else (./import.js, a package) fails.
+test('faq.js requires node\'s own modules only', () => {
+  const src = fs.readFileSync(path.join(__dirname, 'faq.js'), 'utf8');
+  const reqs = [...src.matchAll(/require\(\s*['"]([^'"]+)['"]\s*\)/g)].map(m => m[1]);
+  assert.ok(reqs.length > 0);
+  assert.deepStrictEqual(reqs.filter(r => !r.startsWith('node:')), []);
+  assert.ok(!/\bimport\s*\(|^\s*import\s/m.test(src), 'no ES imports');
+});
