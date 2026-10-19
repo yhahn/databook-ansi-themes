@@ -54,3 +54,9 @@ Small things decided while making the book, each reversible (CLAUDE.md,
   as a removal and an addition: said, never guessed. Tried on a copy
   against a doctored upstream (Nord renamed, Zenburn dropped), run twice.
 
+- **Colour themes, and nothing more** (the person, 10-19, by engine). The
+  book holds a terminal's colours: the sixteen it names 0 to 15, its
+  background and foreground, and the cursor and selection colours a theme
+  file gives beside them. Fonts, spacing and the rest of a look live
+  elsewhere, never here. A name that says so (databook-ansi-themes, say)
+  waits on a rename talk with everyone; the name stands till then.
