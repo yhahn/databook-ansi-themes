@@ -20,7 +20,7 @@ The book is also where cards.md's colour themes come from: a \`.cards/config.md\
 
 ## How it is laid out
 
-A folder an initial (${folders.join(', ')}), a page a theme, named as upstream names it; each folder's page beside it (\`N.md\` beside \`N/\`) lists its themes with their background, text, contrast and licence. \`themes.json\`, at the root, holds the same themes for a program, written by the same run as the pages. `Source.md` is the source record: the upstream commit the book was read from, the day it was fetched, how long that stays fresh, and git's hash of the folder; a check in `.proper/checks.md` says when the window has passed.
+A folder an initial (${folders.join(', ')}), a page a theme, named as upstream names it; each folder's page beside it (\`N.md\` beside \`N/\`) lists its themes with their background, text, contrast and licence. \`themes.json\`, at the root, holds the same themes for a program, written by the same run as the pages. \`Source.md\` is the source record: the upstream commit the book was read from, the day it was fetched, how long that stays fresh, and git's hash of the folder; a check in \`.proper/checks.md\` says when the window has passed.
 
 ## Keys
 
