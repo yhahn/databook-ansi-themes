@@ -5,7 +5,7 @@
 - Light: 5
 - Default: 6
 
-The themes whose names begin with E, a page each.
+The themes whose names begin with E, a page each: the index, by name. The chapters ask across every theme: [Dark or light](./chapters/Dark%20or%20light.md), [Contrast](./chapters/Contrast.md), [Palettes](./chapters/Palettes.md), [Alike](./chapters/Alike.md).
 
 ## Themes
 

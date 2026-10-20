@@ -1,6 +1,6 @@
 # Questions and answers
 
-12 questions a careful reader of this book can answer, from the plainest (one theme's colour) to the hardest (whether light themes read better than dark), each with its answer and the page to look in. Read a question, open the page, and find the answer yourself; or put the questions to a reader or an agent with this page hidden, and mark what comes back. Where the book cannot answer, the right answer is to say so. The answers are worked out afresh from upstream's own files at every release, not copied from the pages: where the two disagree, one is wrong.
+18 questions a careful reader of this book can answer, from the plainest (one theme's colour) to the hardest (whether light themes read better than dark), each with its answer and the page to look in. Read a question, open the page, and find the answer yourself; or put the questions to a reader or an agent with this page hidden, and mark what comes back. Where the book cannot answer, the right answer is to say so. The answers are worked out afresh from upstream's own files at every release, not copied from the pages: where the two disagree, one is wrong.
 
 ### Question: th-lookup-1
 
@@ -133,3 +133,69 @@ Neither the theme nor upstream's credits give a date.
 - Look in: [A](./A.md); [B](./B.md); [C](./C.md)
 
 Medians of foreground on background: light 12.61 (182 themes), dark 12.01 (634).
+
+### Question: th-reading-1
+
+- Tier: Across
+- Ask: How many themes' text reads well on its own background (contrast 4.5 or more), how many very well (7 or more), and how many fall short? How many reach the greatest contrast, and which reads worst?
+- Answer: 791 read well, 724 very well, 25 fall short; 29 reach 21.00; worst Darkermatrix, 1.89
+- Type: judge
+- Tolerance:
+- Look in: [README](./README.md); [chapters/Contrast](./chapters/Contrast.md)
+
+Contrast of foreground on background, 816 themes: 4.5 or more 791, 7 or more 724, under 4.5 25; the greatest 21.00 (29 themes), the least 1.89.
+
+### Question: th-reading-2
+
+- Tier: Across
+- Ask: Of the six hues (colours 1 to 6), which is faint, under 3 on its theme's own background, in the most themes, and in how many? In how many is colour 8, bright black, faint?
+- Answer: red, in 94 themes; bright black in 392
+- Type: judge
+- Tolerance:
+- Look in: [README](./README.md); [chapters/Palettes](./chapters/Palettes.md)
+
+Palette 1-6 under 3 on the background: red 94, green 50, yellow 76, blue 92, magenta 84, cyan 68; palette 8 392.
+
+### Question: th-reading-3
+
+- Tier: Analysis
+- Ask: How many pairs of themes are alike, their eighteen colours (background, text and palette) under 0.01 apart on the average in OKLab? Into how many families do they fall, and how many themes are copies of another, colour for colour?
+- Answer: 84 pairs, 36 families; 5 copies
+- Type: judge
+- Tolerance:
+- Look in: [README](./README.md); [chapters/Alike](./chapters/Alike.md)
+
+Of 332520 pairs, 84 under 0.01 on the average of their eighteen OKLab distances; 95 themes in 36 families; 5 themes share all eighteen colours with another.
+
+### Question: th-reading-4
+
+- Tier: Across
+- Ask: How many themes have a pure black background, how many pure white, and how many backgrounds belong to one theme only?
+- Answer: black 53, white 33; 531 backgrounds of one theme
+- Type: judge
+- Tolerance:
+- Look in: [chapters/Dark or light](./chapters/Dark%20or%20light.md)
+
+599 different backgrounds over 816 themes.
+
+### Question: th-reading-5
+
+- Tier: Across
+- Ask: How many themes have a background between 40% and 90% lightness, in OKLab?
+- Answer: 23
+- Type: number
+- Tolerance: 0
+- Look in: [README](./README.md); [chapters/Dark or light](./chapters/Dark%20or%20light.md)
+
+OKLab L of each background, from 0.4 up to 0.9: 23.
+
+### Question: th-reading-6
+
+- Tier: Across
+- Ask: In how many themes is blue, colour 4, faint (under 3) on its own background, and how many of those are dark?
+- Answer: 92, 75 of them dark
+- Type: judge
+- Tolerance:
+- Look in: [chapters/Palettes](./chapters/Palettes.md)
+
+Palette 4 under 3 on the background: 92; dark 75, light 17.

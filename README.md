@@ -4,11 +4,84 @@ Every terminal colour theme in [iTerm2-Color-Schemes](https://github.com/mbadola
 
 The book is also where cards.md's colour themes come from: a `.cards/config.md` that says `- theme: Nord` means these colours on the desk, the phone and the web alike. The 52 themes whose own licence is known ship with them by default.
 
-[Questions and answers](./FAQ.md): 12 questions a reader of this book can answer, from one theme's blue to which themes read worst, each with its answer and the page to look in.
+## What the data points to
+
+Most themes are dark: 634 of 816, 78%. Backgrounds keep to the ends: only 23 of them lie between 40% and 90% lightness; a theme is dark, or near white. Nearly all read well: 791 of 816 themes' text reads well on its own background, and the median theme's contrast is 12.09, past AAA's 7. Light themes read better, the median 12.61 against 12.01. Their faint colour is grey: colour 8, bright black, the grey many programs write hints and comments in, is faint on its own background in 392 themes; of the six hues, red is faint most often, in 94. Many are near copies: 95 themes fall into 36 families of themes alike, and 5 are copies of another, colour for colour.
+
+## Dark or light
+
+**How many themes are dark?** 634 of the 816 themes are dark and 182 light. Their backgrounds keep to the ends: 623 are darker than 40% lightness and 170 lighter than 90%, and only 23 lie between. Pure black is the commonest background (53 themes), pure white the next (33).
+
+The themes by their background's lightness (OKLab: 0% black, 100% white), a tenth a bar.
+
+> [!CARD:bars] Backgrounds by lightness
+> |  | 0% | 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% |
+> |---|---|---|---|---|---|---|---|---|---|---|
+> | Themes | 54 | 190 | 300 | 79 | 10 | 1 | 1 | 4 | 7 | 170 |
+> - Mark: 40% The middle, to 90%
+
+More: [Dark or light](./chapters/Dark%20or%20light.md), the commonest backgrounds and the few between.
+
+## How well they read
+
+**Which themes read best, and which worst?** 791 of the 816 themes' text reads well on its background, 724 very well; 25 fall short of 4.5. 29 reach 21, as far as contrast goes; worst is [Darkermatrix](./D/Darkermatrix.md), at 1.89. Of the 52 that ship with cards.md by default, [GitHub Light High Contrast](./G/GitHub%20Light%20High%20Contrast.md) reads best, at 18.91.
+
+The themes by the contrast of their text on their own background (WCAG: 4.5 reads well, 7 very well).
+
+> [!CARD:bars] Themes by contrast
+> |  | 1–3 | 3–4.5 | 4.5–7 | 7–10 | 10–15 | 15–21 |
+> |---|---|---|---|---|---|---|
+> | Themes | 10 | 15 | 67 | 152 | 344 | 228 |
+> - Mark: 4.5–7 Reads well from here
+
+### The best and the worst
+
+The three best and the three worst, their colours drawn.
+
+| Theme | Background | Text | Contrast |
+| --- | --- | --- | --- |
+| [Atlas Ragnarok](./A/Atlas%20Ragnarok.md) | `#000000` | `#ffffff` | 21.00 |
+| [Builtin Light](./B/Builtin%20Light.md) | `#ffffff` | `#000000` | 21.00 |
+| [Builtin Tango Dark](./B/Builtin%20Tango%20Dark.md) | `#000000` | `#ffffff` | 21.00 |
+| [Darkermatrix](./D/Darkermatrix.md) | `#070c0e` | `#35451a` | 1.89 |
+| [C64](./C/C64.md) | `#40318d` | `#7869c4` | 2.26 |
+| [Royal](./R/Royal.md) | `#100815` | `#514968` | 2.34 |
+
+More: [Contrast](./chapters/Contrast.md), the best ten, every theme that falls short, and the defaults ranked.
+
+## Faint colours
+
+**Which of a theme's colours can hardly be seen?** The grey: colour 8, bright black, is faint on its own background in 392 of the 816 themes. Of the six hues, red is faint most often, in 94 themes, and green least, in 50. In 559 themes all twelve hues read clear.
+
+The grey, colour 8, against the six hues: the themes in which each reads under 3 on its own background.
+
+> [!CARD:bars] Faint on its own background, themes
+> |  | Grey (8) | Red | Green | Yellow | Blue | Magenta | Cyan |
+> |---|---|---|---|---|---|---|---|
+> | Themes | 392 | 94 | 50 | 76 | 92 | 84 | 68 |
+
+More: [Palettes](./chapters/Palettes.md), the faintest blues and the defaults' palettes.
+
+## Themes alike
+
+**Which themes are alike?** 84 pairs of themes are alike, in 36 families of 95 themes; the largest is [Adobe Moon](./A/Adobe%20Moon.md), [Copper Canyon](./C/Copper%20Canyon.md), [Ocotillo](./O/Ocotillo.md), [Pueblo Night](./P/Pueblo%20Night.md) and [Red Rock](./R/Red%20Rock.md). 5 themes are copies of another, colour for colour: [Solarized Osaka Night](./S/Solarized%20Osaka%20Night.md), [TokyoNight](./T/TokyoNight.md) and [TokyoNight Night](./T/TokyoNight%20Night.md); [Zenbones](./Z/Zenbones.md) and [Zenbones Light](./Z/Zenbones%20Light.md).
+
+The copies, their colours drawn.
+
+| Themes | Background | Text |
+| --- | --- | --- |
+| [Solarized Osaka Night](./S/Solarized%20Osaka%20Night.md), [TokyoNight](./T/TokyoNight.md), [TokyoNight Night](./T/TokyoNight%20Night.md) | `#1a1b26` | `#c0caf5` |
+| [Zenbones](./Z/Zenbones.md), [Zenbones Light](./Z/Zenbones%20Light.md) | `#f0edec` | `#2c363c` |
+
+More: [Alike](./chapters/Alike.md), every family and the nearest pairs.
+
+## Questions and answers
+
+[Questions and answers](./FAQ.md): 18 questions a reader of this book can answer, from one theme's blue to which themes are alike, each with its answer and the page to look in. Every number on this page and the chapters' is worked out afresh from upstream's files at each release, and checked against the FAQ's own answers.
 
 ## How it is laid out
 
-A folder an initial (0-9, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, W, X, Y, Z), a page a theme, named as upstream names it; each folder's page beside it (`N.md` beside `N/`) lists its themes with their background, text, contrast and licence. `themes.json`, at the root, holds the same themes for a program, written by the same run as the pages. `Source.md` is the source record: the upstream commit the book was read from, the day it was fetched, how long that stays fresh, and git's hash of the folder; a check in `.proper/checks.md` says when the window has passed.
+By question, then by name. Four chapters, in `chapters/`, each ask one question across every theme and set the themes side by side: [Dark or light](./chapters/Dark%20or%20light.md), [Contrast](./chapters/Contrast.md), [Palettes](./chapters/Palettes.md), [Alike](./chapters/Alike.md). Then the index: a folder an initial (0-9, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, W, X, Y, Z), a page a theme, named as upstream names it; each folder's page beside it (`N.md` beside `N/`) lists its themes with their background, text, contrast and licence. `themes.json`, at the root, holds the same themes for a program, written by the same run as the pages. `Source.md` is the source record: the upstream commit the book was read from, the day it was fetched, how long that stays fresh, and git's hash of the folder; a check in `.proper/checks.md` says when the window has passed.
 
 ## Keys
 
@@ -16,10 +89,12 @@ A folder an initial (0-9, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, 
 - `## Palette`, under each theme, gathered as `Theme_Palette`: Index (0 to 15, as every terminal's configuration names them), Name (Black to Bright White), Colour.
 - `# Initial: <letter>`, a folder's page, its listing gathered as `Initial_Themes`.
 
-A colour is written as a code span, so cards.md draws its swatch beside it. proper gathers it with its backticks for now, so match one with the backticks trimmed:
+- `# Chapter: <name>`, a chapter's page, its one row its question (Ask); each of its tables gathered by its heading (`Chapter_The_best_read`).
+
+A colour is written as a code span, so cards.md draws its swatch beside it; proper gathers it as its text:
 
 ```sql
-select name from Theme where trim(Background, '`') = '#2e3440'
+select name from Theme where Background = '#2e3440'
 ```
 
 ## Queries
@@ -67,13 +142,13 @@ A theme of our own, or our fix to one of upstream's, is a page in this book's sh
 ```sh
 git clone --depth 1 --filter=blob:none --sparse https://github.com/mbadolato/iTerm2-Color-Schemes.git ~/.cache/proper/themes/upstream
 git -C ~/.cache/proper/themes/upstream sparse-checkout set ghostty
-node .import/import.js     # the pages, themes.json, README.md, LICENSE
+node .import/import.js     # the pages, the chapters, themes.json, README.md, LICENSE
 node .import/faq.js        # FAQ.md, its answers from upstream's files (the importer runs it too, warn-only)
 node --test .import/import.test.js   # the importer's vectors
 node .import/target.js     # what proper gathers, against the counts
 ```
 
-A new edition is upstream pulled and the importer run again; the diff is the news.
+A new edition is upstream pulled and the importer run again; the diff is the news. The questions and findings on this page and the chapters are written by hand in `.import/reading.md`, their numbers filled at every build: a finding that turns (a leader replaced, a lead lost) is warned of, `finding-turned`, and a number that differs from the FAQ's own answer, worked out apart from upstream's files, stops the build, `page-drifted`.
 
 ## Changes
 
