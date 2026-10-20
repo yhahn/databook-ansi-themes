@@ -1,4 +1,4 @@
-// The importer of databook-themes: iTerm2-Color-Schemes' terminal themes,
+// The importer of databook-ansi-themes: iTerm2-Color-Schemes' terminal themes,
 // as Ghostty writes them, a page a theme (SPEC B1, B7), a folder an
 // initial, each folder's page beside it; themes.json for cards.md, from the
 // same run; the README and LICENSE. Run from the repo:

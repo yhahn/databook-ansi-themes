@@ -1,4 +1,4 @@
-# The book's questions: databook-themes
+# The book's questions: databook-ansi-themes
 
 The questions a good reader of this book can answer, a designer's, a
 programmer's or anyone choosing a theme (SPEC B9), written by hand and only

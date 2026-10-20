@@ -1,4 +1,4 @@
-# Decisions: databook-themes
+# Decisions: databook-ansi-themes
 
 Small things decided while making the book, each reversible (CLAUDE.md,
 "Decide and move"). The first edition, 2026-10-16.

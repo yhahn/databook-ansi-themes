@@ -1,4 +1,4 @@
-# A reader's way in: databook-themes
+# A reader's way in: databook-ansi-themes
 
 The questions a stranger asks first of this book, and what its data
 points to (SPEC R2, R3). Written by hand, and only added to, as faq.md
