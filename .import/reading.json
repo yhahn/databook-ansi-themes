@@ -1,0 +1,264 @@
+{
+ "pages": {
+  "README.md": {
+   "dark-rules": {
+    "dark": 634,
+    "dark_pct": 77.7,
+    "most": "dark",
+    "themes": 816
+   },
+   "ends": {
+    "mid": 23,
+    "mid_few": true
+   },
+   "reads": {
+    "good": 791,
+    "lag_med": 12.01,
+    "lead_med": 12.61,
+    "lead_word": "Light",
+    "median_c": 12.09,
+    "themes": 816
+   },
+   "faint": {
+    "bb_faint": 392,
+    "weak_hue": [
+     "red"
+    ],
+    "weak_hue_n": 94
+   },
+   "copies": {
+    "copy_themes": 5,
+    "families": 36,
+    "family_themes": 95
+   },
+   "front-dark": {
+    "black_bg": 53,
+    "dark": 634,
+    "high": 170,
+    "light": 182,
+    "low": 623,
+    "mid": 23,
+    "most": "dark",
+    "themes": 816,
+    "white_bg": 33
+   },
+   "front-reads": {
+    "best": [
+     "Atlas Ragnarok",
+     "Builtin Light",
+     "Builtin Tango Dark",
+     "Builtin Tango Light",
+     "Catthode",
+     "Dark Pastel",
+     "Hyper",
+     "iTerm2 Default",
+     "iTerm2 Light Background",
+     "iTerm2 Tango Dark",
+     "iTerm2 Tango Light",
+     "Karma Dark HC",
+     "Karma Light HC",
+     "Modus Operandi",
+     "Modus Operandi Deuteranopia",
+     "Modus Operandi Tritanopia",
+     "Modus Vivendi",
+     "Modus Vivendi Deuteranopia",
+     "Modus Vivendi Tritanopia",
+     "Primary",
+     "Raycast Light",
+     "Symfonic",
+     "Tango Adapted",
+     "Tango Half Adapted",
+     "Terminal Basic",
+     "Ultra Dark",
+     "Vibrant Ink",
+     "Xcode Light hc",
+     "Zacess Yellow on Black"
+    ],
+    "best_n": 29,
+    "best_v": 21,
+    "def_best": [
+     "GitHub Light High Contrast"
+    ],
+    "def_best_v": 18.91,
+    "def_n": 52,
+    "good": 791,
+    "poor": 25,
+    "themes": 816,
+    "very": 724,
+    "worst": [
+     "Darkermatrix"
+    ],
+    "worst_v": 1.89
+   },
+   "front-faint": {
+    "all_clear": 559,
+    "bb_faint": 392,
+    "strong_hue": [
+     "green"
+    ],
+    "strong_hue_n": 50,
+    "themes": 816,
+    "weak_hue": [
+     "red"
+    ],
+    "weak_hue_n": 94
+   },
+   "front-alike": {
+    "copy_list": [
+     [
+      "Solarized Osaka Night",
+      "TokyoNight",
+      "TokyoNight Night"
+     ],
+     [
+      "Zenbones",
+      "Zenbones Light"
+     ]
+    ],
+    "copy_themes": 5,
+    "families": 36,
+    "family_themes": 95,
+    "largest": [
+     "Adobe Moon",
+     "Copper Canyon",
+     "Ocotillo",
+     "Pueblo Night",
+     "Red Rock"
+    ],
+    "pairs": 84
+   }
+  },
+  "chapters/Dark or light.md": {
+   "dl-count": {
+    "dark": 634,
+    "dark_l": 22.19,
+    "dark_pct": 77.7,
+    "light_l": 97.35,
+    "most": "dark",
+    "themes": 816
+   },
+   "dl-common": {
+    "black": "#000000",
+    "black_bg": 53,
+    "next_bg": [
+     "#121212",
+     "#222222"
+    ],
+    "next_bg_n": 9,
+    "own_bg": 531,
+    "white": "#ffffff",
+    "white_bg": 33
+   },
+   "dl-middle": {
+    "darkest_light": [
+     "Hot Dog Stand"
+    ],
+    "darkest_light_l": 61.07,
+    "lightest_dark": [
+     "Grass"
+    ],
+    "lightest_dark_l": 50.13,
+    "mid": 23,
+    "themes": 816
+   }
+  },
+  "chapters/Contrast.md": {
+   "ct-well": {
+    "good": 791,
+    "median_c": 12.09,
+    "poor": 25,
+    "poor_some": true,
+    "themes": 816,
+    "very": 724
+   },
+   "ct-dark-light": {
+    "dark_med": 12.01,
+    "lead_word": "Light",
+    "lead_yes": "Yes",
+    "light_med": 12.61,
+    "poor": 25,
+    "poor_dark": 21
+   },
+   "ct-default": {
+    "def_best": [
+     "GitHub Light High Contrast"
+    ],
+    "def_best_v": 18.91,
+    "def_n": 52,
+    "def_poor": 2,
+    "def_worst": [
+     "iTerm2 Solarized Light"
+    ],
+    "def_worst_v": 4.13
+   }
+  },
+  "chapters/Palettes.md": {
+   "pl-faint": {
+    "bb_faint": 392,
+    "black_faint": 537,
+    "strong_hue": [
+     "green"
+    ],
+    "strong_hue_n": 50,
+    "themes": 816,
+    "weak_hue": [
+     "red"
+    ],
+    "weak_hue_n": 94
+   },
+   "pl-blue": {
+    "blue_faint": 92,
+    "blue_faint_dark": 75,
+    "blue_worst": [
+     "C64"
+    ],
+    "blue_worst_v": 1.75
+   },
+   "pl-brights": {
+    "brights_all": 578,
+    "brights_most": true,
+    "brights_none": 6,
+    "few_colours": 277
+   }
+  },
+  "chapters/Alike.md": {
+   "al-copies": {
+    "copy_groups": 2,
+    "copy_list": [
+     [
+      "Solarized Osaka Night",
+      "TokyoNight",
+      "TokyoNight Night"
+     ],
+     [
+      "Zenbones",
+      "Zenbones Light"
+     ]
+    ],
+    "copy_themes": 5
+   },
+   "al-families": {
+    "families": 36,
+    "family_themes": 95,
+    "largest": [
+     "Adobe Moon",
+     "Copper Canyon",
+     "Ocotillo",
+     "Pueblo Night",
+     "Red Rock"
+    ],
+    "largest_n": 5,
+    "pairs": 84
+   },
+   "al-nearest": {
+    "near_a": [
+     "Dark Modern"
+    ],
+    "near_b": [
+     "Dark+"
+    ],
+    "near_d": "0.0002"
+   }
+  }
+ }
+}

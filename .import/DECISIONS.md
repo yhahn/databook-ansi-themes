@@ -60,3 +60,52 @@ Small things decided while making the book, each reversible (CLAUDE.md,
   file gives beside them. Fonts, spacing and the rest of a look live
   elsewhere, never here. A name that says so (databook-ansi-themes, say)
   waits on a rename talk with everyone; the name stands till then.
+
+## The R pass (SPEC R, a reader's way in; 2026-10-20, a deputy)
+
+- **The spine: by question** (R1). A stranger comes to a book of 816
+  themes with a few questions (how many are dark? which read best? which
+  colours can hardly be seen? which are alike?), not with a name; one
+  who has a name has the letter folders, kept whole as the index. So the
+  front page asks the four and says what the data points to, and a
+  chapter a question goes deeper, in `chapters/` (Dark or light,
+  Contrast, Palettes, Alike), each a record `# Chapter: <name>` with its
+  Ask, its tables gathered by their headings. Place and time are no axis
+  here (a theme has neither); a register by entity would be the letter
+  folders alone, which is what the book was. To undo: drop chapters.js
+  and the front page's reading; the index stands as before.
+- **Lightness is OKLab's L**, not WCAG's luminance: an even step of it
+  looks even, so a bar a tenth of it shows where backgrounds gather.
+  Dark stays WCAG's (white reads better than black), as before.
+- **Faint is under 3** on the theme's own background, WCAG's least (large
+  text, marks); reads well is 4.5 (AA), very well 7 (AAA). Black (0) and
+  white (7) are counted but not compared with the hues: a dark theme's
+  black is meant to sit near its background.
+- **Alike is under 0.01 mean OKLab distance** over the eighteen colours a
+  terminal draws text in (background, text, the sixteen); cursor and
+  selection left out. 0.01 is half the 0.02 commonly taken as a step an
+  eye can see; at 0.01, 84 pairs in 36 families, read by eye: most a
+  theme's named variants (Everforest Dark Hard, Med and Soft; Modus
+  Operandi and its tints), some sets of unlike names (Adobe Moon, Copper
+  Canyon, Ocotillo, Pueblo Night, Red Rock), and a few whose backgrounds
+  differ though their sixteen are near (Misterioso and Pandora): a mean
+  over eighteen weighs the palette most. At 0.03 it was 564 pairs, too
+  loose to call alike. Copies are the eighteen all equal (5 themes, 2 sets).
+- **Contrast unrounded in every count and median,** as faq.js reckons
+  it; written to two places. The bins of the contrast bars are of the
+  unrounded value too.
+- **Palettes in words, not a table:** sixteen code spans a row is too
+  wide for a phone (cards.md's table cell wraps them and clips the
+  swatch); a paragraph a theme wraps as prose does, each swatch after
+  its hex. A swatch-strip picture is asked of cards.md (NOTES).
+- **The faint bars show the grey and the six hues,** not all sixteen:
+  black's 537 flattened every hue to a line.
+- **page-drifted stops the build** (SPEC R2): faq.js exits 2 and the
+  importer stops; every other FAQ warning stays warn-only (10-19, gap
+  9). It checks each Holds value against faq.js's answer and that the
+  page's own paragraph for the question says it.
+- **finding-turned** is said by the importer against `.import/reading.json`
+  (the last release's values, kept in git), as HUD's.
+- **The folder pages say they are the index** and link the chapters; the
+  theme pages are unchanged (R2's "each level reading.md names": the
+  chapters, not every theme).

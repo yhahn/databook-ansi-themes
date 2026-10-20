@@ -49,3 +49,11 @@ select (select count(*) from Initial) || ' / ' || (select count(*) from Initial_
 -- name: B9 the FAQ's questions
 -- want: {faq.questions}
 select count(*) from Question;
+
+-- name: R1 the spine, a chapter a question, each asking it
+-- want: {chapters} / {chapters}
+select count(*) || ' / ' || count(*) filter (where coalesce(Ask, '') <> '') from Chapter;
+
+-- name: a colour gathered as its text, the code span's backticks gone
+-- want: #2e3440
+select Background from Theme where name = 'Nord';

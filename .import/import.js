@@ -139,7 +139,7 @@ function themePage(t) {
 function folderPage(folder, themes) {
   const dark = themes.filter(t => t.dark).length;
   const L = [`# Initial: ${folder}`, '', `- Themes: ${themes.length}`, `- Dark: ${dark}`, `- Light: ${themes.length - dark}`, `- Default: ${themes.filter(t => t.default).length}`, '',
-    `The themes whose names begin with ${folder === '0-9' ? 'a figure' : folder}, a page each.`, '', '## Themes', '',
+    `The themes whose names begin with ${folder === '0-9' ? 'a figure' : folder}, a page each: the index, by name. The chapters ask across every theme: ${require('./chapters').CHAPTERS.map(c => `[${c.name}](./chapters/${encodeURIComponent(c.name)}.md)`).join(', ')}.`, '', '## Themes', '',
     '| Theme | Dark | Background | Foreground | Contrast | Licence | Default |', '| --- | --- | --- | --- | --- | --- | --- |'];
   for (const t of themes) L.push(`| ${link(cell(t.name), `./${folder}/${safe(t.name)}.md`)} | ${t.dark ? 'yes' : 'no'} | \`${t.background}\` | \`${t.foreground}\` | ${t.contrast} | ${cell(t.licence)} | ${t.default ? 'yes' : 'no'} |`);
   return L.join('\n') + '\n';
@@ -292,7 +292,14 @@ function build() {
     '2. Our own work (the importer in .import/, and the pages\' words beyond the',
     '   themes themselves) is given to the public domain under CC0 1.0:', '',
     fs.readFileSync(path.join(__dirname, 'CC0.txt'), 'utf8').trim(), ''].join('\n'));
-  require('./readme').write(counts, folders, byFolder);
+  // The spine (R1): the chapters, and the front page's reading, every number
+  // reckoned from the themes now; a finding turned since the last release
+  // warns (R3).
+  const reading = require('./chapters').write(all);
+  counts.chapters = reading.chapters.length;
+  fs.writeFileSync(path.join(__dirname, 'counts.json'), JSON.stringify(counts, null, 1) + '\n');
+  for (const w of require('./reading').turned(reading.pages)) console.log(w);
+  require('./readme').write(counts, folders, reading);
   return counts;
 }
 
@@ -301,6 +308,9 @@ if (require.main === module) {
   // The FAQ worked out afresh at every build, warn-only (gap 9): its own
   // process, so it shares nothing of this importer.
   const faq = require('node:child_process').spawnSync(process.execPath, [path.join(__dirname, 'faq.js')], { cwd: REPO, stdio: 'inherit' });
+  // A page whose numbers differ from the FAQ's, worked out apart from the
+  // source, stops the build (R2): faq.js exits 2.
+  if (faq.status === 2) { console.log('stop: a page has drifted from the source (page-drifted, above)'); process.exit(1); }
   if (faq.status) console.log(`warn faq-failed: faq.js exited ${faq.status}`);
 }
 module.exports = { parseGhostty, parseOurs, themePage, folderPage, contrast, isDark, creditFor, readLicences, SLOT };

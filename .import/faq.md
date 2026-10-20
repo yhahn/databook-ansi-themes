@@ -105,3 +105,51 @@ First written 2026-10-16.
 - Tolerance:
 - How: every ghostty/ file, dark or light as above, the median WCAG contrast of foreground on background in each
 - Look in: A.md; B.md; C.md
+
+### Question: th-reading-1
+- Tier: Across
+- Ask: How many themes' text reads well on its own background (contrast 4.5 or more), how many very well (7 or more), and how many fall short? How many reach the greatest contrast, and which reads worst?
+- Type: judge
+- Tolerance:
+- How: every ghostty/ file, the WCAG contrast of foreground on background, against 4.5 and 7; the greatest and the least, ties kept
+- Look in: README.md; chapters/Contrast.md
+
+### Question: th-reading-2
+- Tier: Across
+- Ask: Of the six hues (colours 1 to 6), which is faint, under 3 on its theme's own background, in the most themes, and in how many? In how many is colour 8, bright black, faint?
+- Type: judge
+- Tolerance:
+- How: every ghostty/ file, the WCAG contrast of palette 1 to 6 and 8 on the background, under 3
+- Look in: README.md; chapters/Palettes.md
+
+### Question: th-reading-3
+- Tier: Analysis
+- Ask: How many pairs of themes are alike, their eighteen colours (background, text and palette) under 0.01 apart on the average in OKLab? Into how many families do they fall, and how many themes are copies of another, colour for colour?
+- Type: judge
+- Tolerance:
+- How: every ghostty/ file, background, foreground and palette 0 to 15 in OKLab; for each pair, the mean of the eighteen distances; families joined where any two are alike; copies where all eighteen are the same
+- Look in: README.md; chapters/Alike.md
+
+### Question: th-reading-4
+- Tier: Across
+- Ask: How many themes have a pure black background, how many pure white, and how many backgrounds belong to one theme only?
+- Type: judge
+- Tolerance:
+- How: every ghostty/ file, its background counted alike
+- Look in: chapters/Dark or light.md
+
+### Question: th-reading-5
+- Tier: Across
+- Ask: How many themes have a background between 40% and 90% lightness, in OKLab?
+- Type: number
+- Tolerance: 0
+- How: every ghostty/ file, the OKLab L of its background, from 0.4 up to 0.9
+- Look in: README.md; chapters/Dark or light.md
+
+### Question: th-reading-6
+- Tier: Across
+- Ask: In how many themes is blue, colour 4, faint (under 3) on its own background, and how many of those are dark?
+- Type: judge
+- Tolerance:
+- How: every ghostty/ file, the WCAG contrast of palette 4 on the background, under 3; dark as above
+- Look in: chapters/Palettes.md

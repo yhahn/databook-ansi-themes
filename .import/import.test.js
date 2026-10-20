@@ -52,3 +52,29 @@ test('faq.js requires node\'s own modules only', () => {
   assert.deepStrictEqual(reqs.filter(r => !r.startsWith('node:')), []);
   assert.ok(!/\bimport\s*\(|^\s*import\s/m.test(src), 'no ES imports');
 });
+
+// R2, R3: the reading's words, filled from values the importer reckons.
+const R = require('./reading.js');
+test('reading: a value written as the spec says, a list as words', () => {
+  const v = { n: 1234, x: 12.0891, names: ['Nord', 'Dracula', 'C64'], c: '#2e3440', p: 77.69, sets: [['A b', 'C/d'], ['0x96f']] };
+  assert.strictEqual(R.fill('{n:,} {n} {x} {p:%} {c:c}', v), '1,234 1234 12.09 78% `#2e3440`');
+  assert.strictEqual(R.fill('{names}', v), 'Nord, Dracula and C64');
+  assert.strictEqual(R.fill('{names:t}', v, '../'), '[Nord](../N/Nord.md), [Dracula](../D/Dracula.md) and [C64](../C/C64.md)');
+  assert.strictEqual(R.fill('{sets:s}', v), '[A b](./A/A%20b.md) and [C/d](./C/C-d.md); [0x96f](./0-9/0x96f.md)');
+  assert.throws(() => R.fill('{nothing}', v), /no value nothing/);
+});
+
+test('reading: OKLab lightness 0 for black and 1 for white; a theme no distance from itself', () => {
+  assert.ok(Math.abs(R.oklab('#000000')[0]) < 1e-9);
+  assert.ok(Math.abs(R.oklab('#ffffff')[0] - 1) < 1e-6);
+  const nord = ['#2e3440', '#d8dee9', ...Array(16).fill('#88c0d0')].map(R.oklab);
+  assert.strictEqual(R.distance(nord, nord), 0);
+});
+
+test('reading: every record of reading.md names a page the book writes, and fills from the build', () => {
+  const kept = JSON.parse(fs.readFileSync(path.join(__dirname, 'reading.json'), 'utf8')).pages;
+  for (const r of R.records().values()) {
+    assert.ok(fs.existsSync(path.join(__dirname, '..', r.Page)), `${r.id}: ${r.Page}`);
+    assert.ok(kept[r.Page] && kept[r.Page][r.id], `${r.id}: kept`);
+  }
+});
