@@ -109,3 +109,38 @@ Small things decided while making the book, each reversible (CLAUDE.md,
 - **The folder pages say they are the index** and link the chapters; the
   theme pages are unchanged (R2's "each level reading.md names": the
   chapters, not every theme).
+
+## The featured list (the person, 10-23, by engine; a deputy)
+
+- **A second field, `featured`, beside `default`.** `default` stays the
+  licence fact (the theme's own project states a licence: 52, licences.md).
+  `featured` is the agreed 28 cards.md ships (`.import/featured.md`, the
+  person, 10-23, Solarized Light kept). Featured implies default: the
+  importer stops, naming it, if a featured name is no theme in the book or is
+  not in licences.md (`checkFeatured`, tested). Written as a row `- Featured:
+  yes|no` on each theme page, a row and a column on the folder pages,
+  `featured: true|false` in themes.json, `featured` in counts.json and
+  Source.md. To undo: drop featured.md and these writes; `default` is
+  untouched.
+- **No aliases, no removed for the 24 default themes that leave the
+  featured list** (the person, 10-23, over engine's ask). Here `aliases` means
+  a renamed theme (same colours, old name gone) and `removed` means gone from
+  upstream (SPEC D5); these 24 are neither: still in the book and themes.json
+  with default true, featured false. A config naming Everforest Dark Soft or
+  GitHub Dark Dimmed resolves by name, no crosswalk. Held by a test: every
+  name default in the last edition (`vectors/defaults-10-16.json`, the 52 of
+  commit c379d7a31af8) resolves in themes.json, in themes or by alias. What
+  cards.md does with a name outside its shipped 28 is its own fallback. To
+  undo: add `aliases` lines to the importer's last-edition step, or write
+  them by hand into a crosswalk; nothing here blocks it.
+- **The words.** "Ships with cards.md" now means featured: the README, the
+  Contrast chapter's section (`## The featured themes`, id `ct-featured`,
+  was `ct-default`), Palettes' brights, reading.md and the README's query
+  (dark featured themes). "Default" is said as the licence. The README says
+  what each flag means in plain words.
+- **FAQ: added to, as its rule says.** th-across-3 and -5 asked about the
+  themes "that ship by default"; they keep their ids and answers (52, GitHub
+  Light High Contrast, 18.91) with the Ask now saying "default (licence
+  known)": the same question, made plain. th-across-6 (how many featured,
+  28) and th-across-7 (the best featured, same theme, 18.91) are new. To
+  undo: restore the two Asks.

@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Dracula+ High Contrast theme is a higher-contrast companion to Dracula+ (original by [jos3s](https://github.com/jos3s)), created by a Cursor agent assisting Mark Badolato for [iTerm2-Color-Schemes #566](https://github.com/mbadolato/iTerm2-Color-Schemes/issues/566). The original Dracula+ palette is left unchanged.
 - Made from: [iTerm2-Color-Schemes, ghostty/Dracula+](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Dracula%2B)
 

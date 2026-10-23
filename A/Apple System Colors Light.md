@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Apple System Colors Light theme was created by [Aaron-212](https://github.com/Aaron-212). It is based on the Apple System Colors theme.
 - Made from: [iTerm2-Color-Schemes, ghostty/Apple System Colors Light](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Apple%20System%20Colors%20Light)
 

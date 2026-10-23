@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Noctis theme family (Noctis, Noctis Azureus, Noctis Bordo, Noctis Hibernus, Noctis Lilac, Noctis Lux, Noctis Minimus, Noctis Obscuro, Noctis Sereno, Noctis Uva, and Noctis Viola) was created by [Liviu Schera](https://github.com/liviuschera) as a [VS Code theme family](https://github.com/liviuschera/noctis). Terminal ANSI values are pulled directly from each variant's `themes/*.json` file in the upstream repo. Ported to iTerm2 format by [Abel Dantas](https://github.com/abeldantas).
 - Made from: [iTerm2-Color-Schemes, ghostty/Noctis Lux](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Noctis%20Lux)
 

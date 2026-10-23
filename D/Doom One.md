@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Doom One theme was based on [Emacs Doom default theme](https://github.com/hlissner/emacs-doom-themes)
 - Made from: [iTerm2-Color-Schemes, ghostty/Doom One](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Doom%20One)
 

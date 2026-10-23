@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Nachtschicht theme was created by [notgabriels-sys](https://github.com/notgabriels-sys) as part of [50 dark themes for Claude Code](https://github.com/notgabriels-sys/claude-code-50-dark-themes), a set of terminal themes each built around a single accent, with WCAG contrast floors enforced at build time.
 - Made from: [iTerm2-Color-Schemes, ghostty/Nachtschicht](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Nachtschicht)
 

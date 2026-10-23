@@ -12,6 +12,7 @@
 - Licence: MIT
 - Licence from: https://github.com/morhetz/gruvbox
 - Default: yes
+- Featured: no
 - Credit: The Gruvbox Light Hard theme was created by [morhetz](https://github.com/morhetz) and added by [zasdaym](https://github.com/zasdaym)
 - Made from: [iTerm2-Color-Schemes, ghostty/Gruvbox Light Hard](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Gruvbox%20Light%20Hard)
 

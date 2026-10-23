@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Alabaster theme was created by [mkaschenko](https://github.com/mkaschenko) based on [tonsky](https://github.com/tonsky)'s [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster) Sublime 3 theme.
 - Made from: [iTerm2-Color-Schemes, ghostty/Alabaster](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Alabaster)
 

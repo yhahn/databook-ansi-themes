@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Wez theme was created by [wez](https://gist.github.com/wez/850268/)
 - Made from: [iTerm2-Color-Schemes, ghostty/Wez](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Wez)
 

@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The One Dark Two theme was created by [beatreichenbach](https://github.com/beatreichenbach/one-dark-two), based on Atom's One Dark with brighter text.
 - Made from: [iTerm2-Color-Schemes, ghostty/One Dark Two](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/One%20Dark%20Two)
 

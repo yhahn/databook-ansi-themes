@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Modus Operandi Deuteranopia, Modus Operandi Tritanopia, Modus Vivendi Deuteranopia, and Modus Vivendi Tritanopia themes are the colorblind-optimized variants (deuteranopia for red-green deficiency, tritanopia for blue-yellow deficiency) of the existing Modus themes, using the canonical palettes from [modus-themes](https://github.com/protesilaos/modus-themes) by [Protesilaos Stavrou](https://github.com/protesilaos). Contributed by [Aaron Kuehler](https://github.com/indiebrain).
 - Made from: [iTerm2-Color-Schemes, ghostty/Modus Vivendi Tritanopia](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Modus%20Vivendi%20Tritanopia)
 

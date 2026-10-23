@@ -15,7 +15,7 @@ function write(c, folders, reading) {
 
 Every terminal colour theme in [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes), the catalog Ghostty's own themes come from, a page a theme: its background, text, cursor and selection colours, and the sixteen colours a terminal names 0 to 15, each drawn beside its hex. ${c.dark} are dark and ${c.light} light. Each says how well its text reads on its background, who upstream credits for it, and its licence where its own project states one.
 
-The book is also where cards.md's colour themes come from: a \`.cards/config.md\` that says \`- theme: Nord\` means these colours on the desk, the phone and the web alike. The ${c.default} themes whose own licence is known ship with them by default.
+The book is also where cards.md's colour themes come from: a \`.cards/config.md\` that says \`- theme: Nord\` means these colours on the desk, the phone and the web alike. Two flags on each theme say what ships. *Default* is about the licence: "yes" means the theme's own project states a licence we checked (${c.default} themes), so we know what it may be shared under. *Featured* is the short list cards.md ships and shows first (${c.featured} themes, picked by hand from the Default ones): "yes" means it is on that list. Every featured theme is a default one, and a default theme that is not featured is still here, by its name, for any config that asks for it.
 
 ${reading.markdown}
 
@@ -25,11 +25,11 @@ ${reading.markdown}
 
 ## How it is laid out
 
-By question, then by name. Four chapters, in \`chapters/\`, each ask one question across every theme and set the themes side by side: ${chapters}. Then the index: a folder an initial (${folders.join(', ')}), a page a theme, named as upstream names it; each folder's page beside it (\`N.md\` beside \`N/\`) lists its themes with their background, text, contrast and licence. \`themes.json\`, at the root, holds the same themes for a program, written by the same run as the pages. \`Source.md\` is the source record: the upstream commit the book was read from, the day it was fetched, how long that stays fresh, and git's hash of the folder; a check in \`.proper/checks.md\` says when the window has passed.
+By question, then by name. Four chapters, in \`chapters/\`, each ask one question across every theme and set the themes side by side: ${chapters}. Then the index: a folder an initial (${folders.join(', ')}), a page a theme, named as upstream names it; each folder's page beside it (\`N.md\` beside \`N/\`) lists its themes with their background, text, contrast, licence, and whether each is a default or a featured one. \`themes.json\`, at the root, holds the same themes for a program, written by the same run as the pages. \`Source.md\` is the source record: the upstream commit the book was read from, the day it was fetched, how long that stays fresh, and git's hash of the folder; a check in \`.proper/checks.md\` says when the window has passed.
 
 ## Keys
 
-- \`# Theme: <name>\`, one a page, keyed by upstream's name (its file name in \`ghostty/\`). Its rows: Dark (yes when white text reads better on its background than black), Background, Foreground, Cursor, Cursor text, Selection, Selection text (each \`#rrggbb\`), Contrast (its text against its background, WCAG's ratio: 4.5 reads well, 7 very well), Same brights (how many of its eight bright colours are the same as their normal ones), Licence and Licence from (where its project states it; "unstated" otherwise), Default (yes when it ships with cards.md by default), Credit (upstream's own words for it, in its CREDITS.md, where one paragraph names it), Made from (the upstream file, at the commit read).
+- \`# Theme: <name>\`, one a page, keyed by upstream's name (its file name in \`ghostty/\`). Its rows: Dark (yes when white text reads better on its background than black), Background, Foreground, Cursor, Cursor text, Selection, Selection text (each \`#rrggbb\`), Contrast (its text against its background, WCAG's ratio: 4.5 reads well, 7 very well), Same brights (how many of its eight bright colours are the same as their normal ones), Licence and Licence from (where its project states it; "unstated" otherwise), Default (yes when the theme's own project states a licence we checked), Featured (yes when it is on the short list cards.md ships; a featured theme is always a default one), Credit (upstream's own words for it, in its CREDITS.md, where one paragraph names it), Made from (the upstream file, at the commit read).
 - \`## Palette\`, under each theme, gathered as \`Theme_Palette\`: Index (0 to 15, as every terminal's configuration names them), Name (Black to Bright White), Colour.
 - \`# Initial: <letter>\`, a folder's page, its listing gathered as \`Initial_Themes\`.
 
@@ -43,11 +43,11 @@ select name from Theme where Background = '#2e3440'
 
 ## Queries
 
-The dark themes that ship by default, the most readable first:
+The dark featured themes, the ones cards.md ships, the most readable first:
 
 \`\`\`sql
 select name, Background, Foreground, Contrast from Theme
-where Dark = 'yes' and "Default" = 'yes' order by Contrast desc
+where Dark = 'yes' and Featured = 'yes' order by Contrast desc
 \`\`\`
 
 Nord's sixteen colours:

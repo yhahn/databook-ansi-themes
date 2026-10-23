@@ -7,7 +7,7 @@ const path = require('node:path');
 const { parseGhostty, parseOurs, themePage, contrast, isDark } = require('./import.js');
 
 const cases = JSON.parse(fs.readFileSync(path.join(__dirname, 'vectors', 'importer.json'), 'utf8'));
-const licensed = { licence: 'MIT', licenceAt: 'https://github.com/nordtheme/nord', default: true,
+const licensed = { licence: 'MIT', licenceAt: 'https://github.com/nordtheme/nord', default: true, featured: true,
   credit: 'Nord theme was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [Teraskull](https://github.com/Teraskull)',
   madeFrom: '[iTerm2-Color-Schemes, ghostty/Nord](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Nord)' };
 
@@ -77,4 +77,37 @@ test('reading: every record of reading.md names a page the book writes, and fill
     assert.ok(fs.existsSync(path.join(__dirname, '..', r.Page)), `${r.id}: ${r.Page}`);
     assert.ok(kept[r.Page] && kept[r.Page][r.id], `${r.id}: kept`);
   }
+});
+
+// The featured list (the person, 10-23): the shorter list inside Default.
+const I = require('./import.js');
+const featured = I.readFeatured(fs.readFileSync(path.join(__dirname, 'featured.md'), 'utf8'));
+const licences = I.readLicences(fs.readFileSync(path.join(__dirname, 'licences.md'), 'utf8'));
+const book = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'themes.json'), 'utf8'));
+
+test('featured: exactly 28, each once, each a theme in the book and default (featured implies default)', () => {
+  assert.strictEqual(featured.length, 28);
+  assert.strictEqual(new Set(featured).size, 28);
+  for (const n of featured) {
+    assert.ok(book.themes[n], `${n} is a theme`);
+    assert.strictEqual(book.themes[n].default, true, `${n} default`);
+    assert.strictEqual(book.themes[n].featured, true, `${n} featured`);
+  }
+  assert.strictEqual(Object.values(book.themes).filter(t => t.featured).length, 28);
+  for (const t of Object.values(book.themes)) assert.ok(!t.featured || t.default);
+});
+
+test('featured: a name that is no theme, or no default one, stops the build and is named', () => {
+  const themes = new Map([['Nord', {}], ['Odd', {}]]);
+  I.checkFeatured(['Nord'], themes, licences);
+  assert.throws(() => I.checkFeatured(['Nord', 'Nowhere'], themes, licences), /Nowhere, which no theme is/);
+  assert.throws(() => I.checkFeatured(['Odd'], themes, licences), /Odd, which is not default/);
+});
+
+test('every name that was default in the last edition (10-16) still resolves, by name or alias', () => {
+  const was = JSON.parse(fs.readFileSync(path.join(__dirname, 'vectors', 'defaults-10-16.json'), 'utf8'));
+  assert.strictEqual(was.length, 52);
+  for (const n of was) assert.ok(book.themes[n] || (book.aliases || {})[n], `${n} resolves`);
+  // The 24 that leave the featured list stay themes: default, not featured.
+  assert.strictEqual(was.filter(n => !book.themes[n].featured).length, 24);
 });

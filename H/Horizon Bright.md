@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Horizon and Horizon Bright themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the theme created by [jolaleye](https://github.com/jolaleye/horizon-theme-vscode) using the [ditto](https://github.com/campvanilla/ditto) tool.
 - Made from: [iTerm2-Color-Schemes, ghostty/Horizon Bright](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Horizon%20Bright)
 

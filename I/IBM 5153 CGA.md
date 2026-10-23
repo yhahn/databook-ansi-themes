@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The IBM 5153 CGA themes were created by [Jesse Miller](https://jmiller.com/). Based on The IBM 5153's True CGA Palette and Color Output [int10h.org/blog](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/).
 - Made from: [iTerm2-Color-Schemes, ghostty/IBM 5153 CGA](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/IBM%205153%20CGA)
 

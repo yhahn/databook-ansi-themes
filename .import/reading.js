@@ -116,12 +116,12 @@ function measure(themes) {
   const edges = [1, 3, WELL, VERY, 10, 15, 21.01];
   v.cbins = edges.slice(0, -1).map((e, i) => all.filter(t => t.c >= e && t.c < edges[i + 1]).length);
   v.ranked = [...all].sort((a, b) => b.c - a.c || byName(a.name, b.name));
-  const defs = all.filter(t => t.default);
-  v.def_n = defs.length;
-  v.defaults = [...defs].sort((a, b) => b.c - a.c || byName(a.name, b.name));
-  [v.def_best, v.def_best_v] = best(defs, t => t.c, true);
-  [v.def_worst, v.def_worst_v] = best(defs, t => t.c, false);
-  v.def_poor = defs.filter(t => t.c < WELL).length;
+  const defs = all.filter(t => t.featured);
+  v.feat_n = defs.length;
+  v.featured_list = [...defs].sort((a, b) => b.c - a.c || byName(a.name, b.name));
+  [v.feat_best, v.feat_best_v] = best(defs, t => t.c, true);
+  [v.feat_worst, v.feat_worst_v] = best(defs, t => t.c, false);
+  v.feat_poor = defs.filter(t => t.c < WELL).length;
 
   // The palette: a colour faint where it reads under 3 on its background.
   const faint = (t, i) => contrast(t.palette[i], t.background) < FAINT;

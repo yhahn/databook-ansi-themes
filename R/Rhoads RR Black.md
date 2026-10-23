@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Rhoads RR Black theme was created by Mark Badolato. The Rhoads LP theme was created by Mark Badolato.
 - Made from: [iTerm2-Color-Schemes, ghostty/Rhoads RR Black](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Rhoads%20RR%20Black)
 

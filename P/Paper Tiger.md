@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Paper Tiger theme was created by Mark Badolato. The Vacuum Tube theme was created by Mark Badolato.
 - Made from: [iTerm2-Color-Schemes, ghostty/Paper Tiger](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Paper%20Tiger)
 

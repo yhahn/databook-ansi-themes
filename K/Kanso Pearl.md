@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Kanso Ink, Kanso Mist, Kanso Zen, and Kanso Pearl themes were created by [webhooked](https://github.com/webhooked) and added by [Antonio Camargo](https://github.com/apcamargo).
 - Made from: [iTerm2-Color-Schemes, ghostty/Kanso Pearl](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Kanso%20Pearl)
 

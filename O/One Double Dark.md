@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The One Double Dark and One Double Light themes were created by [pamburus](https://github.com/pamburus/one-double), based on One Half and Atom's One, with a visibility fix for the bright black color in the dark variant and altered bright colors in both variants.
 - Made from: [iTerm2-Color-Schemes, ghostty/One Double Dark](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/One%20Double%20Dark)
 

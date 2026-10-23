@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Outrun Electric theme was created by [samrap](https://github.com/samrap/outrun-theme-vscode) for VS Code, with the palette values following [ema2159](https://github.com/doomemacs/themes/blob/master/themes/doom-outrun-electric-theme.el)'s Doom Emacs port, and was contributed here by [sawtdakhili](https://github.com/sawtdakhili).
 - Made from: [iTerm2-Color-Schemes, ghostty/Outrun Electric](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Outrun%20Electric)
 

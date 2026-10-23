@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The London Columbia Road, London Soho Night, London Bonfire Night, and London Embankment Dusk themes were created by [Scott Matthews](https://github.com/scottmatthews7) as a four-theme seasonal set, each anchored to a specific place and time in London: Columbia Road flower market in spring, a Soho side street in summer, Hampstead Heath on Bonfire Night in autumn, and the Embankment at dusk in winter.
 - Made from: [iTerm2-Color-Schemes, ghostty/London Columbia Road](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/London%20Columbia%20Road)
 

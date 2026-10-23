@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Gleam and Gleam Classic themes were created by [trag1c](https://github.com/trag1c). Originally designed by [aslilac](https://github.com/aslilac) and [lpil](https://github.com/lpil).
 - Made from: [iTerm2-Color-Schemes, ghostty/Gleam Classic](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Gleam%20Classic)
 

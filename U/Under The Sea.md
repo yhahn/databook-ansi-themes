@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Under The Sea theme was created by [peterpme](https://github.com/peterpme)
 - Made from: [iTerm2-Color-Schemes, ghostty/Under The Sea](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Under%20The%20Sea)
 

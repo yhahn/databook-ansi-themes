@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Citruszest theme was created by [zootedb0t](https://github.com/zootedb0t)
 - Made from: [iTerm2-Color-Schemes, ghostty/Citruszest](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Citruszest)
 

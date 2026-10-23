@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Forest Blue theme was found [here](https://github.com/olkinn/forest-blue-iTerm)
 - Made from: [iTerm2-Color-Schemes, ghostty/Forest Blue](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Forest%20Blue)
 

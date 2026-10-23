@@ -65,7 +65,7 @@ function chapterPage(ch, recs, v) {
       '## How many read well', '', q('ct-well'), '', 'The themes by the contrast of their text, 4.5 marked.', '', contrastCard(v), '',
       '## The best read', '', `${v.best_n} themes reach ${v.best_v.toFixed(2)}, the most contrast there is: black and white. Past them, the ten best, their colours drawn.`, '', themeTable(v.ranked.filter(t => t.c < v.best_v).slice(0, 10), up), '',
       '## Dark and light', '', q('ct-dark-light'), '', `Every theme that falls short of 4.5, the worst first.`, '', themeTable(v.ranked.filter(t => t.c < R.WELL).reverse(), up, ['Dark', 'Background', 'Text', 'Contrast']), '',
-      '## The defaults', '', q('ct-default'), '', 'The themes that ship with cards.md by default, the best read first.', '', themeTable(v.defaults, up));
+      '## The featured themes', '', q('ct-featured'), '', 'The featured themes, the ones cards.md ships, the best read first.', '', themeTable(v.featured_list, up));
   } else if (ch.name === 'Palettes') {
     L.push(`A terminal names sixteen colours, 0 to 15: black, red, green, yellow, blue, magenta, cyan and white, then the bright of each. A colour is faint here where it reads under 3 on its theme's own background, WCAG's least for large text and marks.`, '',
       '## Faint colours', '', q('pl-faint'), '', 'The grey, colour 8, against the six hues: the themes in which each is faint.', '', greyCard(v), '',
@@ -73,8 +73,8 @@ function chapterPage(ch, recs, v) {
       '## Blue', '', q('pl-blue'), '', 'The ten faintest blues, each beside its background.', '',
       '| Theme | Background | Blue | Contrast |', '| --- | --- | --- | --- |',
       ...v.blues.map(({ t, v: c }) => `| ${R.themeLink(t.name, up)} | ${code(t.background)} | ${code(t.palette[4])} | ${c.toFixed(2)} |`), '',
-      '## Brights', '', q('pl-brights'), '', 'The palettes of the themes that ship by default, the best read first, each in words: its background and text, then colours 0 to 7, then 8 to 15, each drawn after its hex. A table of sixteen colours a row is too wide to read on a phone.', '',
-      ...v.defaults.flatMap(t => [`**${R.themeLink(t.name, up)}** on ${code(t.background)}, text ${code(t.foreground)}: ${t.palette.slice(0, 8).map(code).join(' ')}; bright ${t.palette.slice(8).map(code).join(' ')}.`, '']));
+      '## Brights', '', q('pl-brights'), '', 'The palettes of the featured themes (the ones cards.md ships), the best read first, each in words: its background and text, then colours 0 to 7, then 8 to 15, each drawn after its hex. A table of sixteen colours a row is too wide to read on a phone.', '',
+      ...v.featured_list.flatMap(t => [`**${R.themeLink(t.name, up)}** on ${code(t.background)}, text ${code(t.foreground)}: ${t.palette.slice(0, 8).map(code).join(' ')}; bright ${t.palette.slice(8).map(code).join(' ')}.`, '']));
   } else if (ch.name === 'Alike') {
     L.push(`Two themes are alike here where their eighteen colours (background, text and the sixteen) lie, on the average, under ${R.ALIKE} apart in OKLab: half the step an eye is commonly held to see (0.02). Copies are alike in every colour. Cursor and selection are left out: a terminal's text is drawn in the eighteen.`, '',
       '## Copies', '', q('al-copies'), '', 'Each set of copies, its colours drawn: its background and text, then colours 0 to 7, then 8 to 15.', '',
@@ -103,9 +103,9 @@ function front(recs, v) {
     `More: ${linkTo('Dark or light', up)}, the commonest backgrounds and the few between.`, '',
     '## How well they read', '', q('front-reads'), '', 'The themes by the contrast of their text on their own background (WCAG: 4.5 reads well, 7 very well).', '', contrastCard(v), '',
     '### The best and the worst', '', 'The three best and the three worst, their colours drawn.', '', themeTable([...top, ...bottom], up, ['Background', 'Text', 'Contrast']), '',
-    `More: ${linkTo('Contrast', up)}, the best ten, every theme that falls short, and the defaults ranked.`, '',
+    `More: ${linkTo('Contrast', up)}, the best ten, every theme that falls short, and the featured themes ranked.`, '',
     '## Faint colours', '', q('front-faint'), '', 'The grey, colour 8, against the six hues: the themes in which each reads under 3 on its own background.', '', greyCard(v), '',
-    `More: ${linkTo('Palettes', up)}, the faintest blues and the defaults' palettes.`, '',
+    `More: ${linkTo('Palettes', up)}, the faintest blues and the featured themes' palettes.`, '',
     '## Themes alike', '', q('front-alike'), '', 'The copies, their colours drawn.', '',
     '| Themes | Background | Text |', '| --- | --- | --- |',
     ...v.copy_sets.map(s => `| ${s.map(t => R.themeLink(t.name, up)).join(', ')} | ${code(s[0].background)} | ${code(s[0].foreground)} |`), '',

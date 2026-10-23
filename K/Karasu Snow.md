@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Karasu Night and Karasu Snow themes were created by [scozu](https://github.com/scozu).
 - Made from: [iTerm2-Color-Schemes, ghostty/Karasu Snow](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Karasu%20Snow)
 

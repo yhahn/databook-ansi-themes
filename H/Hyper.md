@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Hyper theme is the default color palette of the [Hyper](https://github.com/vercel/hyper) terminal by [Vercel](https://github.com/vercel), ported by [Thomas Drake-Brockman](https://github.com/thomasfedb)
 - Made from: [iTerm2-Color-Schemes, ghostty/Hyper](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Hyper)
 

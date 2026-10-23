@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Whimsy theme was created by [Rod](https://github.com/rod)
 - Made from: [iTerm2-Color-Schemes, ghostty/Whimsy](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Whimsy)
 

@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The 13th Floor theme was created by Mark Badolato.
 - Made from: [iTerm2-Color-Schemes, ghostty/13th Floor](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/13th%20Floor)
 

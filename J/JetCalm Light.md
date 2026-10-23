@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The JetCalm Light theme was created by [mtueih](https://github.com/mtueih) based on [Son A. Pham](https://github.com/sonph)'s [One Half Light](https://github.com/sonph/onehalf) theme, inspired by the [JetBrains](https://www.jetbrains.com) IDE interface color palette
 - Made from: [iTerm2-Color-Schemes, ghostty/JetCalm Light](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/JetCalm%20Light)
 

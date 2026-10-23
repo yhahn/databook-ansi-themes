@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The theme Sugarplum was created by [lemonlime0x3C33](https://github.com/lemonlime0x3C33/iTerm2-Color-Schemes-Sugarplum)
 - Made from: [iTerm2-Color-Schemes, ghostty/Sugarplum](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Sugarplum)
 

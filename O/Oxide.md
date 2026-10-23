@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Oxide theme was created by [jakmaz](https://github.com/jakmaz)
 - Made from: [iTerm2-Color-Schemes, ghostty/Oxide](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Oxide)
 

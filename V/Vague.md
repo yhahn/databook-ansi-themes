@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Vague theme was created by [vague2k](https://github.com/vague2k) and ported to iTerm2 by [skewb1k](https://github.com/skewb1k)
 - Made from: [iTerm2-Color-Schemes, ghostty/Vague](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Vague)
 

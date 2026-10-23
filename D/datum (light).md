@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The datum (dark) and datum (light) themes were created by [w0zro](https://github.com/w0zro) as [datum](https://github.com/w0zro/datum), a colorscheme derived in OKLCH from the colorblind-safe Okabe-Ito hues and verified against WCAG 2.2 and APCA contrast.
 - Made from: [iTerm2-Color-Schemes, ghostty/datum (light)](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/datum%20(light))
 

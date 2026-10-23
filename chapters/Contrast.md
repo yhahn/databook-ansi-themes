@@ -67,55 +67,33 @@ Every theme that falls short of 4.5, the worst first.
 | [Solarized Dark Patched](../S/Solarized%20Dark%20Patched.md) | yes | `#001e27` | `#708284` | 4.29 |
 | [Urple](../U/Urple.md) | yes | `#1b1b23` | `#877a9b` | 4.31 |
 
-## The defaults
+## The featured themes
 
-**Of the themes that ship by default, which read best?** Of the 52 that ship with cards.md by default, [GitHub Light High Contrast](../G/GitHub%20Light%20High%20Contrast.md) reads best, at 18.91, and [iTerm2 Solarized Light](../I/iTerm2%20Solarized%20Light.md) least, at 4.13; 2 of them fall short of 4.5.
+**Of the featured themes that ship with cards.md, which read best?** Of the 28 that are featured, the ones cards.md ships, [GitHub Light High Contrast](../G/GitHub%20Light%20High%20Contrast.md) reads best, at 18.91, and [iTerm2 Solarized Light](../I/iTerm2%20Solarized%20Light.md) least, at 4.13; 1 of them fall short of 4.5.
 
-The themes that ship with cards.md by default, the best read first.
+The featured themes, the ones cards.md ships, the best read first.
 
 | Theme | Background | Text | Contrast |
 | --- | --- | --- | --- |
 | [GitHub Light High Contrast](../G/GitHub%20Light%20High%20Contrast.md) | `#ffffff` | `#0e1116` | 18.91 |
 | [GitHub Dark High Contrast](../G/GitHub%20Dark%20High%20Contrast.md) | `#0a0c10` | `#f0f3f6` | 17.57 |
-| [Tomorrow Night Bright](../T/Tomorrow%20Night%20Bright.md) | `#000000` | `#eaeaea` | 17.46 |
 | [GitHub Dark Default](../G/GitHub%20Dark%20Default.md) | `#0d1117` | `#e6edf3` | 16.02 |
 | [GitHub Light Default](../G/GitHub%20Light%20Default.md) | `#ffffff` | `#1f2328` | 15.80 |
-| [Tomorrow Night Blue](../T/Tomorrow%20Night%20Blue.md) | `#002451` | `#ffffff` | 15.32 |
-| [GitHub Light Colorblind](../G/GitHub%20Light%20Colorblind.md) | `#ffffff` | `#24292f` | 14.65 |
 | [Night Owl](../N/Night%20Owl.md) | `#011627` | `#d6deeb` | 13.54 |
 | [Rose Pine](../R/Rose%20Pine.md) | `#191724` | `#e0def4` | 13.39 |
 | [Dracula](../D/Dracula.md) | `#282a36` | `#f8f8f2` | 13.36 |
 | [Atom One Light](../A/Atom%20One%20Light.md) | `#f9f9f9` | `#2a2c33` | 13.24 |
-| [GitHub Dark Colorblind](../G/GitHub%20Dark%20Colorblind.md) | `#0d1117` | `#c9d1d9` | 12.26 |
-| [Gruvbox Dark Hard](../G/Gruvbox%20Dark%20Hard.md) | `#1d2021` | `#ebdbb2` | 11.95 |
-| [Rose Pine Moon](../R/Rose%20Pine%20Moon.md) | `#232136` | `#e0def4` | 11.86 |
 | [Catppuccin Mocha](../C/Catppuccin%20Mocha.md) | `#1e1e2e` | `#cdd6f4` | 11.34 |
 | [Kanagawa Wave](../K/Kanagawa%20Wave.md) | `#1f1f28` | `#dcd7ba` | 11.26 |
-| [Kanagawa Dragon](../K/Kanagawa%20Dragon.md) | `#181616` | `#c5c9c5` | 10.76 |
 | [Gruvbox Dark](../G/Gruvbox%20Dark.md) | `#282828` | `#ebdbb2` | 10.75 |
-| [TokyoNight](../T/TokyoNight.md) | `#1a1b26` | `#c0caf5` | 10.59 |
 | [TokyoNight Night](../T/TokyoNight%20Night.md) | `#1a1b26` | `#c0caf5` | 10.59 |
-| [Gruvbox Light Hard](../G/Gruvbox%20Light%20Hard.md) | `#f9f5d7` | `#3c3836` | 10.53 |
-| [Ayu](../A/Ayu.md) | `#0b0e14` | `#bfbdb6` | 10.27 |
-| [TokyoNight Moon](../T/TokyoNight%20Moon.md) | `#222436` | `#c8d3f5` | 10.26 |
 | [Gruvbox Light](../G/Gruvbox%20Light.md) | `#fbf1c7` | `#3c3836` | 10.22 |
 | [Nightfox](../N/Nightfox.md) | `#192330` | `#cdcecf` | 10.06 |
-| [Catppuccin Macchiato](../C/Catppuccin%20Macchiato.md) | `#24273a` | `#cad3f5` | 9.92 |
 | [Tomorrow Night](../T/Tomorrow%20Night.md) | `#1d1f21` | `#c5c8c6` | 9.80 |
 | [Ayu Mirage](../A/Ayu%20Mirage.md) | `#1f2430` | `#cccac2` | 9.45 |
-| [Everforest Dark Hard](../E/Everforest%20Dark%20Hard.md) | `#1e2326` | `#d3c6aa` | 9.39 |
 | [Nord](../N/Nord.md) | `#2e3440` | `#d8dee9` | 9.25 |
-| [Gruvbox Material](../G/Gruvbox%20Material.md) | `#1d2021` | `#d4be98` | 9.07 |
-| [TokyoNight Storm](../T/TokyoNight%20Storm.md) | `#24283b` | `#c0caf5` | 9.02 |
 | [Everforest Dark Med](../E/Everforest%20Dark%20Med.md) | `#232a2e` | `#d3c6aa` | 8.62 |
-| [Tomorrow Night Eighties](../T/Tomorrow%20Night%20Eighties.md) | `#2d2d2d` | `#cccccc` | 8.58 |
 | [Tomorrow](../T/Tomorrow.md) | `#ffffff` | `#4d4d4c` | 8.46 |
-| [Gruvbox Material Dark](../G/Gruvbox%20Material%20Dark.md) | `#282828` | `#d4be98` | 8.16 |
-| [Catppuccin Frappe](../C/Catppuccin%20Frappe.md) | `#303446` | `#c6d0f5` | 8.06 |
-| [Nordfox](../N/Nordfox.md) | `#2e3440` | `#cdcecf` | 7.93 |
-| [Everforest Dark Soft](../E/Everforest%20Dark%20Soft.md) | `#293136` | `#d3c6aa` | 7.83 |
-| [GitHub Dark Dimmed](../G/GitHub%20Dark%20Dimmed.md) | `#22272e` | `#adbac7` | 7.60 |
-| [Gruvbox Material Light](../G/Gruvbox%20Material%20Light.md) | `#fbf1c7` | `#654735` | 7.39 |
 | [Atom One Dark](../A/Atom%20One%20Dark.md) | `#21252b` | `#abb2bf` | 7.22 |
 | [Catppuccin Latte](../C/Catppuccin%20Latte.md) | `#eff1f5` | `#4c4f69` | 7.06 |
 | [Rose Pine Dawn](../R/Rose%20Pine%20Dawn.md) | `#faf4ed` | `#575279` | 6.66 |
@@ -123,9 +101,7 @@ The themes that ship with cards.md by default, the best read first.
 | [Ayu Light](../A/Ayu%20Light.md) | `#f8f9fa` | `#5c6166` | 5.93 |
 | [Everforest Light Hard](../E/Everforest%20Light%20Hard.md) | `#f2efdf` | `#5c6a72` | 4.84 |
 | [iTerm2 Solarized Dark](../I/iTerm2%20Solarized%20Dark.md) | `#002b36` | `#839496` | 4.75 |
-| [Everforest Light Med](../E/Everforest%20Light%20Med.md) | `#efebd4` | `#5c6a72` | 4.66 |
 | [TokyoNight Day](../T/TokyoNight%20Day.md) | `#e1e2e7` | `#3760bf` | 4.52 |
-| [Everforest Light Soft](../E/Everforest%20Light%20Soft.md) | `#e5dfc5` | `#5c6a72` | 4.17 |
 | [iTerm2 Solarized Light](../I/iTerm2%20Solarized%20Light.md) | `#fdf6e3` | `#657b83` | 4.13 |
 
 The other chapters: [Dark or light](./Dark%20or%20light.md), [Palettes](./Palettes.md), [Alike](./Alike.md). The questions and their answers worked out from upstream's files apart: [FAQ](../FAQ.md).

@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Snazzy Soft theme was created by [liby](https://github.com/liby) inspired by [Sindre Sorhus](https://github.com/sindresorhus)'s [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy), offering a gentler color palette
 - Made from: [iTerm2-Color-Schemes, ghostty/Snazzy Soft](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Snazzy%20Soft)
 

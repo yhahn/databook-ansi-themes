@@ -4,7 +4,7 @@
 -- giving one value. Played by .import/target.js with `proper query`.
 
 -- name: B3 the keys of Theme
--- want: Dark, Background, Foreground, Cursor, Cursor text, Selection, Selection text, Contrast, Same brights, Licence, Licence from, Default, Credit, Made from
+-- want: Dark, Background, Foreground, Cursor, Cursor text, Selection, Selection text, Contrast, Same brights, Licence, Licence from, Default, Featured, Credit, Made from
 select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
 where table_name = 'Theme' and column_name not in ('name', '_file', '_line', '_end_line');
 
@@ -34,9 +34,13 @@ select min(Index) || '-' || max(Index) from Theme_Palette;
 -- want: {dark} / {light}
 select count(*) filter (where Dark = 'yes') || ' / ' || count(*) filter (where Dark = 'no') from Theme;
 
--- name: the themes shipped by default, and each a licence named
+-- name: the themes default (licence known), and each a licence named
 -- want: {default} / {default}
 select count(*) filter (where "Default" = 'yes') || ' / ' || count(*) filter (where "Default" = 'yes' and Licence <> 'unstated') from Theme;
+
+-- name: the featured themes, as the importer counted, each default too
+-- want: {featured} / 0
+select count(*) filter (where Featured = 'yes') || ' / ' || count(*) filter (where Featured = 'yes' and "Default" <> 'yes') from Theme;
 
 -- name: the themes upstream credits
 -- want: {credited}

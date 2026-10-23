@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Karma themes (Karma Dark, Karma Light, Karma Dark HC, Karma Light HC, Karma Dark Dimmed, and Karma Light Dimmed) are based on the [Karma VS Code theme](https://sreetamdas.com/karma) by [Sreetam Das](https://github.com/sreetamdas) and were ported to iTerm2 by [Artur Spatari](https://github.com/aspatari/iterm2-karma).
 - Made from: [iTerm2-Color-Schemes, ghostty/Karma Dark HC](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Karma%20Dark%20HC)
 

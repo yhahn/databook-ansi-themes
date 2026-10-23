@@ -12,6 +12,7 @@
 - Licence: MIT
 - Licence from: https://github.com/rebelot/kanagawa.nvim
 - Default: yes
+- Featured: yes
 - Credit: The Kanagawa themes (Kanagawa Wave, Kanagawa Dragon, and Kanagawa Lotus) were created by [rebelot](https://github.com/rebelot) and added by [Jeremy Seago](https://github.com/seagoj) and [Antonio Camargo](https://github.com/apcamargo).
 - Made from: [iTerm2-Color-Schemes, ghostty/Kanagawa Wave](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Kanagawa%20Wave)
 

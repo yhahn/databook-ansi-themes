@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Light 2026 theme is VS Code's default light theme, as its integrated terminal draws it. It was added by [Philip Lindberg](https://github.com/philiplindberg).
 - Made from: [iTerm2-Color-Schemes, ghostty/Light 2026](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Light%202026)
 

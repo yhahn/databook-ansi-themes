@@ -32,6 +32,8 @@ const lic = fs.readFileSync(path.join(__dirname, 'licences.md'), 'utf8');
 const shipped = [...lic.matchAll(/^\| ([^|]+) \| [^|]+ \| ([^|]+) \| [^|]+ \|$/gm)]
   .filter(m => m[1].trim() !== 'Themes' && !/^-+$/.test(m[1].trim()))
   .flatMap(m => m[1].split(',').map(s => ({ name: s.trim(), licence: m[2].trim() })));
+const feat = fs.readFileSync(path.join(__dirname, 'featured.md'), 'utf8');
+const featured = [...feat.matchAll(/^\| ([^|]+) \| [^|]+ \|$/gm)].map(m => m[1].trim()).filter(n => n !== 'Theme' && !/^-+$/.test(n));
 const r2 = x => x.toFixed(2);
 
 const answers = {
@@ -49,13 +51,18 @@ const answers = {
     return [`${t.name}, ${r2(ratio(t.fg, t.bg))}`, `${t.name}: foreground ${t.fg} on background ${t.bg}, contrast ${r2(ratio(t.fg, t.bg))}.`];
   },
   'th-across-3': () => [shipped.length, `licences.md names ${shipped.length} themes.`],
+  'th-across-6': () => [featured.length, `featured.md names ${featured.length} themes.`],
   'th-across-4': () => {
     const same = all.filter(t => t.palette.slice(0, 8).every((c, i) => c === t.palette[i + 8]));
     return [same.length, `${same.length} themes: ${same.map(t => t.name).join(', ')}.`, { n: same.length }];
   },
   'th-across-5': () => {
     const t = shipped.map(s => by.get(s.name)).reduce((a, b) => (ratio(b.fg, b.bg) > ratio(a.fg, a.bg) ? b : a));
-    return [`${t.name}, ${r2(ratio(t.fg, t.bg))}`, `Of the ${shipped.length} shipped: ${t.name}, foreground ${t.fg} on ${t.bg}, contrast ${r2(ratio(t.fg, t.bg))}.`, { name: [t.name], value: +r2(ratio(t.fg, t.bg)) }];
+    return [`${t.name}, ${r2(ratio(t.fg, t.bg))}`, `Of the ${shipped.length} with a known licence: ${t.name}, foreground ${t.fg} on ${t.bg}, contrast ${r2(ratio(t.fg, t.bg))}.`, { name: [t.name], value: +r2(ratio(t.fg, t.bg)) }];
+  },
+  'th-across-7': () => {
+    const t = featured.map(n => by.get(n)).reduce((a, b) => (ratio(b.fg, b.bg) > ratio(a.fg, a.bg) ? b : a));
+    return [`${t.name}, ${r2(ratio(t.fg, t.bg))}`, `Of the ${featured.length} featured: ${t.name}, foreground ${t.fg} on ${t.bg}, contrast ${r2(ratio(t.fg, t.bg))}.`, { name: [t.name], value: +r2(ratio(t.fg, t.bg)) }];
   },
   'th-gap-1': () => ['the book does not say', 'A theme gives colours only.'],
   'th-gap-2': () => ['the book does not say', 'Neither the theme nor upstream\'s credits give a date.'],

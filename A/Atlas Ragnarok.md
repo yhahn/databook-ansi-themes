@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Atlas Ragnarok theme was created by [Atlas Kaisar](https://github.com/AyoubTadlaoui) — tech-blue thunder above, crimson fire below, pure black through the middle. Built on the syntactic structure of [Vesper](https://github.com/raunofreiberg/vesper) with the warm-accent family remapped to a Tailwind blue gradient. Ships across many editors at [atlas-ragnarok](https://github.com/AyoubTadlaoui/atlas-ragnarok)
 - Made from: [iTerm2-Color-Schemes, ghostty/Atlas Ragnarok](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Atlas%20Ragnarok)
 

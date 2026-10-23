@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 - Made from: [iTerm2-Color-Schemes, ghostty/Bright Lights](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Bright%20Lights)
 

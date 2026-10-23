@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Lit Cell Light theme was created by [Zerebos](https://github.com/zerebos).
 - Made from: [iTerm2-Color-Schemes, ghostty/Lit Cell Light](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Lit%20Cell%20Light)
 

@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Abernathy theme was created by [barish](https://instagram.com/barish)
 - Made from: [iTerm2-Color-Schemes, ghostty/Abernathy](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Abernathy)
 

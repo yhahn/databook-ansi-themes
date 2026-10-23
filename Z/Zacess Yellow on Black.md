@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Zacess Light, Zacess Dark, Zacess Yellow on Black and Zacess Cream themes were created by [Zacess](https://zacess.com). Source: [zacesshq/themes](https://github.com/zacesshq/themes).
 - Made from: [iTerm2-Color-Schemes, ghostty/Zacess Yellow on Black](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Zacess%20Yellow%20on%20Black)
 

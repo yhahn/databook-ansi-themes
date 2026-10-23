@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Clockwork Gold theme was created by [Clockwork](https://www.clockwork.com), from [ClockworkNet/clockwork-gold](https://github.com/ClockworkNet/clockwork-gold). The palette is human-designed; the YAML source was converted from its Ghostty theme with AI assistance.
 - Made from: [iTerm2-Color-Schemes, ghostty/Clockwork Gold](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Clockwork%20Gold)
 

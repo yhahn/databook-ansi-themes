@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The SilkCircuit themes (SilkCircuit Neon, SilkCircuit Vibrant, SilkCircuit Soft, SilkCircuit Glow, and SilkCircuit Dawn) were created by [Stefanie Jane](https://github.com/hyperb1iss) as the terminal side of the [SilkCircuit](https://github.com/hyperb1iss/silkcircuit) design system, a single palette shared across Neovim, VS Code, Chrome, and terminals.
 - Made from: [iTerm2-Color-Schemes, ghostty/SilkCircuit Neon](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/SilkCircuit%20Neon)
 

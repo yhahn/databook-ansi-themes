@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Xcode dark, Xcode dark (High Contrast), Xcode light, Xcode light (High Contrast), and Xcode WWDC themes were all created by [lunacookies](https://github.com/lunacookies/vim-colors-xcode).
 - Made from: [iTerm2-Color-Schemes, ghostty/Xcode WWDC](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Xcode%20WWDC)
 

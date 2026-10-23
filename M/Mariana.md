@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Mariana theme was adapted from the [Sublime Text](https://www.sublimetext.com/) theme of the same name.
 - Made from: [iTerm2-Color-Schemes, ghostty/Mariana](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Mariana)
 

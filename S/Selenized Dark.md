@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The themes Selenized Dark and Light were created by [jan-warchol](https://github.com/jan-warchol) and added by [iton0](https://github.com/iton0)
 - Made from: [iTerm2-Color-Schemes, ghostty/Selenized Dark](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Selenized%20Dark)
 

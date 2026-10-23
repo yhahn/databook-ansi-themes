@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Harper theme was created by [idleberg](https://github.com/idleberg/Harper-iTerm2)
 - Made from: [iTerm2-Color-Schemes, ghostty/Harper](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Harper)
 

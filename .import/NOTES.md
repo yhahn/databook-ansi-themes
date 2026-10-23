@@ -1,3 +1,58 @@
+# Notes: the featured field (2026-10-23, a deputy)
+
+**Asked.** A field `featured` beside `default`: `default` the licence fact
+(52), `featured` the agreed 28 cards.md ships. Branch `featured`, nothing
+pushed.
+
+**Predicted (before the work).** About 850 files change (816 theme pages,
+26 folder pages, themes.json, counts, Source, README, two chapters, FAQ,
+the importer's files). What breaks: the README's counts and one chapter
+query (the seat's guess), plus the target's key list, the Nord page vector,
+and the FAQ's two "ships by default" questions.
+
+**Made.** One commit on `featured` (hash in the report). `.import/featured.md`
+(the 28, the person, 10-23); import.js reads it and `checkFeatured` stops
+the build, naming the name, unless each is a theme and default; `- Featured:
+yes|no` on all 816 theme pages (28 yes, 788 no, nothing else changed on any
+of them); a row and a column on the 26 folder pages; `featured` in
+themes.json, counts.json (28) and Source.md. Reading, chapters, README,
+FAQ words say featured where they mean the shipped list. 14 tests, target
+(19 checks) and `proper check` hold; the FAQ 20 questions, 0 warnings.
+
+**Proof the book moved only where asked.** Rebuilt from the same upstream
+commit (c379d7a31af8): themes.json, each theme minus `featured`, is equal to
+main's for all 816 (same names, no colour changed, none added or removed;
+source, aliases, removed equal). Theme pages: +1 line each. Folder pages:
+the Featured row and column only. Other: README, FAQ, chapters/Contrast.md
+and Palettes.md (the featured list replaces the 52; Palettes now draws 28
+palettes), Source.md (+1 line).
+
+**Decisions** (.import/DECISIONS.md): no aliases or removed for the 24
+default themes that leave the list (the person's); the FAQ's two old
+questions keep their ids and answers, two new ones added; `ct-default`
+renamed `ct-featured`.
+
+**For cards.md** (not ours to mend): its own fallback for a config that
+names a theme outside the 28 (say Everforest Dark Soft) is its concern; the
+book resolves it by name, `default` true, `featured` false.
+
+**Unsure.** Folder pages gained a `- Featured: N` row beside `- Default`
+(not asked; it keeps the pair together). Reading's kept values: reading.json
+rekeyed (`feat_*`), so the next release's finding-turned compares from here.
+
+**Predicted against turned out.** Files: 862 changed plus 2 new. The README
+count broke as guessed; the chapter query was the README's query 1 (it used
+Default; now Featured), not a chapter's; the others held except what I list
+above. Faults: none in the data; I first reworded th-across-3 and -5's
+Asks as new ids' worth and caught it against the FAQ's own rule (add, never
+change), then settled as above.
+
+**The brief lacked** the FAQ rule's meeting with the change (two questions
+spoke of "ships by default"), and whether folder pages get a count row.
+
+
+---
+
 # Notes: the R pass (2026-10-20, a deputy)
 
 **Asked.** The R pass on databook-themes (SPEC R1-R6): pick the spine,

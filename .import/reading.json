@@ -76,11 +76,11 @@
     ],
     "best_n": 29,
     "best_v": 21,
-    "def_best": [
+    "feat_best": [
      "GitHub Light High Contrast"
     ],
-    "def_best_v": 18.91,
-    "def_n": 52,
+    "feat_best_v": 18.91,
+    "feat_n": 28,
     "good": 791,
     "poor": 25,
     "themes": 816,
@@ -179,17 +179,17 @@
     "poor": 25,
     "poor_dark": 21
    },
-   "ct-default": {
-    "def_best": [
+   "ct-featured": {
+    "feat_best": [
      "GitHub Light High Contrast"
     ],
-    "def_best_v": 18.91,
-    "def_n": 52,
-    "def_poor": 2,
-    "def_worst": [
+    "feat_best_v": 18.91,
+    "feat_n": 28,
+    "feat_poor": 1,
+    "feat_worst": [
      "iTerm2 Solarized Light"
     ],
-    "def_worst_v": 4.13
+    "feat_worst_v": 4.13
    }
   },
   "chapters/Palettes.md": {

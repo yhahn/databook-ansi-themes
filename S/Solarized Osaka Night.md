@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Solarized Osaka Night theme came from work by [craftzdog](https://github.com/craftzdog/solarized-osaka.nvim) and was contributed to this project by [johnstegeman](https://github.com/johnstegeman)
 - Made from: [iTerm2-Color-Schemes, ghostty/Solarized Osaka Night](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Solarized%20Osaka%20Night)
 

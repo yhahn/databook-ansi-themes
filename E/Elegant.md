@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Elegant theme was created by [lukgri](https://github.com/lukgri)
 - Made from: [iTerm2-Color-Schemes, ghostty/Elegant](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Elegant)
 

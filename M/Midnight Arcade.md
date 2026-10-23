@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Midnight Arcade, Terminal Green 1999, Vaporwave Sunset, CRT Amber, Purple Portal, Y2K Chrome, and Cassette Tape themes were created by [theebest.com](https://www.theebest.com), from its open-source developer theme collection ([TriumphInteractive/theebest-themes](https://github.com/TriumphInteractive/theebest-themes)). The palettes are human-designed; the YAML source files were produced from them with AI assistance.
 - Made from: [iTerm2-Color-Schemes, ghostty/Midnight Arcade](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Midnight%20Arcade)
 

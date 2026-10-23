@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Mellifluous theme was adapted by [rektdeckard](https://github.com/rektdeckard) from the NeoVim scheme of the same name by [ramojus](https://github.com/ramojus/mellifluous.nvim)
 - Made from: [iTerm2-Color-Schemes, ghostty/Mellifluous](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Mellifluous)
 

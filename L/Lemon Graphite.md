@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Lemon Graphite theme was created by [ZioFester90](https://github.com/ZioFester90) with AI assistance.
 - Made from: [iTerm2-Color-Schemes, ghostty/Lemon Graphite](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Lemon%20Graphite)
 

@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The 12-bit Rainbow theme was adapted by [xxxserxxx](https://github.com/xxxserxxx) from Kate Morley's public-domain [12-bit Rainbow palette](https://iamkate.com/data/12-bit-rainbow/).
 - Made from: [iTerm2-Color-Schemes, ghostty/12-bit Rainbow](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/12-bit%20Rainbow)
 

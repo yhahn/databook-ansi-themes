@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Niji theme was created by [some dude](https://github.com/indyandie) based on [Arcoiris](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/README.md#niji) and [darcula](https://github.com/helix-editor/helix/blob/d5af6031f6ccd0a3f32efbb210aec24cd9c71ab1/runtime/themes/darcula.toml)
 - Made from: [iTerm2-Color-Schemes, ghostty/Niji](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Niji)
 

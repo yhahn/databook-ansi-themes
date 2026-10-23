@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Purple Rain theme was created by [msorre2](https://github.com/msorre2)
 - Made from: [iTerm2-Color-Schemes, ghostty/Purple Rain](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Purple%20Rain)
 

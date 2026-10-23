@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Keys Ocean Sunset and Keys Ocean Sunset HC themes were created by Grok Build Composer 2.5 Fast as an AI theme generation test — original dark themes inspired by Florida Keys ocean sunsets. Palette colors draw on perceptually sampled Keys sunset photography ([jscarto gist](https://gist.github.com/jscarto/218474b4962a022644c3b05af193a4b3)), Moody Sunset ocean-to-amber gradients, and Florida sunset coral/peach tones.
 - Made from: [iTerm2-Color-Schemes, ghostty/Keys Ocean Sunset HC](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Keys%20Ocean%20Sunset%20HC)
 

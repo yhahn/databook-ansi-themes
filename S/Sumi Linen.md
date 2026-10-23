@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Sumi Phosphor and Sumi Linen themes were created by Grok Build Composer 2.5 Fast as a complementary dark/light pair — sumi ink on espresso black with a phosphor-teal signal accent, and sumi typography on unbleached linen.
 - Made from: [iTerm2-Color-Schemes, ghostty/Sumi Linen](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Sumi%20Linen)
 

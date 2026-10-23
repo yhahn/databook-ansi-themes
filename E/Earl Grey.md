@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Earl Grey theme is based on the [Earl Grey](https://earl-grey.halt.wtf/) color scheme by the [earl-grey-theme](https://github.com/earl-grey-theme/earl-grey) project. That project publishes only a background/foreground/accent palette (no terminal ANSI set), so the 16-color ANSI palette was derived from its published colors for this port.
 - Made from: [iTerm2-Color-Schemes, ghostty/Earl Grey](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Earl%20Grey)
 

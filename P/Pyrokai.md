@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Pyrokai and Pyrokai Light themes were created by [Patrick Serrano](https://patrickserrano.com) — Monokai's accent family, warm-shifted, expanded into a Flexoki-shaped tonal system, generated in OKLCH and gamut-mapped to sRGB. Full palette and other app themes at [patrickserrano.github.io/pyrokai](https://patrickserrano.github.io/pyrokai/).
 - Made from: [iTerm2-Color-Schemes, ghostty/Pyrokai](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Pyrokai)
 

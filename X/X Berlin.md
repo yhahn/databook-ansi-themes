@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The X theme family (X, X Madrid, X Lahabana, X Miami, X Paris, X Tokio, X Oslo, X Helsinki, X Berlin, X London, X Praha, and X Bogota) was created by [Xscriptor](https://github.com/xscriptor). Palette source: [xscriptor-colors/assets](https://github.com/xscriptor-colors/assets).
 - Made from: [iTerm2-Color-Schemes, ghostty/X Berlin](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/X%20Berlin)
 

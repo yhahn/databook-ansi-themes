@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Trapped in Amber theme was created by [mattjoyce](https://github.com/mattjoyce/trapped-in-amber).
 - Made from: [iTerm2-Color-Schemes, ghostty/Trapped in Amber](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Trapped%20in%20Amber)
 

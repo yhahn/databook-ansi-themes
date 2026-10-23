@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Phala Green Dark theme was created by [h4x3rotab](https://github.com/h4x3rotab)
 - Made from: [iTerm2-Color-Schemes, ghostty/Phala Green Dark](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Phala%20Green%20Dark)
 

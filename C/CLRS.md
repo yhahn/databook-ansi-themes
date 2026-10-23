@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The CLRS theme was created by [jasonlong](https://github.com/jasonlong/iterm-clrs)
 - Made from: [iTerm2-Color-Schemes, ghostty/CLRS](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/CLRS)
 

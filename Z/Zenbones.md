@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Zenbones schemes ( duckbones, kanagawabones, neobones_dark, neobones_light, seoulbones_dark, seoulbones_light, vimbones, zenbones, zenbones_dark, zenbones_light, zenburned, zenwritten_dark, zenwritten_light) were taken from [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)
 - Made from: [iTerm2-Color-Schemes, ghostty/Zenbones](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Zenbones)
 

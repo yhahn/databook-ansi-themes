@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Cyberpunk Scarlet Protocol theme was created by [garrettmroberts](https://github.com/garrettmroberts). It is based on the Scarlet Protocol variation of the [Cyberpunk VsCode theme](https://github.com/prometheux-ar/cyberpunk).
 - Made from: [iTerm2-Color-Schemes, ghostty/Cyberpunk Scarlet Protocol](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Cyberpunk%20Scarlet%20Protocol)
 

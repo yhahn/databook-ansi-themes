@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Night Pharmacy theme was created by Mark Badolato. The Numbers Station theme was created by Mark Badolato.
 - Made from: [iTerm2-Color-Schemes, ghostty/Numbers Station](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Numbers%20Station)
 

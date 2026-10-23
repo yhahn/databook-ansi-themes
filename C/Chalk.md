@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Chalk theme was created by [achalv](https://github.com/achalv/chalk)
 - Made from: [iTerm2-Color-Schemes, ghostty/Chalk](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Chalk)
 

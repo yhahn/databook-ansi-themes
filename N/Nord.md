@@ -12,6 +12,7 @@
 - Licence: MIT
 - Licence from: https://github.com/nordtheme/nord
 - Default: yes
+- Featured: yes
 - Credit: Nord theme was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [Teraskull](https://github.com/Teraskull)
 - Made from: [iTerm2-Color-Schemes, ghostty/Nord](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Nord)
 

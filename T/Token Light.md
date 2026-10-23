@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Token Dark and Token Light themes were created by [Thorsten Rhau](https://github.com/ThorstenRhau) from the [Token](https://github.com/ThorstenRhau/token) colorscheme.
 - Made from: [iTerm2-Color-Schemes, ghostty/Token Light](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Token%20Light)
 

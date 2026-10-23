@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Synthwave Alpha theme was created by [vikpe](https://github.com/vikpe) based on the [Synthwave Alpha](https://github.com/vikpe/synthwave-alpha) color palette
 - Made from: [iTerm2-Color-Schemes, ghostty/Synthwave Alpha](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Synthwave%20Alpha)
 

@@ -12,6 +12,7 @@
 - Licence: MIT
 - Licence from: https://github.com/altercation/solarized
 - Default: yes
+- Featured: yes
 - Credit:
 - Made from: [iTerm2-Color-Schemes, ghostty/iTerm2 Solarized Dark](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/iTerm2%20Solarized%20Dark)
 

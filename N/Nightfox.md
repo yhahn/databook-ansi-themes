@@ -12,6 +12,7 @@
 - Licence: MIT
 - Licence from: https://github.com/EdenEast/nightfox.nvim
 - Default: yes
+- Featured: yes
 - Credit: The Nightfox, Dayfox and Terafox theme was created by [EdenEast](https://github.com/edeneast/nightfox.nvim)
 - Made from: [iTerm2-Color-Schemes, ghostty/Nightfox](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Nightfox)
 

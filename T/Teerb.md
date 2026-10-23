@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Teerb theme was created by [Teerb](https://gist.github.com/teerb/1360453)
 - Made from: [iTerm2-Color-Schemes, ghostty/Teerb](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Teerb)
 

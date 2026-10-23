@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Shriram-Balaji)
 - Made from: [iTerm2-Color-Schemes, ghostty/Nocturnal Winter](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Nocturnal%20Winter)
 

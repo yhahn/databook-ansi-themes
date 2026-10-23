@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Acid Lime, Aubade, Citrus Ink, Daybreak, Driftwood, Eclipse, Forge Ember, Frostbyte, Graphite, Green Phosphor CRT, Letterpress, Matcha Zen, Miami Heat, Nebula Drift, Opaline, Oxblood, Patina, Porcelain, Prism, Velvet Court, Verdigris, and Amber CRT Retro themes were created by [PoshPalette](https://github.com/livlign/posh-palette), an interactive PowerShell + Windows Terminal theme picker. Browse them at https://livlign.github.io/posh-palette/themes.html
 - Made from: [iTerm2-Color-Schemes, ghostty/Acid Lime](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Acid%20Lime)
 

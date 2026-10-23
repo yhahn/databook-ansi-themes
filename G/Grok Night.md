@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Grok Day and Grok Night themes come from [promptegrity/grok-themes](https://github.com/promptegrity/grok-themes). The palettes are adapted from [xai-org/grok-build](https://github.com/xai-org/grok-build). [zasdaym](https://github.com/zasdaym) added these themes.
 - Made from: [iTerm2-Color-Schemes, ghostty/Grok Night](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Grok%20Night)
 

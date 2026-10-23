@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Gruber Darker theme was inspired by [Alexey Kutepov](https://github.com/rexim)
 - Made from: [iTerm2-Color-Schemes, ghostty/Gruber Darker](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Gruber%20Darker)
 

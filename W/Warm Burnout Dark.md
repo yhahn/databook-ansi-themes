@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Warm Burnout Dark and Warm Burnout Light themes were created by [Felipe Lima](https://github.com/felipefdl) as part of the [Warm Burnout](https://github.com/felipefdl/warm-burnout) multi-platform theme suite.
 - Made from: [iTerm2-Color-Schemes, ghostty/Warm Burnout Dark](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Warm%20Burnout%20Dark)
 

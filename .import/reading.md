@@ -82,8 +82,8 @@ eighteen are the very same.
 ### Question: front-reads
 - Page: README.md
 - Ask: Which themes read best, and which worst?
-- Answer: {good:,} of the {themes:,} themes' text reads well on its background, {very:,} very well; {poor} fall short of 4.5. {best_n} reach {best_v}, as far as contrast goes; worst is {worst:t}, at {worst_v}. Of the {def_n} that ship with cards.md by default, {def_best:t} reads best, at {def_best_v}.
-- Measure: the contrast of each theme's text on its background; the greatest and least, ties kept; the same over the themes shipped by default
+- Answer: {good:,} of the {themes:,} themes' text reads well on its background, {very:,} very well; {poor} fall short of 4.5. {best_n} reach {best_v}, as far as contrast goes; worst is {worst:t}, at {worst_v}. Of the {feat_n} that are featured, the ones cards.md ships, {feat_best:t} reads best, at {feat_best_v}.
+- Measure: the contrast of each theme's text on its background; the greatest and least, ties kept; the same over the featured themes
 - Picture: bars, the themes by their contrast, 4.5 and 7 marked; the best and worst, their colours drawn
 - Turns on: best, worst
 - FAQ: th-reading-1
@@ -171,16 +171,16 @@ eighteen are the very same.
 - FAQ page: chapters/Contrast.md
 - Holds: light_med=light, dark_med=dark
 
-### Question: ct-default
+### Question: ct-featured
 - Page: chapters/Contrast.md
-- Ask: Of the themes that ship by default, which read best?
-- Answer: Of the {def_n} that ship with cards.md by default, {def_best:t} reads best, at {def_best_v}, and {def_worst:t} least, at {def_worst_v}; {def_poor} of them fall short of 4.5.
-- Measure: the themes named in licences.md, by their contrast
-- Picture: the defaults ranked, their colours drawn
-- Turns on: def_best
-- FAQ: th-across-5
+- Ask: Of the featured themes that ship with cards.md, which read best?
+- Answer: Of the {feat_n} that are featured, the ones cards.md ships, {feat_best:t} reads best, at {feat_best_v}, and {feat_worst:t} least, at {feat_worst_v}; {feat_poor} of them fall short of 4.5.
+- Measure: the themes named in featured.md, by their contrast
+- Picture: the featured themes ranked, their colours drawn
+- Turns on: feat_best
+- FAQ: th-across-7
 - FAQ page: chapters/Contrast.md
-- Holds: def_best=name, def_best_v=value
+- Holds: feat_best=name, feat_best_v=value
 
 ## Palettes (chapters/Palettes.md)
 
@@ -211,7 +211,7 @@ eighteen are the very same.
 - Ask: Do the bright colours differ from the normal ones?
 - Answer: In {brights_all:,} themes all eight bright colours differ from their normal ones; in {brights_none} none do. {few_colours:,} themes use fewer than sixteen different colours in their palette.
 - Measure: colours 8 to 15 against 0 to 7, each the very same or not; the different colours of the sixteen
-- Picture: the defaults' palettes, a theme a row
+- Picture: the featured themes' palettes, a theme a row
 - Turns on: brights_most
 - FAQ: th-across-4
 - FAQ page: chapters/Palettes.md

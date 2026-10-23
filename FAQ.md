@@ -1,6 +1,6 @@
 # Questions and answers
 
-18 questions a careful reader of this book can answer, from the plainest (one theme's colour) to the hardest (whether light themes read better than dark), each with its answer and the page to look in. Read a question, open the page, and find the answer yourself; or put the questions to a reader or an agent with this page hidden, and mark what comes back. Where the book cannot answer, the right answer is to say so. The answers are worked out afresh from upstream's own files at every release, not copied from the pages: where the two disagree, one is wrong.
+20 questions a careful reader of this book can answer, from the plainest (one theme's colour) to the hardest (whether light themes read better than dark), each with its answer and the page to look in. Read a question, open the page, and find the answer yourself; or put the questions to a reader or an agent with this page hidden, and mark what comes back. Where the book cannot answer, the right answer is to say so. The answers are worked out afresh from upstream's own files at every release, not copied from the pages: where the two disagree, one is wrong.
 
 ### Question: th-lookup-1
 
@@ -71,7 +71,7 @@ Darkermatrix: foreground #35451a on background #070c0e, contrast 1.89.
 ### Question: th-across-3
 
 - Tier: Across
-- Ask: How many themes ship with cards.md by default?
+- Ask: How many themes are default, their own project's licence known (the ones licences.md names)?
 - Answer: 52
 - Type: number
 - Tolerance: 0
@@ -93,13 +93,35 @@ licences.md names 52 themes.
 ### Question: th-across-5
 
 - Tier: Across
-- Ask: Which of the themes that ship by default has the most readable text, and what is its contrast?
+- Ask: Which of the default themes (licence known) has the most readable text, and what is its contrast?
 - Answer: GitHub Light High Contrast, 18.91
 - Type: judge
 - Tolerance:
 - Look in: [README](./README.md)
 
-Of the 52 shipped: GitHub Light High Contrast, foreground #0e1116 on #ffffff, contrast 18.91.
+Of the 52 with a known licence: GitHub Light High Contrast, foreground #0e1116 on #ffffff, contrast 18.91.
+
+### Question: th-across-6
+
+- Tier: Across
+- Ask: How many themes are featured, the short list that ships with cards.md?
+- Answer: 28
+- Type: number
+- Tolerance: 0
+- Look in: [README](./README.md)
+
+featured.md names 28 themes.
+
+### Question: th-across-7
+
+- Tier: Across
+- Ask: Which of the featured themes has the most readable text, and what is its contrast?
+- Answer: GitHub Light High Contrast, 18.91
+- Type: judge
+- Tolerance:
+- Look in: [README](./README.md)
+
+Of the 28 featured: GitHub Light High Contrast, foreground #0e1116 on #ffffff, contrast 18.91.
 
 ### Question: th-gap-1
 

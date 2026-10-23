@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The themes Adwaita and Adwaita Dark are based on the GNOME desktop environment's default Adwaita palette and were adapted for iTerm2 by [cnavajas](https://github.com/cnavajas), with inspiration from vixalien's palette.
 - Made from: [iTerm2-Color-Schemes, ghostty/Adwaita](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Adwaita)
 

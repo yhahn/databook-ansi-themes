@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Springfield Resident Hight Contrast theme was created by Mark Badolato.
 - Made from: [iTerm2-Color-Schemes, ghostty/Springfield Resident Hight Contrast](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Springfield%20Resident%20Hight%20Contrast)
 

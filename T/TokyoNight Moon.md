@@ -12,6 +12,7 @@
 - Licence: Apache-2.0
 - Licence from: https://github.com/folke/tokyonight.nvim
 - Default: yes
+- Featured: no
 - Credit:
 - Made from: [iTerm2-Color-Schemes, ghostty/TokyoNight Moon](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/TokyoNight%20Moon)
 

@@ -60,7 +60,7 @@ First written 2026-10-16.
 
 ### Question: th-across-3
 - Tier: Across
-- Ask: How many themes ship with cards.md by default?
+- Ask: How many themes are default, their own project's licence known (the ones licences.md names)?
 - Type: number
 - Tolerance: 0
 - How: the themes named in licences.md
@@ -76,10 +76,26 @@ First written 2026-10-16.
 
 ### Question: th-across-5
 - Tier: Across
-- Ask: Which of the themes that ship by default has the most readable text, and what is its contrast?
+- Ask: Which of the default themes (licence known) has the most readable text, and what is its contrast?
 - Type: judge
 - Tolerance:
 - How: the themes named in licences.md, the WCAG contrast of foreground on background, the greatest
+- Look in: README.md
+
+### Question: th-across-6
+- Tier: Across
+- Ask: How many themes are featured, the short list that ships with cards.md?
+- Type: number
+- Tolerance: 0
+- How: the themes named in featured.md
+- Look in: README.md
+
+### Question: th-across-7
+- Tier: Across
+- Ask: Which of the featured themes has the most readable text, and what is its contrast?
+- Type: judge
+- Tolerance:
+- How: the themes named in featured.md, the WCAG contrast of foreground on background, the greatest
 - Look in: README.md
 
 ### Question: th-gap-1

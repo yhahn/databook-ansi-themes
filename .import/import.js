@@ -101,6 +101,27 @@ function readLicences(text) {
   return out;
 }
 
+// The featured list (.import/featured.md): the theme names cards.md ships.
+function readFeatured(text) {
+  const out = [];
+  for (const m of text.matchAll(/^\| ([^|]+) \| ([^|]+) \|$/gm)) {
+    const n = m[1].trim();
+    if (n === 'Theme' || /^-+$/.test(n)) continue;
+    if (out.includes(n)) throw new Error(`featured.md: ${n} twice`);
+    out.push(n);
+  }
+  return out;
+}
+
+// Featured implies default: a name that is no theme, or whose own project
+// states no licence (licences.md), stops the build, naming it.
+function checkFeatured(featured, themes, licences) {
+  for (const n of featured) {
+    if (!themes.has(n)) throw new Error(`featured.md names ${n}, which no theme is`);
+    if (!licences.has(n)) throw new Error(`featured.md names ${n}, which is not default (licences.md does not name it)`);
+  }
+}
+
 // CREDITS.md, upstream's words for a theme: the one paragraph that names it
 // within its first 100 characters, the name whole (not "Nord" in
 // "Nord-light"). None, or several, and the theme has no credit.
@@ -126,6 +147,7 @@ function themePage(t) {
     ['Licence', t.licence],
     ['Licence from', t.licenceAt],
     ['Default', t.default ? 'yes' : 'no'],
+    ['Featured', t.featured ? 'yes' : 'no'],
     ['Credit', t.credit],
     ['Made from', t.madeFrom],
   ];
@@ -138,10 +160,10 @@ function themePage(t) {
 
 function folderPage(folder, themes) {
   const dark = themes.filter(t => t.dark).length;
-  const L = [`# Initial: ${folder}`, '', `- Themes: ${themes.length}`, `- Dark: ${dark}`, `- Light: ${themes.length - dark}`, `- Default: ${themes.filter(t => t.default).length}`, '',
+  const L = [`# Initial: ${folder}`, '', `- Themes: ${themes.length}`, `- Dark: ${dark}`, `- Light: ${themes.length - dark}`, `- Default: ${themes.filter(t => t.default).length}`, `- Featured: ${themes.filter(t => t.featured).length}`, '',
     `The themes whose names begin with ${folder === '0-9' ? 'a figure' : folder}, a page each: the index, by name. The chapters ask across every theme: ${require('./chapters').CHAPTERS.map(c => `[${c.name}](./chapters/${encodeURIComponent(c.name)}.md)`).join(', ')}.`, '', '## Themes', '',
-    '| Theme | Dark | Background | Foreground | Contrast | Licence | Default |', '| --- | --- | --- | --- | --- | --- | --- |'];
-  for (const t of themes) L.push(`| ${link(cell(t.name), `./${folder}/${safe(t.name)}.md`)} | ${t.dark ? 'yes' : 'no'} | \`${t.background}\` | \`${t.foreground}\` | ${t.contrast} | ${cell(t.licence)} | ${t.default ? 'yes' : 'no'} |`);
+    '| Theme | Dark | Background | Foreground | Contrast | Licence | Default | Featured |', '| --- | --- | --- | --- | --- | --- | --- | --- |'];
+  for (const t of themes) L.push(`| ${link(cell(t.name), `./${folder}/${safe(t.name)}.md`)} | ${t.dark ? 'yes' : 'no'} | \`${t.background}\` | \`${t.foreground}\` | ${t.contrast} | ${cell(t.licence)} | ${t.default ? 'yes' : 'no'} | ${t.featured ? 'yes' : 'no'} |`);
   return L.join('\n') + '\n';
 }
 
@@ -163,7 +185,8 @@ function sourcePage(c) {
     `- Newest like: ${UPSTREAM}, its default branch`,
     `- Sha: ${tree}`,
     `- Upstream date: ${c.date}`,
-    `- Themes: ${c.upstream}`, '',
+    `- Themes: ${c.upstream}`,
+    `- Featured: ${c.featured}`, '',
     `Where this book comes from: upstream's \`ghostty/\` folder, read whole at the commit above. As of is the day it was last fetched; past its window (Fresh for), fetch upstream again and rerun the importer. Sha is git's hash of the folder: when it differs from upstream's, the book is behind.`, ''].join('\n');
 }
 
@@ -182,6 +205,8 @@ function build() {
   }
   const credits = fs.readFileSync(path.join(SRC, 'CREDITS.md'), 'utf8').split(/\n\s*\n/).filter(p => !p.startsWith('#'));
   const licences = readLicences(fs.readFileSync(path.join(__dirname, 'licences.md'), 'utf8'));
+
+  const featured = readFeatured(fs.readFileSync(path.join(__dirname, 'featured.md'), 'utf8'));
 
   const themes = new Map();
   for (const f of files) {
@@ -204,8 +229,10 @@ function build() {
     themes.set(t.name, t);
   }
   for (const n of licences.keys()) if (!themes.has(n)) throw new Error(`licences.md names ${n}, which no theme is`);
+  checkFeatured(featured, themes, licences);
   for (const t of themes.values()) {
     const l = licences.get(t.name);
+    t.featured = featured.includes(t.name);
     t.licence = l ? l.licence : 'unstated';
     t.licenceAt = l ? l.at : '';
     t.default = !!l;
@@ -234,7 +261,7 @@ function build() {
     json.themes[t.name] = {
       dark: t.dark, background: t.background, foreground: t.foreground, cursor: t['cursor-color'],
       cursorText: t['cursor-text'], selection: t['selection-background'], selectionText: t['selection-foreground'],
-      palette: t.palette, licence: t.licence, default: t.default,
+      palette: t.palette, licence: t.licence, default: t.default, featured: t.featured,
     };
   }
   // V4, D5: against the last edition. A name gone while a new name holds
@@ -276,7 +303,7 @@ function build() {
   const counts = {
     themes: all.length, upstream: files.length, ours: ours.length, replaced, folders: folders.length,
     dark: all.filter(t => t.dark).length, light: all.filter(t => !t.dark).length,
-    default: all.filter(t => t.default).length, credited: all.filter(t => t.credit).length,
+    default: all.filter(t => t.default).length, featured: all.filter(t => t.featured).length, credited: all.filter(t => t.credit).length,
     palette_rows: all.length * 16, renamed, removed, commit, date: when,
   };
   fs.writeFileSync(path.join(__dirname, 'counts.json'), JSON.stringify(counts, null, 1) + '\n');
@@ -313,4 +340,4 @@ if (require.main === module) {
   if (faq.status === 2) { console.log('stop: a page has drifted from the source (page-drifted, above)'); process.exit(1); }
   if (faq.status) console.log(`warn faq-failed: faq.js exited ${faq.status}`);
 }
-module.exports = { parseGhostty, parseOurs, themePage, folderPage, contrast, isDark, creditFor, readLicences, SLOT };
+module.exports = { readFeatured, checkFeatured, parseGhostty, parseOurs, themePage, folderPage, contrast, isDark, creditFor, readLicences, SLOT };

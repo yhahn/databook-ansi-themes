@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The theme Monokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
 - Made from: [iTerm2-Color-Schemes, ghostty/Monokai Soda](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Monokai%20Soda)
 

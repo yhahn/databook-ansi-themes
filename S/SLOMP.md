@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The SLOMP theme was created by [SLOMP](https://terminalthemes.com/users/01M4Z2EPHX225W0N2YTBYSP6SF).
 - Made from: [iTerm2-Color-Schemes, ghostty/SLOMP](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/SLOMP)
 

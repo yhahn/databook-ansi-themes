@@ -12,6 +12,7 @@
 - Licence: MIT
 - Licence from: https://github.com/ayu-theme/ayu-colors
 - Default: yes
+- Featured: yes
 - Credit: The Ayu Mirage theme was adapted from the [VS Code theme](https://github.com/ayu-theme/vscode-ayu) of the same name.
 - Made from: [iTerm2-Color-Schemes, ghostty/Ayu Mirage](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Ayu%20Mirage)
 

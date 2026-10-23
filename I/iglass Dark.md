@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The iglass Dark and iglass Light themes were created by [Vuk Topalovic](https://github.com/vukkt) for [iglass](https://github.com/vukkt/iglass).
 - Made from: [iTerm2-Color-Schemes, ghostty/iglass Dark](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/iglass%20Dark)
 

@@ -33,7 +33,8 @@
     "#fcfcfa"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "12-bit Rainbow": {
    "dark": true,
@@ -62,7 +63,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "13th Floor": {
    "dark": true,
@@ -91,7 +93,8 @@
     "#f4e5cf"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "3024 Day": {
    "dark": false,
@@ -120,7 +123,8 @@
     "#f7f7f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "3024 Night": {
    "dark": true,
@@ -149,7 +153,8 @@
     "#f7f7f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "5150 Mode": {
    "dark": true,
@@ -178,7 +183,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Aardvark Blue": {
    "dark": true,
@@ -207,7 +213,8 @@
     "#f7f7f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Aardvark Ink": {
    "dark": true,
@@ -236,7 +243,8 @@
     "#dfe5ee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Abandoned": {
    "dark": true,
@@ -265,7 +273,8 @@
     "#f0ecdc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Abernathy": {
    "dark": true,
@@ -294,7 +303,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Acid Lime": {
    "dark": true,
@@ -323,7 +333,8 @@
     "#d4efbc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Adobe Moon": {
    "dark": true,
@@ -352,7 +363,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Adventure": {
    "dark": true,
@@ -381,7 +393,8 @@
     "#e4d5c7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Adventure Time": {
    "dark": true,
@@ -410,7 +423,8 @@
     "#f6f5fb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Adwaita": {
    "dark": false,
@@ -439,7 +453,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Adwaita Dark": {
    "dark": true,
@@ -468,7 +483,8 @@
     "#f6f5f4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "After Hours": {
    "dark": true,
@@ -497,7 +513,8 @@
     "#fdfaf6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Afterglow": {
    "dark": true,
@@ -526,7 +543,8 @@
     "#f5f5f5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Afterimage": {
    "dark": false,
@@ -555,7 +573,8 @@
     "#4a404a"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Agave Dusk": {
    "dark": true,
@@ -584,7 +603,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Aizen Dark": {
    "dark": true,
@@ -613,7 +633,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Aizen Light": {
    "dark": false,
@@ -642,7 +663,8 @@
     "#4a4d66"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Alabaster": {
    "dark": false,
@@ -671,7 +693,8 @@
     "#f7f7f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Alien Blood": {
    "dark": true,
@@ -700,7 +723,8 @@
     "#73fa91"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Amber CRT Retro": {
    "dark": true,
@@ -729,7 +753,8 @@
     "#fff0d6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Analyzed Dark": {
    "dark": true,
@@ -758,7 +783,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Analyzed Light": {
    "dark": false,
@@ -787,7 +813,8 @@
     "#17273c"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Andromeda": {
    "dark": true,
@@ -816,7 +843,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Apple Classic": {
    "dark": true,
@@ -845,7 +873,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Apple System Colors": {
    "dark": true,
@@ -874,7 +903,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Apple System Colors Light": {
    "dark": false,
@@ -903,7 +933,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Arcoiris": {
    "dark": true,
@@ -932,7 +963,8 @@
     "#efefef"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ardoise": {
    "dark": true,
@@ -961,7 +993,8 @@
     "#fefefe"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Argonaut": {
    "dark": true,
@@ -990,7 +1023,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Arizona Monsoon": {
    "dark": true,
@@ -1019,7 +1053,8 @@
     "#f7ead1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Arthur": {
    "dark": true,
@@ -1048,7 +1083,8 @@
     "#ddccbb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Atelier Sulphurpool": {
    "dark": true,
@@ -1077,7 +1113,8 @@
     "#f5f7ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Atlas Ragnarok": {
    "dark": true,
@@ -1106,7 +1143,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Atom": {
    "dark": true,
@@ -1135,7 +1173,8 @@
     "#e0e0e0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Atom One Dark": {
    "dark": true,
@@ -1164,7 +1203,8 @@
     "#abb2bf"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Atom One Light": {
    "dark": false,
@@ -1193,7 +1233,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Aubade": {
    "dark": false,
@@ -1222,7 +1263,8 @@
     "#3a3340"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Aura": {
    "dark": true,
@@ -1251,7 +1293,8 @@
     "#edecee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Aura Dark": {
    "dark": true,
@@ -1280,7 +1323,8 @@
     "#edecee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Aurora": {
    "dark": true,
@@ -1309,7 +1353,8 @@
     "#c74ded"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Aurora Drift": {
    "dark": true,
@@ -1338,7 +1383,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Autumn After Dark": {
    "dark": true,
@@ -1367,7 +1413,8 @@
     "#f9ecd5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ayu": {
    "dark": true,
@@ -1396,7 +1443,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Ayu Light": {
    "dark": false,
@@ -1425,7 +1473,8 @@
     "#d1d1d1"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Ayu Mirage": {
    "dark": true,
@@ -1454,7 +1503,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Aztec Sunset": {
    "dark": true,
@@ -1483,7 +1533,8 @@
     "#fff4df"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Banana Blueberry": {
    "dark": true,
@@ -1512,7 +1563,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Barrel Cactus": {
    "dark": true,
@@ -1541,7 +1593,8 @@
     "#fff9e9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "base16-icy": {
    "dark": true,
@@ -1570,7 +1623,8 @@
     "#0c7c7c"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Batman": {
    "dark": true,
@@ -1599,7 +1653,8 @@
     "#dadbd6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Belafonte Day": {
    "dark": false,
@@ -1628,7 +1683,8 @@
     "#d5ccba"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Belafonte Night": {
    "dark": true,
@@ -1657,7 +1713,8 @@
     "#d5ccba"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Belfry": {
    "dark": true,
@@ -1686,7 +1743,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Birds Of Paradise": {
    "dark": true,
@@ -1715,7 +1773,8 @@
     "#fff9d5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Box Recorder": {
    "dark": true,
@@ -1744,7 +1803,8 @@
     "#fffdf7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Cat": {
    "dark": true,
@@ -1773,7 +1833,8 @@
     "#f6efff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal": {
    "dark": true,
@@ -1802,7 +1863,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Bathory)": {
    "dark": true,
@@ -1831,7 +1893,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Burzum)": {
    "dark": true,
@@ -1860,7 +1923,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Dark Funeral)": {
    "dark": true,
@@ -1889,7 +1953,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Gorgoroth)": {
    "dark": true,
@@ -1918,7 +1983,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Immortal)": {
    "dark": true,
@@ -1947,7 +2013,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Khold)": {
    "dark": true,
@@ -1976,7 +2043,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Marduk)": {
    "dark": true,
@@ -2005,7 +2073,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Mayhem)": {
    "dark": true,
@@ -2034,7 +2103,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Nile)": {
    "dark": true,
@@ -2063,7 +2133,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Black Metal (Venom)": {
    "dark": true,
@@ -2092,7 +2163,8 @@
     "#c1c1c1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Blazer": {
    "dark": true,
@@ -2121,7 +2193,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Blood Moon": {
    "dark": true,
@@ -2150,7 +2223,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Blue Berry Pie": {
    "dark": true,
@@ -2179,7 +2253,8 @@
     "#0a6c7e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Blue Dolphin": {
    "dark": true,
@@ -2208,7 +2283,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Blue Matrix": {
    "dark": true,
@@ -2237,7 +2313,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Blueprint": {
    "dark": false,
@@ -2266,7 +2343,8 @@
     "#1e293b"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Bluloco Dark": {
    "dark": true,
@@ -2295,7 +2373,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Bluloco Light": {
    "dark": false,
@@ -2324,7 +2403,8 @@
     "#d3d3d3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Bone Yard": {
    "dark": false,
@@ -2353,7 +2433,8 @@
     "#423930"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Borland": {
    "dark": true,
@@ -2382,7 +2463,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Box": {
    "dark": true,
@@ -2411,7 +2493,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "branch": {
    "dark": true,
@@ -2440,7 +2523,8 @@
     "#cfc1a9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Breadog": {
    "dark": false,
@@ -2469,7 +2553,8 @@
     "#eae1da"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Breeze": {
    "dark": true,
@@ -2498,7 +2583,8 @@
     "#fcfcfc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Bright Lights": {
    "dark": true,
@@ -2527,7 +2613,8 @@
     "#c2c8d7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Broadcast": {
    "dark": true,
@@ -2556,7 +2643,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Brogrammer": {
    "dark": true,
@@ -2585,7 +2673,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Builtin Dark": {
    "dark": true,
@@ -2614,7 +2703,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Builtin Light": {
    "dark": false,
@@ -2643,7 +2733,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Builtin Pastel Dark": {
    "dark": true,
@@ -2672,7 +2763,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Builtin Tango Dark": {
    "dark": true,
@@ -2701,7 +2793,8 @@
     "#eeeeec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Builtin Tango Light": {
    "dark": false,
@@ -2730,7 +2823,8 @@
     "#eeeeec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "C64": {
    "dark": true,
@@ -2759,7 +2853,8 @@
     "#f7f7f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cactus Bloom": {
    "dark": false,
@@ -2788,7 +2883,8 @@
     "#454b45"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Calamity": {
    "dark": true,
@@ -2817,7 +2913,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Caliche": {
    "dark": true,
@@ -2846,7 +2943,8 @@
     "#fff9e9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Candlelight": {
    "dark": true,
@@ -2875,7 +2973,8 @@
     "#f9eacb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Candy Corn": {
    "dark": false,
@@ -2904,7 +3003,8 @@
     "#423930"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Canyon Shadow": {
    "dark": true,
@@ -2933,7 +3033,8 @@
     "#fffaf3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Canyon Walnut": {
    "dark": true,
@@ -2962,7 +3063,8 @@
     "#fff5dc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Carbon Paper": {
    "dark": false,
@@ -2991,7 +3093,8 @@
     "#454951"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Carbonfox": {
    "dark": true,
@@ -3020,7 +3123,8 @@
     "#e4e4e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cassette Tape": {
    "dark": false,
@@ -3049,7 +3153,8 @@
     "#2b1b12"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Catppuccin Frappe": {
    "dark": true,
@@ -3078,7 +3183,8 @@
     "#a5adce"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Catppuccin Latte": {
    "dark": false,
@@ -3107,7 +3213,8 @@
     "#6c6f85"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Catppuccin Macchiato": {
    "dark": true,
@@ -3136,7 +3243,8 @@
     "#a5adcb"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Catppuccin Mocha": {
    "dark": true,
@@ -3165,7 +3273,8 @@
     "#a6adc8"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Catthode": {
    "dark": true,
@@ -3194,7 +3303,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "CGA": {
    "dark": true,
@@ -3223,7 +3333,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Chalk": {
    "dark": true,
@@ -3252,7 +3363,8 @@
     "#d2d8d9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Chalkboard": {
    "dark": true,
@@ -3281,7 +3393,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Challenger Deep": {
    "dark": true,
@@ -3310,7 +3423,8 @@
     "#cbe3e7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Charcoal": {
    "dark": true,
@@ -3339,7 +3453,8 @@
     "#ececec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Chester": {
    "dark": true,
@@ -3368,7 +3483,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cholla": {
    "dark": true,
@@ -3397,7 +3513,8 @@
     "#fff9e9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ciapre": {
    "dark": true,
@@ -3426,7 +3543,8 @@
     "#f4f4f4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Citrus Ink": {
    "dark": true,
@@ -3455,7 +3573,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Citruszest": {
    "dark": true,
@@ -3484,7 +3603,8 @@
     "#f9f9f9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Claude": {
    "dark": false,
@@ -3513,7 +3633,8 @@
     "#141413"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Claude Dark": {
    "dark": true,
@@ -3542,7 +3663,8 @@
     "#efeeeb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Claude Light": {
    "dark": false,
@@ -3571,7 +3693,8 @@
     "#e2e1da"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Clear Dark": {
    "dark": true,
@@ -3600,7 +3723,8 @@
     "#e5eff5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Clear Light": {
    "dark": false,
@@ -3629,7 +3753,8 @@
     "#d8e1e7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Clockwork Gold": {
    "dark": true,
@@ -3658,7 +3783,8 @@
     "#fcfaf4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "CLRS": {
    "dark": false,
@@ -3687,7 +3813,8 @@
     "#eeeeec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cobalt Neon": {
    "dark": true,
@@ -3716,7 +3843,8 @@
     "#8ff586"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cobalt Next": {
    "dark": true,
@@ -3745,7 +3873,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cobalt Next Dark": {
    "dark": true,
@@ -3774,7 +3903,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cobalt Next Minimal": {
    "dark": true,
@@ -3803,7 +3933,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cobalt2": {
    "dark": true,
@@ -3832,7 +3963,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cobweb": {
    "dark": true,
@@ -3861,7 +3993,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Coffee Theme": {
    "dark": false,
@@ -3890,7 +4023,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cold Storage": {
    "dark": false,
@@ -3919,7 +4053,8 @@
     "#455565"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cool Night": {
    "dark": true,
@@ -3948,7 +4083,8 @@
     "#60fbbf"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Copper Canyon": {
    "dark": true,
@@ -3977,7 +4113,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Count Terminal": {
    "dark": true,
@@ -4006,7 +4143,8 @@
     "#f8e9e0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Crayon Pony Fish": {
    "dark": true,
@@ -4035,7 +4173,8 @@
     "#b0949d"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "CRT Afterglow": {
    "dark": true,
@@ -4064,7 +4203,8 @@
     "#f5f7ef"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "CRT Amber": {
    "dark": true,
@@ -4093,7 +4233,8 @@
     "#fff3c4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Crypt Keeper": {
    "dark": true,
@@ -4122,7 +4263,8 @@
     "#fff9e8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Crystal Ball": {
    "dark": true,
@@ -4151,7 +4293,8 @@
     "#f4efff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cursed VHS": {
    "dark": true,
@@ -4180,7 +4323,8 @@
     "#f5efff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cursor Dark": {
    "dark": true,
@@ -4209,7 +4353,8 @@
     "#e4e4e4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cursor Light": {
    "dark": false,
@@ -4238,7 +4383,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cutie Pro": {
    "dark": true,
@@ -4267,7 +4413,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cyberdyne": {
    "dark": true,
@@ -4296,7 +4443,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cyberpunk": {
    "dark": true,
@@ -4325,7 +4473,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Cyberpunk Scarlet Protocol": {
    "dark": true,
@@ -4354,7 +4503,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "cyberpunk-icy": {
    "dark": true,
@@ -4383,7 +4533,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dalton Dark": {
    "dark": true,
@@ -4412,7 +4563,8 @@
     "#d8d8d8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dark 2026": {
    "dark": true,
@@ -4441,7 +4593,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dark Modern": {
    "dark": true,
@@ -4470,7 +4623,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dark Pastel": {
    "dark": true,
@@ -4499,7 +4653,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dark+": {
    "dark": true,
@@ -4528,7 +4683,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Darkermatrix": {
    "dark": true,
@@ -4557,7 +4713,8 @@
     "#00381e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Darkmatrix": {
    "dark": true,
@@ -4586,7 +4743,8 @@
     "#006536"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Darkside": {
    "dark": true,
@@ -4615,7 +4773,8 @@
     "#bababa"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "datum (dark)": {
    "dark": true,
@@ -4644,7 +4803,8 @@
     "#eef2f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "datum (light)": {
    "dark": false,
@@ -4673,7 +4833,8 @@
     "#e7ecf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dawnfox": {
    "dark": false,
@@ -4702,7 +4863,8 @@
     "#e6ebf3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Daybreak": {
    "dark": false,
@@ -4731,7 +4893,8 @@
     "#2e2c27"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Daybreaker": {
    "dark": false,
@@ -4760,7 +4923,8 @@
     "#484848"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dayfox": {
    "dark": false,
@@ -4789,7 +4953,8 @@
     "#f4ece6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dead Letter Office": {
    "dark": true,
@@ -4818,7 +4983,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Deep": {
    "dark": true,
@@ -4847,7 +5013,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Deep Current": {
    "dark": true,
@@ -4876,7 +5043,8 @@
     "#f8fafc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Desert": {
    "dark": true,
@@ -4905,7 +5073,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Desert Bloom": {
    "dark": true,
@@ -4934,7 +5103,8 @@
     "#fffaf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Desert Moon": {
    "dark": true,
@@ -4963,7 +5133,8 @@
     "#fffdf5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Desert Morning": {
    "dark": false,
@@ -4992,7 +5163,8 @@
     "#24170e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Desert Rose": {
    "dark": true,
@@ -5021,7 +5193,8 @@
     "#fffaf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Desert Thunder": {
    "dark": true,
@@ -5050,7 +5223,8 @@
     "#fffdf4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Detroit After Dark": {
    "dark": true,
@@ -5079,7 +5253,8 @@
     "#f9ebdf"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Detuned": {
    "dark": true,
@@ -5108,7 +5283,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Diary of a Lunatic": {
    "dark": true,
@@ -5137,7 +5313,8 @@
     "#f3ffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dimidium": {
    "dark": true,
@@ -5166,7 +5343,8 @@
     "#dee3e4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dimmed Monokai": {
    "dark": true,
@@ -5195,7 +5373,8 @@
     "#fdffb9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Django": {
    "dark": true,
@@ -5224,7 +5403,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Django Reborn Again": {
    "dark": true,
@@ -5253,7 +5433,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Django Smooth": {
    "dark": true,
@@ -5282,7 +5463,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dogxi Misty": {
    "dark": true,
@@ -5311,7 +5493,8 @@
     "#f1f1f0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Doom One": {
    "dark": true,
@@ -5340,7 +5523,8 @@
     "#bfbfbf"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Doom Peacock": {
    "dark": true,
@@ -5369,7 +5553,8 @@
     "#dfdfdf"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dot Gov": {
    "dark": true,
@@ -5398,7 +5583,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dracula": {
    "dark": true,
@@ -5427,7 +5613,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Dracula+": {
    "dark": true,
@@ -5456,7 +5643,8 @@
     "#f8f8f2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dracula+ High Contrast": {
    "dark": true,
@@ -5485,7 +5673,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Dream Onward": {
    "dark": true,
@@ -5514,7 +5703,8 @@
     "#fff9ee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Driftwood": {
    "dark": true,
@@ -5543,7 +5733,8 @@
     "#f2eadb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Duckbones": {
    "dark": true,
@@ -5572,7 +5763,8 @@
     "#b3b692"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Duotone Dark": {
    "dark": true,
@@ -5601,7 +5793,8 @@
     "#eae5ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Duskfox": {
    "dark": true,
@@ -5630,7 +5823,8 @@
     "#e2e0f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Earl Grey": {
    "dark": false,
@@ -5659,7 +5853,8 @@
     "#c2beb8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Earthsong": {
    "dark": true,
@@ -5688,7 +5883,8 @@
     "#f6f7ec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Eclipse": {
    "dark": true,
@@ -5717,7 +5913,8 @@
     "#f4f8fd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ectoplasm": {
    "dark": true,
@@ -5746,7 +5943,8 @@
     "#f1fffb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Eight Hundred": {
    "dark": true,
@@ -5775,7 +5973,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Electric Voodoo": {
    "dark": true,
@@ -5804,7 +6003,8 @@
     "#fbebd8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Electron Highlighter": {
    "dark": true,
@@ -5833,7 +6033,8 @@
     "#c3cde2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Electron Highlighter Day": {
    "dark": false,
@@ -5862,7 +6063,8 @@
     "#2f3b54"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Elegant": {
    "dark": true,
@@ -5891,7 +6093,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Elemental": {
    "dark": true,
@@ -5920,7 +6123,8 @@
     "#fff1e9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Elementary": {
    "dark": true,
@@ -5949,7 +6153,8 @@
     "#8c00ec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Embark": {
    "dark": true,
@@ -5978,7 +6183,8 @@
     "#a6b3cc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ember": {
    "dark": true,
@@ -6007,7 +6213,8 @@
     "#ffe8c7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ember Peak": {
    "dark": true,
@@ -6036,7 +6243,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Emberglass": {
    "dark": true,
@@ -6065,7 +6273,8 @@
     "#f1f5f9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Embers Dark": {
    "dark": true,
@@ -6094,7 +6303,8 @@
     "#dbd6d1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Emerald Synth": {
    "dark": true,
@@ -6123,7 +6333,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "ENCOM": {
    "dark": true,
@@ -6152,7 +6363,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Espresso": {
    "dark": true,
@@ -6181,7 +6393,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Espresso Libre": {
    "dark": true,
@@ -6210,7 +6423,8 @@
     "#eeeeec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Eventide": {
    "dark": true,
@@ -6239,7 +6453,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Everblush": {
    "dark": true,
@@ -6268,7 +6483,8 @@
     "#bdc3c2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Everforest Dark Hard": {
    "dark": true,
@@ -6297,7 +6513,8 @@
     "#fffbef"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Everforest Dark Med": {
    "dark": true,
@@ -6326,7 +6543,8 @@
     "#fffbef"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Everforest Dark Soft": {
    "dark": true,
@@ -6355,7 +6573,8 @@
     "#fffbef"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Everforest Light Hard": {
    "dark": false,
@@ -6384,7 +6603,8 @@
     "#fffbef"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Everforest Light Med": {
    "dark": false,
@@ -6413,7 +6633,8 @@
     "#fffbef"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Everforest Light Soft": {
    "dark": false,
@@ -6442,7 +6663,8 @@
     "#fffbef"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Evergreen": {
    "dark": true,
@@ -6471,7 +6693,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "EVH FrankenTone": {
    "dark": true,
@@ -6500,7 +6723,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "eyesclosed": {
    "dark": true,
@@ -6529,7 +6753,8 @@
     "#cdcfd1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Fahrenheit": {
    "dark": true,
@@ -6558,7 +6783,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Fairyfloss": {
    "dark": true,
@@ -6587,7 +6813,8 @@
     "#f8f8f0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Farmhouse Dark": {
    "dark": true,
@@ -6616,7 +6843,8 @@
     "#f4eef0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Farmhouse Light": {
    "dark": false,
@@ -6645,7 +6873,8 @@
     "#f4eef0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Fideloper": {
    "dark": true,
@@ -6674,7 +6903,8 @@
     "#fcf4df"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Firefly Traditional": {
    "dark": true,
@@ -6703,7 +6933,8 @@
     "#ebebeb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Firefox Dev": {
    "dark": true,
@@ -6732,7 +6963,8 @@
     "#e2e2e2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Firewatch": {
    "dark": true,
@@ -6761,7 +6993,8 @@
     "#e6e5ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Fish Tank": {
    "dark": true,
@@ -6790,7 +7023,8 @@
     "#f6ffec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Flat": {
    "dark": true,
@@ -6819,7 +7053,8 @@
     "#e7eced"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Flatland": {
    "dark": true,
@@ -6848,7 +7083,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Flexoki Dark": {
    "dark": true,
@@ -6877,7 +7113,8 @@
     "#cecdc3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Flexoki Light": {
    "dark": false,
@@ -6906,7 +7143,8 @@
     "#cecdc3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Floraverse": {
    "dark": true,
@@ -6935,7 +7173,8 @@
     "#fff5db"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Forest Blue": {
    "dark": true,
@@ -6964,7 +7203,8 @@
     "#e2d8cd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Forge Ember": {
    "dark": true,
@@ -6993,7 +7233,8 @@
     "#f4e2c8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Forged in Steel": {
    "dark": true,
@@ -7022,7 +7263,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Framer": {
    "dark": true,
@@ -7051,7 +7293,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Front End Delight": {
    "dark": true,
@@ -7080,7 +7323,8 @@
     "#8c735b"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Frostbyte": {
    "dark": false,
@@ -7109,7 +7353,8 @@
     "#283645"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Frostline": {
    "dark": false,
@@ -7138,7 +7383,8 @@
     "#455565"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Fun Forrest": {
    "dark": true,
@@ -7167,7 +7413,8 @@
     "#ffeaa3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Galaxy": {
    "dark": true,
@@ -7196,7 +7443,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Galizur": {
    "dark": true,
@@ -7225,7 +7473,8 @@
     "#bbccdd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ghost Circuit": {
    "dark": true,
@@ -7254,7 +7503,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ghostty Default Style Dark": {
    "dark": true,
@@ -7283,7 +7533,8 @@
     "#eaeaea"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Gilded-Forest-Dark": {
    "dark": true,
@@ -7312,7 +7563,8 @@
     "#feffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "GitHub": {
    "dark": false,
@@ -7341,7 +7593,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "GitHub Dark": {
    "dark": true,
@@ -7370,7 +7623,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "GitHub Dark Colorblind": {
    "dark": true,
@@ -7399,7 +7653,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "GitHub Dark Default": {
    "dark": true,
@@ -7428,7 +7683,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "GitHub Dark Dimmed": {
    "dark": true,
@@ -7457,7 +7713,8 @@
     "#cdd9e5"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "GitHub Dark High Contrast": {
    "dark": true,
@@ -7486,7 +7743,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "GitHub Light Colorblind": {
    "dark": false,
@@ -7515,7 +7773,8 @@
     "#8c959f"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "GitHub Light Default": {
    "dark": false,
@@ -7544,7 +7803,8 @@
     "#8c959f"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "GitHub Light High Contrast": {
    "dark": false,
@@ -7573,7 +7833,8 @@
     "#88929d"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "GitLab Dark": {
    "dark": true,
@@ -7602,7 +7863,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "GitLab Dark Grey": {
    "dark": true,
@@ -7631,7 +7893,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "GitLab Light": {
    "dark": false,
@@ -7660,7 +7923,8 @@
     "#303030"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Glacier": {
    "dark": true,
@@ -7689,7 +7953,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Gleam": {
    "dark": true,
@@ -7718,7 +7983,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Gleam Classic": {
    "dark": true,
@@ -7747,7 +8013,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Golden Mischief": {
    "dark": false,
@@ -7776,7 +8043,8 @@
     "#493727"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Golden Retriever Cream": {
    "dark": false,
@@ -7805,7 +8073,8 @@
     "#ede3d4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Golden Retriever Honey": {
    "dark": false,
@@ -7834,7 +8103,8 @@
     "#f4e4c9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Golden Retriever Red": {
    "dark": false,
@@ -7863,7 +8133,8 @@
     "#f4a7c3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Grape": {
    "dark": true,
@@ -7892,7 +8163,8 @@
     "#a288f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Graphite": {
    "dark": true,
@@ -7921,7 +8193,8 @@
     "#eceff3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Grass": {
    "dark": true,
@@ -7950,7 +8223,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Graveyard Shift": {
    "dark": true,
@@ -7979,7 +8253,8 @@
     "#f0f4eb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Great Pumpkin": {
    "dark": false,
@@ -8008,7 +8283,8 @@
     "#2b1e17"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Green Phosphor CRT": {
    "dark": true,
@@ -8037,7 +8313,8 @@
     "#e6ffe6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Green Screen": {
    "dark": true,
@@ -8066,7 +8343,8 @@
     "#f6fff9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Grey Green": {
    "dark": true,
@@ -8095,7 +8373,8 @@
     "#f5ecec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Grok Day": {
    "dark": false,
@@ -8124,7 +8403,8 @@
     "#444444"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Grok Night": {
    "dark": true,
@@ -8153,7 +8433,8 @@
     "#e1e1e1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Gruber Darker": {
    "dark": true,
@@ -8182,7 +8463,8 @@
     "#f5f5f5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Gruvbox Dark": {
    "dark": true,
@@ -8211,7 +8493,8 @@
     "#ebdbb2"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Gruvbox Dark Hard": {
    "dark": true,
@@ -8240,7 +8523,8 @@
     "#ebdbb2"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Gruvbox Light": {
    "dark": false,
@@ -8269,7 +8553,8 @@
     "#3c3836"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Gruvbox Light Hard": {
    "dark": false,
@@ -8298,7 +8583,8 @@
     "#3c3836"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Gruvbox Material": {
    "dark": true,
@@ -8327,7 +8613,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Gruvbox Material Dark": {
    "dark": true,
@@ -8356,7 +8643,8 @@
     "#ddc7a1"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Gruvbox Material Light": {
    "dark": false,
@@ -8385,7 +8673,8 @@
     "#4f3829"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Guezwhoz": {
    "dark": true,
@@ -8414,7 +8703,8 @@
     "#ededed"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hacktober": {
    "dark": true,
@@ -8443,7 +8733,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hardcore": {
    "dark": true,
@@ -8472,7 +8763,8 @@
     "#f8f8f2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Harper": {
    "dark": true,
@@ -8501,7 +8793,8 @@
     "#fefbea"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Harvest Moon": {
    "dark": true,
@@ -8530,7 +8823,8 @@
     "#fff9e8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Haunted House": {
    "dark": true,
@@ -8559,7 +8853,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Havn Daggry": {
    "dark": false,
@@ -8588,7 +8883,8 @@
     "#d6dbeb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Havn Skumring": {
    "dark": true,
@@ -8617,7 +8913,8 @@
     "#fff6e1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "HaX0R Blue": {
    "dark": true,
@@ -8646,7 +8943,8 @@
     "#fefefe"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "HaX0R Gr33N": {
    "dark": true,
@@ -8675,7 +8973,8 @@
     "#fefefe"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "HaX0R R3D": {
    "dark": true,
@@ -8704,7 +9003,8 @@
     "#fefefe"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "hazyland": {
    "dark": true,
@@ -8733,7 +9033,8 @@
     "#eee4ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Heeler": {
    "dark": true,
@@ -8762,7 +9063,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hellfire": {
    "dark": true,
@@ -8791,7 +9093,8 @@
     "#f9e5ce"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "High Desert Snow": {
    "dark": false,
@@ -8820,7 +9123,8 @@
     "#1f2937"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "High Voltage Highway": {
    "dark": true,
@@ -8849,7 +9153,8 @@
     "#f4f0e9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Highway": {
    "dark": true,
@@ -8878,7 +9183,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hipster Green": {
    "dark": true,
@@ -8907,7 +9213,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hivacruz": {
    "dark": true,
@@ -8936,7 +9243,8 @@
     "#f5f7ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "HN After Dark": {
    "dark": true,
@@ -8965,7 +9273,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "HN Classic": {
    "dark": false,
@@ -8994,7 +9303,8 @@
     "#383838"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hocus Pocus": {
    "dark": true,
@@ -9023,7 +9333,8 @@
     "#f7efff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Homebrew": {
    "dark": true,
@@ -9052,7 +9363,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hopscotch": {
    "dark": true,
@@ -9081,7 +9393,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hopscotch.256": {
    "dark": true,
@@ -9110,7 +9423,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Horizon": {
    "dark": true,
@@ -9139,7 +9453,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Horizon Bright": {
    "dark": false,
@@ -9168,7 +9483,8 @@
     "#fff2ef"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Horizons": {
    "dark": false,
@@ -9197,7 +9513,8 @@
     "#465264"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hot Dog Stand": {
    "dark": false,
@@ -9226,7 +9543,8 @@
     "#c6c6c6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hot Dog Stand (Mustard)": {
    "dark": false,
@@ -9255,7 +9573,8 @@
     "#c6c6c6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hurtado": {
    "dark": true,
@@ -9284,7 +9603,8 @@
     "#dbdbdb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hybrid": {
    "dark": true,
@@ -9313,7 +9633,8 @@
     "#5a626a"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hyper": {
    "dark": true,
@@ -9342,7 +9663,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Hysterical Frequency": {
    "dark": true,
@@ -9371,7 +9693,8 @@
     "#f4effb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "IBM 5153 CGA": {
    "dark": true,
@@ -9400,7 +9723,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "IBM 5153 CGA (Black)": {
    "dark": true,
@@ -9429,7 +9753,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "IC Green PPL": {
    "dark": true,
@@ -9458,7 +9783,8 @@
     "#e0f1dc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "IC Orange PPL": {
    "dark": true,
@@ -9487,7 +9813,8 @@
     "#fafaff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Iceberg Dark": {
    "dark": true,
@@ -9516,7 +9843,8 @@
     "#d2d4de"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Iceberg Light": {
    "dark": false,
@@ -9545,7 +9873,8 @@
     "#262a3f"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Icy Glacier": {
    "dark": false,
@@ -9574,7 +9903,8 @@
     "#455365"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Idea": {
    "dark": true,
@@ -9603,7 +9933,8 @@
     "#181818"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Idle Toes": {
    "dark": true,
@@ -9632,7 +9963,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "iglass Dark": {
    "dark": true,
@@ -9661,7 +9993,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "iglass Light": {
    "dark": false,
@@ -9690,7 +10023,8 @@
     "#e5e5ea"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "IR Black": {
    "dark": true,
@@ -9719,7 +10053,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "IRIX Console": {
    "dark": true,
@@ -9748,7 +10083,8 @@
     "#f2f2f2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "IRIX Terminal": {
    "dark": true,
@@ -9777,7 +10113,8 @@
     "#ffff44"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Isocon Dark": {
    "dark": true,
@@ -9806,7 +10143,8 @@
     "#868686"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Isocon Light": {
    "dark": false,
@@ -9835,7 +10173,8 @@
     "#6e6e6e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "iTerm2 Dark Background": {
    "dark": true,
@@ -9864,7 +10203,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "iTerm2 Default": {
    "dark": true,
@@ -9893,7 +10233,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "iTerm2 Light Background": {
    "dark": false,
@@ -9922,7 +10263,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "iTerm2 Pastel Dark Background": {
    "dark": true,
@@ -9951,7 +10293,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "iTerm2 Smoooooth": {
    "dark": true,
@@ -9980,7 +10323,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "iTerm2 Solarized Dark": {
    "dark": true,
@@ -10009,7 +10353,8 @@
     "#fdf6e3"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "iTerm2 Solarized Light": {
    "dark": false,
@@ -10038,7 +10383,8 @@
     "#fdf6e3"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "iTerm2 Tango Dark": {
    "dark": true,
@@ -10067,7 +10413,8 @@
     "#f1f1f0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "iTerm2 Tango Light": {
    "dark": false,
@@ -10096,7 +10443,8 @@
     "#f1f1f0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Jack O' Lantern": {
    "dark": true,
@@ -10125,7 +10473,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Jackie Brown": {
    "dark": true,
@@ -10154,7 +10503,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Japanesque": {
    "dark": true,
@@ -10183,7 +10533,8 @@
     "#b2b5ae"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Jellybeans": {
    "dark": true,
@@ -10212,7 +10563,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "JetBrains Darcula": {
    "dark": true,
@@ -10241,7 +10593,8 @@
     "#eeeeee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "JetBrains Islands Dark": {
    "dark": true,
@@ -10270,7 +10623,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "JetCalm Light": {
    "dark": false,
@@ -10299,7 +10653,8 @@
     "#7b8d9e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Jubi": {
    "dark": true,
@@ -10328,7 +10683,8 @@
     "#d5e5f1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Jump Start": {
    "dark": true,
@@ -10357,7 +10713,8 @@
     "#edf4fb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Jute Espresso": {
    "dark": true,
@@ -10386,7 +10743,8 @@
     "#fff9e9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kanagawa Dragon": {
    "dark": true,
@@ -10415,7 +10773,8 @@
     "#c5c9c5"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Kanagawa Lotus": {
    "dark": false,
@@ -10444,7 +10803,8 @@
     "#43436c"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Kanagawa Wave": {
    "dark": true,
@@ -10473,7 +10833,8 @@
     "#dcd7ba"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Kanagawabones": {
    "dark": true,
@@ -10502,7 +10863,8 @@
     "#a8a48d"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kanso Ink": {
    "dark": true,
@@ -10531,7 +10893,8 @@
     "#c5c9c7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kanso Mist": {
    "dark": true,
@@ -10560,7 +10923,8 @@
     "#c5c9c7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kanso Pearl": {
    "dark": false,
@@ -10589,7 +10953,8 @@
     "#43436c"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kanso Zen": {
    "dark": true,
@@ -10618,7 +10983,8 @@
     "#c5c9c7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Karasu Night": {
    "dark": true,
@@ -10647,7 +11013,8 @@
     "#e7e5e4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Karasu Snow": {
    "dark": false,
@@ -10676,7 +11043,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Karma Dark": {
    "dark": true,
@@ -10705,7 +11073,8 @@
     "#f7f1ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Karma Dark Dimmed": {
    "dark": true,
@@ -10734,7 +11103,8 @@
     "#e2def0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Karma Dark HC": {
    "dark": true,
@@ -10763,7 +11133,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Karma Light": {
    "dark": false,
@@ -10792,7 +11163,8 @@
     "#0a0e14"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Karma Light Dimmed": {
    "dark": false,
@@ -10821,7 +11193,8 @@
     "#1c1f24"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Karma Light HC": {
    "dark": false,
@@ -10850,7 +11223,8 @@
     "#0a0e14"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kashmir Nights": {
    "dark": true,
@@ -10879,7 +11253,8 @@
     "#fff0dd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Keys Ocean Sunset": {
    "dark": true,
@@ -10908,7 +11283,8 @@
     "#fff5be"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Keys Ocean Sunset HC": {
    "dark": true,
@@ -10937,7 +11313,8 @@
     "#fff5be"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kibble": {
    "dark": true,
@@ -10966,7 +11343,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kitty Default": {
    "dark": true,
@@ -10995,7 +11373,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kitty Low Contrast": {
    "dark": true,
@@ -11024,7 +11403,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Klein Void": {
    "dark": true,
@@ -11053,7 +11433,8 @@
     "#f5efde"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kolorit": {
    "dark": true,
@@ -11082,7 +11463,8 @@
     "#ededed"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Konsolas": {
    "dark": true,
@@ -11111,7 +11493,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kurokula": {
    "dark": true,
@@ -11140,7 +11523,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Kwyjibo": {
    "dark": true,
@@ -11169,7 +11553,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Lab Fox": {
    "dark": true,
@@ -11198,7 +11583,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Laser": {
    "dark": true,
@@ -11227,7 +11613,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Last Broadcast": {
    "dark": true,
@@ -11256,7 +11643,8 @@
     "#fffdf8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Later This Evening": {
    "dark": true,
@@ -11285,7 +11673,8 @@
     "#c1c2c2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Lavandula": {
    "dark": true,
@@ -11314,7 +11703,8 @@
     "#8c91fa"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Lemon Graphite": {
    "dark": true,
@@ -11343,7 +11733,8 @@
     "#f7fafc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Letterpress": {
    "dark": false,
@@ -11372,7 +11763,8 @@
     "#3a352c"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Light 2026": {
    "dark": false,
@@ -11401,7 +11793,8 @@
     "#a5a5a5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Light Owl": {
    "dark": false,
@@ -11430,7 +11823,8 @@
     "#f0f0f0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Liquid Carbon": {
    "dark": true,
@@ -11459,7 +11853,8 @@
     "#bccccc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Liquid Carbon Transparent": {
    "dark": true,
@@ -11488,7 +11883,8 @@
     "#bccccc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Lit Cell": {
    "dark": true,
@@ -11517,7 +11913,8 @@
     "#edefea"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Lit Cell Light": {
    "dark": false,
@@ -11546,7 +11943,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "London Bonfire Night": {
    "dark": true,
@@ -11575,7 +11973,8 @@
     "#fdf6df"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "London Columbia Road": {
    "dark": false,
@@ -11604,7 +12003,8 @@
     "#142217"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "London Embankment Dusk": {
    "dark": true,
@@ -11633,7 +12033,8 @@
     "#fafbfc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "London Soho Night": {
    "dark": true,
@@ -11662,7 +12063,8 @@
     "#f8eed2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Lovelace": {
    "dark": true,
@@ -11691,7 +12093,8 @@
     "#bebec1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Lunar Dust": {
    "dark": false,
@@ -11720,7 +12123,8 @@
     "#484c53"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Madman's Diary": {
    "dark": true,
@@ -11749,7 +12153,8 @@
     "#fff7e6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Man Page": {
    "dark": false,
@@ -11778,7 +12183,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Maple Jute": {
    "dark": true,
@@ -11807,7 +12213,8 @@
     "#fff7e8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mariana": {
    "dark": true,
@@ -11836,7 +12243,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Matcha Zen": {
    "dark": false,
@@ -11865,7 +12273,8 @@
     "#354029"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Material": {
    "dark": false,
@@ -11894,7 +12303,8 @@
     "#d9d9d9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Material Dark": {
    "dark": true,
@@ -11923,7 +12333,8 @@
     "#d9d9d9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Material Darker": {
    "dark": true,
@@ -11952,7 +12363,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Material Design Colors": {
    "dark": true,
@@ -11981,7 +12393,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Material Ocean": {
    "dark": true,
@@ -12010,7 +12423,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mathias": {
    "dark": true,
@@ -12039,7 +12453,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Matrix": {
    "dark": true,
@@ -12068,7 +12483,8 @@
     "#678c61"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Matte Black": {
    "dark": true,
@@ -12097,7 +12513,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Medallion": {
    "dark": true,
@@ -12126,7 +12543,8 @@
     "#fed698"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Melange Dark": {
    "dark": true,
@@ -12155,7 +12573,8 @@
     "#ece1d7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Melange Light": {
    "dark": false,
@@ -12184,7 +12603,8 @@
     "#54433a"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mellifluous": {
    "dark": true,
@@ -12213,7 +12633,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mellow": {
    "dark": true,
@@ -12242,7 +12663,8 @@
     "#cac9dd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mesa Blue": {
    "dark": true,
@@ -12271,7 +12693,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mesa Twilight": {
    "dark": true,
@@ -12300,7 +12723,8 @@
     "#fffaf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mesila One": {
    "dark": true,
@@ -12329,7 +12753,8 @@
     "#e9fae3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Miami Heat": {
    "dark": true,
@@ -12358,7 +12783,8 @@
     "#fce7ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Miasma": {
    "dark": true,
@@ -12387,7 +12813,8 @@
     "#d7c483"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Midnight Arcade": {
    "dark": true,
@@ -12416,7 +12843,8 @@
     "#f8fafc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Midnight In Mojave": {
    "dark": true,
@@ -12445,7 +12873,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Midnight Rambler": {
    "dark": true,
@@ -12474,7 +12903,8 @@
     "#fff9ee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mindcrime": {
    "dark": true,
@@ -12503,7 +12933,8 @@
     "#fff4e8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mirage": {
    "dark": true,
@@ -12532,7 +12963,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Misterioso": {
    "dark": true,
@@ -12561,7 +12993,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Modus Operandi": {
    "dark": false,
@@ -12590,7 +13023,8 @@
     "#595959"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Modus Operandi Deuteranopia": {
    "dark": false,
@@ -12619,7 +13053,8 @@
     "#595959"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Modus Operandi Tinted": {
    "dark": false,
@@ -12648,7 +13083,8 @@
     "#595959"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Modus Operandi Tritanopia": {
    "dark": false,
@@ -12677,7 +13113,8 @@
     "#595959"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Modus Vivendi": {
    "dark": true,
@@ -12706,7 +13143,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Modus Vivendi Deuteranopia": {
    "dark": true,
@@ -12735,7 +13173,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Modus Vivendi Tinted": {
    "dark": true,
@@ -12764,7 +13203,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Modus Vivendi Tritanopia": {
    "dark": true,
@@ -12793,7 +13233,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Molokai": {
    "dark": true,
@@ -12822,7 +13263,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Molten Core": {
    "dark": true,
@@ -12851,7 +13293,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Mona Lisa": {
    "dark": true,
@@ -12880,7 +13323,8 @@
     "#ffe598"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Classic": {
    "dark": true,
@@ -12909,7 +13353,8 @@
     "#fdfff1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Pro": {
    "dark": true,
@@ -12938,7 +13383,8 @@
     "#fcfcfa"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Pro Light": {
    "dark": false,
@@ -12967,7 +13413,8 @@
     "#29242a"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Pro Light Sun": {
    "dark": false,
@@ -12996,7 +13443,8 @@
     "#2c232e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Pro Machine": {
    "dark": true,
@@ -13025,7 +13473,8 @@
     "#f2fffc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Pro Octagon": {
    "dark": true,
@@ -13054,7 +13503,8 @@
     "#eaf2f1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Pro Ristretto": {
    "dark": true,
@@ -13083,7 +13533,8 @@
     "#fff1f3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Pro Spectrum": {
    "dark": true,
@@ -13112,7 +13563,8 @@
     "#f7f1ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Remastered": {
    "dark": true,
@@ -13141,7 +13593,8 @@
     "#f6f6ef"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Soda": {
    "dark": true,
@@ -13170,7 +13623,8 @@
     "#f6f6ef"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai SublimeText": {
    "dark": true,
@@ -13199,7 +13653,8 @@
     "#f8f8f2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monokai Vivid": {
    "dark": true,
@@ -13228,7 +13683,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monospace Dark": {
    "dark": true,
@@ -13257,7 +13713,8 @@
     "#fafbfe"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monospace Light": {
    "dark": false,
@@ -13286,7 +13743,8 @@
     "#475365"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monsoon Mesa": {
    "dark": true,
@@ -13315,7 +13773,8 @@
     "#fffdf4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Monster Mash": {
    "dark": true,
@@ -13344,7 +13803,8 @@
     "#f2f6dd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Moonfly": {
    "dark": true,
@@ -13373,7 +13833,8 @@
     "#e4e4e4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Moonwalk": {
    "dark": false,
@@ -13402,7 +13863,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Motel Vacancy": {
    "dark": true,
@@ -13431,7 +13893,8 @@
     "#fffaff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Moving Signals": {
    "dark": true,
@@ -13460,7 +13923,8 @@
     "#fff4e8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "N0Tch2K": {
    "dark": true,
@@ -13489,7 +13953,8 @@
     "#d8c8bb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nachtschicht": {
    "dark": true,
@@ -13518,7 +13983,8 @@
     "#e8eaed"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nebula Drift": {
    "dark": true,
@@ -13547,7 +14013,8 @@
     "#e2e0fa"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Neobones Dark": {
    "dark": true,
@@ -13576,7 +14043,8 @@
     "#98a39e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Neobones Light": {
    "dark": false,
@@ -13605,7 +14073,8 @@
     "#415934"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Neon": {
    "dark": true,
@@ -13634,7 +14103,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Neon Analog": {
    "dark": true,
@@ -13663,7 +14133,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Neon Purple": {
    "dark": true,
@@ -13692,7 +14163,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Neopolitan": {
    "dark": true,
@@ -13721,7 +14193,8 @@
     "#f8f8f8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Neutron": {
    "dark": true,
@@ -13750,7 +14223,8 @@
     "#ebedf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Night Lion V1": {
    "dark": true,
@@ -13779,7 +14253,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Night Lion V2": {
    "dark": true,
@@ -13808,7 +14283,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Night Owl": {
    "dark": true,
@@ -13837,7 +14313,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Night Owlish Light": {
    "dark": false,
@@ -13866,7 +14343,8 @@
     "#989fb1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Night Pharmacy": {
    "dark": true,
@@ -13895,7 +14373,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nightfall": {
    "dark": true,
@@ -13924,7 +14403,8 @@
     "#fff2d6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nightfox": {
    "dark": true,
@@ -13953,7 +14433,8 @@
     "#e4e4e5"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Niji": {
    "dark": true,
@@ -13982,7 +14463,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "No Clown Fiesta": {
    "dark": true,
@@ -14011,7 +14493,8 @@
     "#afafaf"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "No Clown Fiesta Light": {
    "dark": false,
@@ -14040,7 +14523,8 @@
     "#373737"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis": {
    "dark": true,
@@ -14069,7 +14553,8 @@
     "#c1d4d7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Azureus": {
    "dark": true,
@@ -14098,7 +14583,8 @@
     "#becfda"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Bordo": {
    "dark": true,
@@ -14127,7 +14613,8 @@
     "#cbbec2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Hibernus": {
    "dark": false,
@@ -14156,7 +14643,8 @@
     "#bbc3c4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Lilac": {
    "dark": false,
@@ -14185,7 +14673,8 @@
     "#bbc3c4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Lux": {
    "dark": false,
@@ -14214,7 +14703,8 @@
     "#bbc3c4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Minimus": {
    "dark": true,
@@ -14243,7 +14733,8 @@
     "#c5d1d3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Obscuro": {
    "dark": true,
@@ -14272,7 +14763,8 @@
     "#c1d4d7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Sereno": {
    "dark": true,
@@ -14301,7 +14793,8 @@
     "#c1d4d7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Uva": {
    "dark": true,
@@ -14330,7 +14823,8 @@
     "#c5c2d6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Noctis Viola": {
    "dark": true,
@@ -14359,7 +14853,8 @@
     "#ccbfd9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nocturnal Winter": {
    "dark": true,
@@ -14388,7 +14883,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nord": {
    "dark": true,
@@ -14417,7 +14913,8 @@
     "#eceff4"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Nord Light": {
    "dark": false,
@@ -14446,7 +14943,8 @@
     "#eceff4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nord Wave": {
    "dark": true,
@@ -14475,7 +14973,8 @@
     "#eceff4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nordfox": {
    "dark": true,
@@ -14504,7 +15003,8 @@
     "#e7ecf4"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Northstar": {
    "dark": true,
@@ -14533,7 +15033,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Novel": {
    "dark": false,
@@ -14562,7 +15063,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "novmbr": {
    "dark": true,
@@ -14591,7 +15093,8 @@
     "#c7b8ac"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Numbers Station": {
    "dark": true,
@@ -14620,7 +15123,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nvim Dark": {
    "dark": true,
@@ -14649,7 +15153,8 @@
     "#eef1f8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Nvim Light": {
    "dark": false,
@@ -14678,7 +15183,8 @@
     "#eef1f8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Obsidian": {
    "dark": true,
@@ -14707,7 +15213,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Obsurdian": {
    "dark": true,
@@ -14736,7 +15243,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ocean": {
    "dark": true,
@@ -14765,7 +15273,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Oceanic Material": {
    "dark": true,
@@ -14794,7 +15303,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Oceanic Next": {
    "dark": true,
@@ -14823,7 +15333,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ocotillo": {
    "dark": true,
@@ -14852,7 +15363,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ollie": {
    "dark": true,
@@ -14881,7 +15393,8 @@
     "#5b6ea7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "One Dark Two": {
    "dark": true,
@@ -14910,7 +15423,8 @@
     "#e6e6e6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "One Double Dark": {
    "dark": true,
@@ -14939,7 +15453,8 @@
     "#f7f9fc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "One Double Light": {
    "dark": false,
@@ -14968,7 +15483,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "One Half Dark": {
    "dark": true,
@@ -14997,7 +15513,8 @@
     "#dcdfe4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "One Half Light": {
    "dark": false,
@@ -15026,7 +15543,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Onenord": {
    "dark": true,
@@ -15055,7 +15573,8 @@
     "#eceff4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Onenord Light": {
    "dark": false,
@@ -15084,7 +15603,8 @@
     "#eceff4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Opaline": {
    "dark": true,
@@ -15113,7 +15633,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Operator Mono Dark": {
    "dark": true,
@@ -15142,7 +15663,8 @@
     "#fdfdf6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Outrun Electric": {
    "dark": true,
@@ -15171,7 +15693,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Overnight Slumber": {
    "dark": true,
@@ -15200,7 +15723,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "owl": {
    "dark": true,
@@ -15229,7 +15753,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Oxblood": {
    "dark": true,
@@ -15258,7 +15783,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Oxide": {
    "dark": true,
@@ -15287,7 +15813,8 @@
     "#dedede"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Oxocarbon": {
    "dark": true,
@@ -15316,7 +15843,8 @@
     "#f2f4f8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ozz's Blizzard": {
    "dark": true,
@@ -15345,7 +15873,8 @@
     "#f7f7fa"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Painted Desert": {
    "dark": true,
@@ -15374,7 +15903,8 @@
     "#fffaf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pale Night Hc": {
    "dark": true,
@@ -15403,7 +15933,8 @@
     "#999999"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pandora": {
    "dark": true,
@@ -15432,7 +15963,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Paper Tiger": {
    "dark": false,
@@ -15461,7 +15993,8 @@
     "#45433e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Paraiso Dark": {
    "dark": true,
@@ -15490,7 +16023,8 @@
     "#e7e9db"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Paranoid Circuit": {
    "dark": true,
@@ -15519,7 +16053,8 @@
     "#fff3df"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Parchment": {
    "dark": false,
@@ -15548,7 +16083,8 @@
     "#47433e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Patina": {
    "dark": true,
@@ -15577,7 +16113,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Patina Dark": {
    "dark": true,
@@ -15606,7 +16143,8 @@
     "#dbd7ca"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Patina Dark Soft": {
    "dark": true,
@@ -15635,7 +16173,8 @@
     "#dbd7ca"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Patina Lichen": {
    "dark": false,
@@ -15664,7 +16203,8 @@
     "#393a34"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Patina Light": {
    "dark": false,
@@ -15693,7 +16233,8 @@
     "#393a34"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Patina Moss": {
    "dark": true,
@@ -15722,7 +16263,8 @@
     "#dbd7ca"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Patina Stellar": {
    "dark": false,
@@ -15751,7 +16293,8 @@
     "#393a34"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Paul Millr": {
    "dark": true,
@@ -15780,7 +16323,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pencil Dark": {
    "dark": true,
@@ -15809,7 +16353,8 @@
     "#f1f1f1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pencil Light": {
    "dark": false,
@@ -15838,7 +16383,8 @@
     "#f1f1f1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Peppermint": {
    "dark": true,
@@ -15867,7 +16413,8 @@
     "#dfdfdf"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Petrified": {
    "dark": true,
@@ -15896,7 +16443,8 @@
     "#fff9ed"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Phala Green Dark": {
    "dark": true,
@@ -15925,7 +16473,8 @@
     "#eaeaea"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pharaoh's Voltage": {
    "dark": true,
@@ -15954,7 +16503,8 @@
     "#f9edd5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Piatto Light": {
    "dark": false,
@@ -15983,7 +16533,8 @@
     "#f2f2f2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pierre Dark": {
    "dark": true,
@@ -16012,7 +16563,8 @@
     "#fbfbfb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pierre Light": {
    "dark": false,
@@ -16041,7 +16593,8 @@
     "#dbdbdd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pissed Off Pancakes": {
    "dark": true,
@@ -16070,7 +16623,8 @@
     "#fff4d2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pnevma": {
    "dark": true,
@@ -16099,7 +16653,8 @@
     "#efefef"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Poimandres": {
    "dark": true,
@@ -16128,7 +16683,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Poimandres Darker": {
    "dark": true,
@@ -16157,7 +16713,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Poimandres Storm": {
    "dark": true,
@@ -16186,7 +16743,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Poimandres White": {
    "dark": false,
@@ -16215,7 +16773,8 @@
     "#000000"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Poison Apple": {
    "dark": true,
@@ -16244,7 +16803,8 @@
     "#f8ebdd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Poltergeist": {
    "dark": true,
@@ -16273,7 +16833,8 @@
     "#f2ffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Popping And Locking": {
    "dark": true,
@@ -16302,7 +16863,8 @@
     "#ebdbb2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Porcelain": {
    "dark": false,
@@ -16331,7 +16893,8 @@
     "#1b1e25"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Possessed Toaster": {
    "dark": true,
@@ -16360,7 +16923,8 @@
     "#fff5d7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Powershell": {
    "dark": true,
@@ -16389,7 +16953,8 @@
     "#c2c1c3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Prickly Pear": {
    "dark": true,
@@ -16418,7 +16983,8 @@
     "#fffaf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Primary": {
    "dark": false,
@@ -16447,7 +17013,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Prince of Barkness": {
    "dark": true,
@@ -16476,7 +17043,8 @@
     "#fff4de"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Prince of Darkness": {
    "dark": true,
@@ -16505,7 +17073,8 @@
     "#f2e6ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Prism": {
    "dark": true,
@@ -16534,7 +17103,8 @@
     "#eaf1fb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Prismatica": {
    "dark": true,
@@ -16563,7 +17133,8 @@
     "#f1f3f6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pro": {
    "dark": true,
@@ -16592,7 +17163,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pro Light": {
    "dark": false,
@@ -16621,7 +17193,8 @@
     "#f2f2f2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pueblo Night": {
    "dark": true,
@@ -16650,7 +17223,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pumpkin Patch": {
    "dark": true,
@@ -16679,7 +17253,8 @@
     "#f6f1d7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pumpkin Spice": {
    "dark": true,
@@ -16708,7 +17283,8 @@
     "#fff2dd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Puppet's Master": {
    "dark": true,
@@ -16737,7 +17313,8 @@
     "#fff4e8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Purple Portal": {
    "dark": true,
@@ -16766,7 +17343,8 @@
     "#faf5ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Purple Rain": {
    "dark": true,
@@ -16795,7 +17373,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Purplepeter": {
    "dark": true,
@@ -16824,7 +17403,8 @@
     "#b9aed3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pyrokai": {
    "dark": true,
@@ -16853,7 +17433,8 @@
     "#faf6f5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Pyrokai Light": {
    "dark": false,
@@ -16882,7 +17463,8 @@
     "#faf6f5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "RadicalReborn": {
    "dark": true,
@@ -16911,7 +17493,8 @@
     "#cbfff2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rapture": {
    "dark": true,
@@ -16940,7 +17523,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Raycast Dark": {
    "dark": true,
@@ -16969,7 +17553,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Raycast Light": {
    "dark": false,
@@ -16998,7 +17583,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rebecca": {
    "dark": true,
@@ -17027,7 +17613,8 @@
     "#f4f2f9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Red Alert": {
    "dark": true,
@@ -17056,7 +17643,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Red Planet": {
    "dark": true,
@@ -17085,7 +17673,8 @@
     "#d6bfb8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Red Rock": {
    "dark": true,
@@ -17114,7 +17703,8 @@
     "#fffaf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Red Sands": {
    "dark": true,
@@ -17143,7 +17733,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Redacted": {
    "dark": false,
@@ -17172,7 +17763,8 @@
     "#414141"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Relaxed": {
    "dark": true,
@@ -17201,7 +17793,8 @@
     "#f7f7f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Retro": {
    "dark": true,
@@ -17230,7 +17823,8 @@
     "#16ba10"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Retro Legends": {
    "dark": true,
@@ -17259,7 +17853,8 @@
     "#f2fff2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rhoads Concord": {
    "dark": false,
@@ -17288,7 +17883,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rhoads Insipired": {
    "dark": true,
@@ -17317,7 +17913,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rhoads Legacy": {
    "dark": true,
@@ -17346,7 +17943,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rhoads LP": {
    "dark": false,
@@ -17375,7 +17973,8 @@
     "#fffef9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rhoads RR Black": {
    "dark": true,
@@ -17404,7 +18003,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rhoads Tribute": {
    "dark": true,
@@ -17433,7 +18033,8 @@
     "#fff9ec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ride the Current": {
    "dark": true,
@@ -17462,7 +18063,8 @@
     "#f5fcff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rippedcasts": {
    "dark": true,
@@ -17491,7 +18093,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Rose Pine": {
    "dark": true,
@@ -17520,7 +18123,8 @@
     "#e0def4"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Rose Pine Dawn": {
    "dark": false,
@@ -17549,7 +18153,8 @@
     "#575279"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Rose Pine Moon": {
    "dark": true,
@@ -17578,7 +18183,8 @@
     "#e0def4"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Rouge 2": {
    "dark": true,
@@ -17607,7 +18213,8 @@
     "#e8e8ea"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Royal": {
    "dark": true,
@@ -17636,7 +18243,8 @@
     "#9e8cbd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Royal Rhapsody": {
    "dark": false,
@@ -17665,7 +18273,8 @@
     "#24222f"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ryuuko": {
    "dark": true,
@@ -17694,7 +18303,8 @@
     "#ececec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Safety Glass": {
    "dark": false,
@@ -17723,7 +18333,8 @@
     "#414f4e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Saguaro": {
    "dark": true,
@@ -17752,7 +18363,8 @@
     "#fff9ea"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sakura": {
    "dark": true,
@@ -17781,7 +18393,8 @@
     "#cbb6ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Salem": {
    "dark": true,
@@ -17810,7 +18423,8 @@
     "#fff4da"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sandstone Classic": {
    "dark": false,
@@ -17839,7 +18453,8 @@
     "#fdf6e3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sandstone Ink": {
    "dark": false,
@@ -17868,7 +18483,8 @@
     "#fdf6e3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sandstone Warm": {
    "dark": false,
@@ -17897,7 +18513,8 @@
     "#fdf6e3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sauber": {
    "dark": false,
@@ -17926,7 +18543,8 @@
     "#a4801c"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Scabos Sand": {
    "dark": true,
@@ -17955,7 +18573,8 @@
     "#fffbed"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Scarlet Protocol": {
    "dark": true,
@@ -17984,7 +18603,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sea Shells": {
    "dark": true,
@@ -18013,7 +18633,8 @@
     "#fee4ce"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Seafoam Pastel": {
    "dark": true,
@@ -18042,7 +18663,8 @@
     "#e0e0e0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Seance": {
    "dark": true,
@@ -18071,7 +18693,8 @@
     "#fffaf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sedona": {
    "dark": true,
@@ -18100,7 +18723,8 @@
     "#fff9ed"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Abyss": {
    "dark": true,
@@ -18129,7 +18753,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Amethyst": {
    "dark": false,
@@ -18158,7 +18783,8 @@
     "#1a0a2e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Canopy": {
    "dark": true,
@@ -18187,7 +18813,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Carbon": {
    "dark": false,
@@ -18216,7 +18843,8 @@
     "#000000"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Coral": {
    "dark": false,
@@ -18245,7 +18873,8 @@
     "#1d1d1d"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Ember": {
    "dark": true,
@@ -18274,7 +18903,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Glacier": {
    "dark": false,
@@ -18303,7 +18933,8 @@
     "#0f172a"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Inkwell": {
    "dark": true,
@@ -18332,7 +18963,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Ivory": {
    "dark": false,
@@ -18361,7 +18993,8 @@
     "#0a2540"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Nightfall": {
    "dark": true,
@@ -18390,7 +19023,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Phosphor": {
    "dark": true,
@@ -18419,7 +19053,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Pulse": {
    "dark": true,
@@ -18448,7 +19083,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Ultraviolet": {
    "dark": true,
@@ -18477,7 +19113,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Voltage": {
    "dark": true,
@@ -18506,7 +19143,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SeedFlip Wavelength": {
    "dark": true,
@@ -18535,7 +19173,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Selenized Black": {
    "dark": true,
@@ -18564,7 +19203,8 @@
     "#dedede"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Selenized Dark": {
    "dark": true,
@@ -18593,7 +19233,8 @@
     "#cad8d9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Selenized Light": {
    "dark": false,
@@ -18622,7 +19263,8 @@
     "#3a4d53"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Seoulbones Dark": {
    "dark": true,
@@ -18651,7 +19293,8 @@
     "#a8a8a8"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Seoulbones Light": {
    "dark": false,
@@ -18680,7 +19323,8 @@
     "#777777"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sequoia Monochrome Dark": {
    "dark": true,
@@ -18709,7 +19353,8 @@
     "#868690"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sequoia Monochrome Light": {
    "dark": false,
@@ -18738,7 +19383,8 @@
     "#282930"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sequoia Moonlight Dark": {
    "dark": true,
@@ -18767,7 +19413,8 @@
     "#868690"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sequoia Moonlight Light": {
    "dark": false,
@@ -18796,7 +19443,8 @@
     "#282930"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sequoia Retro Dark": {
    "dark": true,
@@ -18825,7 +19473,8 @@
     "#868690"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sequoia Retro Light": {
    "dark": false,
@@ -18854,7 +19503,8 @@
     "#282930"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Serendipity Midnight": {
    "dark": true,
@@ -18883,7 +19533,8 @@
     "#dee0ef"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Serendipity Morning": {
    "dark": false,
@@ -18912,7 +19563,8 @@
     "#3f4363"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Serendipity Sunset": {
    "dark": true,
@@ -18941,7 +19593,8 @@
     "#dee0ef"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Seti": {
    "dark": true,
@@ -18970,7 +19623,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Shades Of Purple": {
    "dark": true,
@@ -18999,7 +19653,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Shaman": {
    "dark": true,
@@ -19028,7 +19683,8 @@
     "#58fbd6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Shokunin": {
    "dark": false,
@@ -19057,7 +19713,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sierra Gold": {
    "dark": true,
@@ -19086,7 +19743,8 @@
     "#fff5df"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Signal Ghost": {
    "dark": true,
@@ -19115,7 +19773,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Silent Empire": {
    "dark": true,
@@ -19144,7 +19803,8 @@
     "#fff9ee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SilkCircuit Dawn": {
    "dark": false,
@@ -19173,7 +19833,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SilkCircuit Glow": {
    "dark": true,
@@ -19202,7 +19863,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SilkCircuit Neon": {
    "dark": true,
@@ -19231,7 +19893,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SilkCircuit Soft": {
    "dark": true,
@@ -19260,7 +19923,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SilkCircuit Vibrant": {
    "dark": true,
@@ -19289,7 +19953,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Slate": {
    "dark": true,
@@ -19318,7 +19983,8 @@
     "#e0e0e0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sleepy Hollow": {
    "dark": true,
@@ -19347,7 +20013,8 @@
     "#d2c7a9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "SLOMP": {
    "dark": true,
@@ -19376,7 +20043,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Smoke on the Terminal": {
    "dark": true,
@@ -19405,7 +20073,8 @@
     "#f7edf6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Smyck": {
    "dark": true,
@@ -19434,7 +20103,8 @@
     "#f7f7f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Snazzy": {
    "dark": true,
@@ -19463,7 +20133,8 @@
     "#ededec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Snazzy Soft": {
    "dark": true,
@@ -19492,7 +20163,8 @@
     "#f1f1f0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Soft Server": {
    "dark": true,
@@ -19521,7 +20193,8 @@
     "#d2e0de"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Solar Flare": {
    "dark": false,
@@ -19550,7 +20223,8 @@
     "#46443e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Solarized Darcula": {
    "dark": true,
@@ -19579,7 +20253,8 @@
     "#d2d8d9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Solarized Dark Higher Contrast": {
    "dark": true,
@@ -19608,7 +20283,8 @@
     "#fcf4dc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Solarized Dark Patched": {
    "dark": true,
@@ -19637,7 +20313,8 @@
     "#fcf4dc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Solarized Osaka Night": {
    "dark": true,
@@ -19666,7 +20343,8 @@
     "#c0caf5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sonokai": {
    "dark": true,
@@ -19695,7 +20373,8 @@
     "#e2e2e3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sonoran Dusk": {
    "dark": true,
@@ -19724,7 +20403,8 @@
     "#fff1d6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Spacedust": {
    "dark": true,
@@ -19753,7 +20433,8 @@
     "#fefff1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Spacegray": {
    "dark": true,
@@ -19782,7 +20463,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Spacegray Bright": {
    "dark": true,
@@ -19811,7 +20493,8 @@
     "#f7f7f7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Spacegray Eighties": {
    "dark": true,
@@ -19840,7 +20523,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Spacegray Eighties Dull": {
    "dark": true,
@@ -19869,7 +20553,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Spiderman": {
    "dark": true,
@@ -19898,7 +20583,8 @@
     "#fffff9"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Spring": {
    "dark": false,
@@ -19927,7 +20613,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Springfield Resident": {
    "dark": false,
@@ -19956,7 +20643,8 @@
     "#4a4d52"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Springfield Resident Hight Contrast": {
    "dark": false,
@@ -19985,7 +20673,8 @@
     "#303742"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Square": {
    "dark": true,
@@ -20014,7 +20703,8 @@
     "#e2e2e2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Squintless": {
    "dark": false,
@@ -20043,7 +20733,8 @@
     "#3c3836"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Squirrelsong Dark": {
    "dark": true,
@@ -20072,7 +20763,8 @@
     "#f2d4bb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Srcery": {
    "dark": true,
@@ -20101,7 +20793,8 @@
     "#fce8c3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Stairway Skies": {
    "dark": true,
@@ -20130,7 +20823,8 @@
     "#fff9ee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Stardust Voltage": {
    "dark": false,
@@ -20159,7 +20853,8 @@
     "#1f2a3e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Starlight": {
    "dark": true,
@@ -20188,7 +20883,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Static Memory": {
    "dark": false,
@@ -20217,7 +20913,8 @@
     "#464c4b"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sublette": {
    "dark": true,
@@ -20246,7 +20943,8 @@
     "#ffffee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Subliminal": {
    "dark": true,
@@ -20275,7 +20973,8 @@
     "#d4d4d4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sugarplum": {
    "dark": true,
@@ -20304,7 +21003,8 @@
     "#b577fd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sumi Linen": {
    "dark": false,
@@ -20333,7 +21033,8 @@
     "#14100c"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sumi Phosphor": {
    "dark": true,
@@ -20362,7 +21063,8 @@
     "#e0dcd4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sun Bleached": {
    "dark": false,
@@ -20391,7 +21093,8 @@
     "#302925"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sundried": {
    "dark": true,
@@ -20420,7 +21123,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sunset Copper Relay": {
    "dark": true,
@@ -20449,7 +21153,8 @@
     "#fff3e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sunset Drive": {
    "dark": true,
@@ -20478,7 +21183,8 @@
     "#f8f8ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sunset Strip": {
    "dark": true,
@@ -20507,7 +21213,8 @@
     "#fdede4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Sweet Emotion": {
    "dark": true,
@@ -20536,7 +21243,8 @@
     "#fff9ee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Symfonic": {
    "dark": true,
@@ -20565,7 +21273,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Syncopation": {
    "dark": true,
@@ -20594,7 +21303,8 @@
     "#f0f2ec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Synthwave": {
    "dark": true,
@@ -20623,7 +21333,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Synthwave Alpha": {
    "dark": true,
@@ -20652,7 +21363,8 @@
     "#f2f2e3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Synthwave Everything": {
    "dark": true,
@@ -20681,7 +21393,8 @@
     "#fefefe"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Tailwind Dark": {
    "dark": true,
@@ -20710,7 +21423,8 @@
     "#f5f5f5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Tailwind Light": {
    "dark": false,
@@ -20739,7 +21453,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Tango Adapted": {
    "dark": false,
@@ -20768,7 +21483,8 @@
     "#f6f6f4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Tango Half Adapted": {
    "dark": false,
@@ -20797,7 +21513,8 @@
     "#f4f4f2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Tearout": {
    "dark": true,
@@ -20826,7 +21543,8 @@
     "#b5955e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Teerb": {
    "dark": true,
@@ -20855,7 +21573,8 @@
     "#efefef"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Terafox": {
    "dark": true,
@@ -20884,7 +21603,8 @@
     "#eeeeee"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Terminal Basic": {
    "dark": false,
@@ -20913,7 +21633,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Terminal Basic Dark": {
    "dark": true,
@@ -20942,7 +21663,8 @@
     "#ededed"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Terminal Green 1999": {
    "dark": true,
@@ -20971,7 +21693,8 @@
     "#d8ffe6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Thayer Bright": {
    "dark": true,
@@ -21000,7 +21723,8 @@
     "#f8f8f2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "The Fog": {
    "dark": true,
@@ -21029,7 +21753,8 @@
     "#f0f5f4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "The Hulk": {
    "dark": true,
@@ -21058,7 +21783,8 @@
     "#e5e6e1"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Thermal Receipt": {
    "dark": false,
@@ -21087,7 +21813,8 @@
     "#414141"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Thirteen": {
    "dark": true,
@@ -21116,7 +21843,8 @@
     "#fff8eb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Tinacious Design Dark": {
    "dark": true,
@@ -21145,7 +21873,8 @@
     "#d5d6f3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Tinacious Design Light": {
    "dark": false,
@@ -21174,7 +21903,8 @@
     "#d5d6f3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Token Dark": {
    "dark": true,
@@ -21203,7 +21933,8 @@
     "#e8e4dc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Token Light": {
    "dark": false,
@@ -21232,7 +21963,8 @@
     "#faf9f5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "TokyoNight": {
    "dark": true,
@@ -21261,7 +21993,8 @@
     "#c0caf5"
    ],
    "licence": "Apache-2.0",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "TokyoNight Day": {
    "dark": false,
@@ -21290,7 +22023,8 @@
     "#3760bf"
    ],
    "licence": "Apache-2.0",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "TokyoNight Moon": {
    "dark": true,
@@ -21319,7 +22053,8 @@
     "#c8d3f5"
    ],
    "licence": "Apache-2.0",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "TokyoNight Night": {
    "dark": true,
@@ -21348,7 +22083,8 @@
     "#c0caf5"
    ],
    "licence": "Apache-2.0",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "TokyoNight Storm": {
    "dark": true,
@@ -21377,7 +22113,8 @@
     "#c0caf5"
    ],
    "licence": "Apache-2.0",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Tomorrow": {
    "dark": false,
@@ -21406,7 +22143,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Tomorrow Night": {
    "dark": true,
@@ -21435,7 +22173,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": true
   },
   "Tomorrow Night Blue": {
    "dark": true,
@@ -21464,7 +22203,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Tomorrow Night Bright": {
    "dark": true,
@@ -21493,7 +22233,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Tomorrow Night Burns": {
    "dark": true,
@@ -21522,7 +22263,8 @@
     "#f5f5f5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Tomorrow Night Eighties": {
    "dark": true,
@@ -21551,7 +22293,8 @@
     "#ffffff"
    ],
    "licence": "MIT",
-   "default": true
+   "default": true,
+   "featured": false
   },
   "Toy Chest": {
    "dark": true,
@@ -21580,7 +22323,8 @@
     "#d5d5d5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "traffic": {
    "dark": true,
@@ -21609,7 +22353,8 @@
     "#ddcec2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Trapped in Amber": {
    "dark": true,
@@ -21638,7 +22383,8 @@
     "#fff5e0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Treehouse": {
    "dark": true,
@@ -21667,7 +22413,8 @@
     "#ffc800"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Trick or Treat": {
    "dark": true,
@@ -21696,7 +22443,8 @@
     "#fffaf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Tumbling Stones": {
    "dark": true,
@@ -21725,7 +22473,8 @@
     "#fff8f0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Turquoise Trail": {
    "dark": true,
@@ -21754,7 +22503,8 @@
     "#fffaf0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Twilight": {
    "dark": true,
@@ -21783,7 +22533,8 @@
     "#ffffd4"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ubuntu": {
    "dark": true,
@@ -21812,7 +22563,8 @@
     "#eeeeec"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ultra Dark": {
    "dark": true,
@@ -21841,7 +22593,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Ultra Violent": {
    "dark": true,
@@ -21870,7 +22623,8 @@
     "#f9f9f5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Unalive 'Em All": {
    "dark": true,
@@ -21899,7 +22653,8 @@
     "#fff5ed"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Undead": {
    "dark": true,
@@ -21928,7 +22683,8 @@
     "#fff8e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Under The Sea": {
    "dark": true,
@@ -21957,7 +22713,8 @@
     "#58fbd6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Unikitty": {
    "dark": false,
@@ -21986,7 +22743,8 @@
     "#fff3fe"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "urban": {
    "dark": true,
@@ -22015,7 +22773,8 @@
     "#c0a79a"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Urple": {
    "dark": true,
@@ -22044,7 +22803,8 @@
     "#bfa3ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Vacuum Tube": {
    "dark": true,
@@ -22073,7 +22833,8 @@
     "#fffaf2"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Vague": {
    "dark": true,
@@ -22102,7 +22863,8 @@
     "#d7d7d7"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Vaporwave Sunset": {
    "dark": true,
@@ -22131,7 +22893,8 @@
     "#fff7ed"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Vaughn": {
    "dark": true,
@@ -22160,7 +22923,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Velvet Court": {
    "dark": true,
@@ -22189,7 +22953,8 @@
     "#f2dcea"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Vercel": {
    "dark": true,
@@ -22218,7 +22983,8 @@
     "#fefefe"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Verdigris": {
    "dark": true,
@@ -22247,7 +23013,8 @@
     "#e8dcc6"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Vesper": {
    "dark": true,
@@ -22276,7 +23043,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Vibrant Ink": {
    "dark": true,
@@ -22305,7 +23073,8 @@
     "#e5e5e5"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Vimbones": {
    "dark": false,
@@ -22334,7 +23103,8 @@
     "#5c5c5c"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Violet Dark": {
    "dark": true,
@@ -22363,7 +23133,8 @@
     "#c9c6bd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Violet Light": {
    "dark": false,
@@ -22392,7 +23163,8 @@
     "#c9c6bd"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Violite": {
    "dark": true,
@@ -22421,7 +23193,8 @@
     "#f8fafc"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Warm Burnout Dark": {
    "dark": true,
@@ -22450,7 +23223,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Warm Burnout Light": {
    "dark": false,
@@ -22479,7 +23253,8 @@
     "#faf6f0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Warm Neon": {
    "dark": true,
@@ -22508,7 +23283,8 @@
     "#d8c8bb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Wez": {
    "dark": true,
@@ -22537,7 +23313,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Whimsy": {
    "dark": true,
@@ -22566,7 +23343,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "White Sands": {
    "dark": false,
@@ -22595,7 +23373,8 @@
     "#1f2c3c"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Wild Cherry": {
    "dark": true,
@@ -22624,7 +23403,8 @@
     "#e4838d"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Willow Grove": {
    "dark": false,
@@ -22653,7 +23433,8 @@
     "#454a42"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Wilmersdorf": {
    "dark": true,
@@ -22682,7 +23463,8 @@
     "#d3d3d3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Witches' Brew": {
    "dark": true,
@@ -22711,7 +23493,8 @@
     "#fbfff3"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Witching Hour": {
    "dark": true,
@@ -22740,7 +23523,8 @@
     "#fffaff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Wombat": {
    "dark": true,
@@ -22769,7 +23553,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Wryan": {
    "dark": true,
@@ -22798,7 +23583,8 @@
     "#c0c0c0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X": {
    "dark": true,
@@ -22827,7 +23613,8 @@
     "#f7f1ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Berlin": {
    "dark": true,
@@ -22856,7 +23643,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Bogota": {
    "dark": true,
@@ -22885,7 +23673,8 @@
     "#f7f1ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Helsinki": {
    "dark": false,
@@ -22914,7 +23703,8 @@
     "#000000"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Lahabana": {
    "dark": true,
@@ -22943,7 +23733,8 @@
     "#f7f1ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X London": {
    "dark": false,
@@ -22972,7 +23763,8 @@
     "#aaaaaa"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Madrid": {
    "dark": false,
@@ -23001,7 +23793,8 @@
     "#1a1a1a"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Miami": {
    "dark": true,
@@ -23030,7 +23823,8 @@
     "#f7f1ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Oslo": {
    "dark": true,
@@ -23059,7 +23853,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Paris": {
    "dark": true,
@@ -23088,7 +23883,8 @@
     "#f7f1ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Praha": {
    "dark": true,
@@ -23117,7 +23913,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "X Tokio": {
    "dark": true,
@@ -23146,7 +23943,8 @@
     "#f7f1ff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Xcode Dark": {
    "dark": true,
@@ -23175,7 +23973,8 @@
     "#dfdfe0"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Xcode Dark hc": {
    "dark": true,
@@ -23204,7 +24003,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Xcode Light": {
    "dark": false,
@@ -23233,7 +24033,8 @@
     "#262626"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Xcode Light hc": {
    "dark": false,
@@ -23262,7 +24063,8 @@
     "#000000"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Xcode WWDC": {
    "dark": true,
@@ -23291,7 +24093,8 @@
     "#e7e8eb"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Y2K Chrome": {
    "dark": false,
@@ -23320,7 +24123,8 @@
     "#0f172a"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Yngwie's Strat": {
    "dark": false,
@@ -23349,7 +24153,8 @@
     "#272522"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zacess Cream": {
    "dark": false,
@@ -23378,7 +24183,8 @@
     "#000000"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zacess Dark": {
    "dark": true,
@@ -23407,7 +24213,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zacess Light": {
    "dark": false,
@@ -23436,7 +24243,8 @@
     "#111111"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zacess Yellow on Black": {
    "dark": true,
@@ -23465,7 +24273,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zenbones": {
    "dark": false,
@@ -23494,7 +24303,8 @@
     "#4f5e68"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zenbones Dark": {
    "dark": true,
@@ -23523,7 +24333,8 @@
     "#888f94"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zenbones Light": {
    "dark": false,
@@ -23552,7 +24363,8 @@
     "#4f5e68"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zenburn": {
    "dark": true,
@@ -23581,7 +24393,8 @@
     "#ffffff"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zenburned": {
    "dark": true,
@@ -23610,7 +24423,8 @@
     "#c0ab86"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zenwritten Dark": {
    "dark": true,
@@ -23639,7 +24453,8 @@
     "#8e8e8e"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   },
   "Zenwritten Light": {
    "dark": false,
@@ -23668,7 +24483,8 @@
     "#5c5c5c"
    ],
    "licence": "unstated",
-   "default": false
+   "default": false,
+   "featured": false
   }
  },
  "aliases": {},

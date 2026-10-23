@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The IRIX Console and IRIX Terminal themes were created, based on screenshots from [CompuHacker/](https://www.reddit.com/user/CompuHacker/) on [Reddit](https://www.reddit.com/r/IRIX/comments/1iohgt4/any_irix_user_able_to_help) by [Skeeve](https://github.com/Skeeve). [IRIX](https://en.wikipedia.org/wiki/IRIX) was the operating system of Silicon Graphics Computers.
 - Made from: [iTerm2-Color-Schemes, ghostty/IRIX Console](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/IRIX%20Console)
 

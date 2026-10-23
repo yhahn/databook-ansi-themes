@@ -12,6 +12,7 @@
 - Licence: unstated
 - Licence from:
 - Default: no
+- Featured: no
 - Credit: The Charcoal theme was created by [Vyom Jain](https://github.com/VyomJain6904). A deep-black grayscale theme (also available for bat and OpenCode at [charcoal-theme](https://github.com/VyomJain6904/charcoal-theme)).
 - Made from: [iTerm2-Color-Schemes, ghostty/Charcoal](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/c379d7a31af861838a017468b03120c8970eaa00/ghostty/Charcoal)
 
